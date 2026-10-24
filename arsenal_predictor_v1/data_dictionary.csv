@@ -1,0 +1,43 @@
+column,role,description
+home_goals_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_goals_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_shots_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_shots_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_sot_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_sot_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_corners_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_points_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_goals_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_goals_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_shots_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_shots_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_sot_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_sot_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_corners_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_points_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_goals_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_goals_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_shots_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_shots_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_sot_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_sot_against_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_corners_for_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_points_mean5,predictor,Mean over the most recent 5 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_goals_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_goals_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_shots_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_shots_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_sot_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_sot_against_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_corners_for_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+away_points_mean10,predictor,Mean over the most recent 10 EPL fixtures within 365 days; requires at least 5 nonmissing measurements. Strictly earlier dates only.
+home_prior_matches_365d_capped10,predictor,"Count of previous EPL matches within 365 days, capped at 10; not all-competition appearances."
+home_days_since_previous_epl,predictor,Calendar days since previous observed EPL match; NOT actual rest since all competitions.
+home_elo,predictor,"Pre-match EPL Elo, initialized/reset at 1500; K=20, home advantage 60, annual retention .75; reset after >365-day absence."
+away_prior_matches_365d_capped10,predictor,"Count of previous EPL matches within 365 days, capped at 10; not all-competition appearances."
+away_days_since_previous_epl,predictor,Calendar days since previous observed EPL match; NOT actual rest since all competitions.
+away_elo,predictor,"Pre-match EPL Elo, initialized/reset at 1500; K=20, home advantage 60, annual retention .75; reset after >365-day absence."
+elo_home_minus_away,predictor,Home pre-match Elo minus away pre-match Elo.
+target_result,target_never_input,"H=home win, D=draw, A=away win; classification target"
+target_home_goals,target_never_input,Home full-time goals; regression/count target
+target_away_goals,target_never_input,Away full-time goals; regression/count target

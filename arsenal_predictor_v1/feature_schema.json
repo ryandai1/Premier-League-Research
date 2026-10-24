@@ -1,0 +1,82 @@
+{
+  "unit": "one unique EPL match; home/away orientation",
+  "features": [
+    "home_goals_for_mean5",
+    "home_goals_against_mean5",
+    "home_shots_for_mean5",
+    "home_shots_against_mean5",
+    "home_sot_for_mean5",
+    "home_sot_against_mean5",
+    "home_corners_for_mean5",
+    "home_points_mean5",
+    "home_goals_for_mean10",
+    "home_goals_against_mean10",
+    "home_shots_for_mean10",
+    "home_shots_against_mean10",
+    "home_sot_for_mean10",
+    "home_sot_against_mean10",
+    "home_corners_for_mean10",
+    "home_points_mean10",
+    "away_goals_for_mean5",
+    "away_goals_against_mean5",
+    "away_shots_for_mean5",
+    "away_shots_against_mean5",
+    "away_sot_for_mean5",
+    "away_sot_against_mean5",
+    "away_corners_for_mean5",
+    "away_points_mean5",
+    "away_goals_for_mean10",
+    "away_goals_against_mean10",
+    "away_shots_for_mean10",
+    "away_shots_against_mean10",
+    "away_sot_for_mean10",
+    "away_sot_against_mean10",
+    "away_corners_for_mean10",
+    "away_points_mean10",
+    "home_prior_matches_365d_capped10",
+    "home_days_since_previous_epl",
+    "home_elo",
+    "away_prior_matches_365d_capped10",
+    "away_days_since_previous_epl",
+    "away_elo",
+    "elo_home_minus_away"
+  ],
+  "optional_xg_features": [
+    "home_xg_for_mean5",
+    "home_xg_for_mean10",
+    "home_xg_against_mean5",
+    "home_xg_against_mean10",
+    "away_xg_for_mean5",
+    "away_xg_for_mean10",
+    "away_xg_against_mean5",
+    "away_xg_against_mean10"
+  ],
+  "targets": [
+    "target_result",
+    "target_home_goals",
+    "target_away_goals"
+  ],
+  "class_labels": {
+    "H": "home win",
+    "D": "draw",
+    "A": "away win"
+  },
+  "metadata": [
+    "match_id",
+    "date",
+    "season_start",
+    "home_team",
+    "away_team",
+    "split"
+  ],
+  "prediction_cutoff": "start of match date; only strictly earlier dates enter histories",
+  "core_ready": "all 39 default numeric features observed; both sides require at least 5 recent EPL matches and >=5 valid values per metric window",
+  "xg_note": "Optional only; never zero-impute unavailable historical xG. Provider continuity not established.",
+  "time_split": {
+    "train": "2000/01\u20132021/22",
+    "validation": "2022/23\u20132023/24",
+    "test": "2024/25\u20132025/26"
+  },
+  "numeric_missing_policy": "X split files have no missing values; excluded fixtures retained in prematch_all.csv",
+  "model_input_warning": "Select only features in this allowlist. Neither metadata nor current-match targets/observations are predictors."
+}

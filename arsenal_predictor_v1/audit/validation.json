@@ -1,0 +1,23 @@
+{
+  "passed": true,
+  "checks": [
+    "snapshot checksums verified during build",
+    "one unique fixture per season/home/away",
+    "380 fixtures and 38 matches per club per season",
+    "goals agree with result labels",
+    "3800 overlapping fixtures reconciled without duplication",
+    "3 seasons checked against football-data dates/results/core statistics",
+    "39 finite numeric inputs aligned with targets and metadata",
+    "chronological nonoverlapping train/validation/test",
+    "changing current/future outcomes leaves earlier and same-day features unchanged",
+    "prefix reconstruction matches full-history feature computation",
+    "logistic training and validation probabilities execute successfully"
+  ],
+  "smoke_check": {
+    "validation_rows": 730,
+    "fixed_logistic_validation_log_loss": 0.9491723774958971,
+    "training_class_prior_validation_log_loss": 1.052536543627562,
+    "scope": "Compatibility smoke check only; no hyperparameter search; no claim of optimal model; no test predictions generated",
+    "test_scored": false
+  }
+}

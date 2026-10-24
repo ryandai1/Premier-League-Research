@@ -1,0 +1,731 @@
+match_id,date,season_start,home_team,away_team,split
+d4a2973d0badd99e,2022-08-05,2022,Crystal Palace,Arsenal,validation
+2184d109a4728f0e,2022-08-06,2022,Leeds,Wolves,validation
+6b21fd31ad99990b,2022-08-06,2022,Tottenham,Southampton,validation
+b3dc8f5ee6f4fcac,2022-08-06,2022,Everton,Chelsea,validation
+3a6ed9461ff662b7,2022-08-07,2022,Leicester,Brentford,validation
+3e9eb0d74292e0b9,2022-08-07,2022,West Ham,Manchester City,validation
+db7fbc3c77ecb3a6,2022-08-07,2022,Manchester United,Brighton,validation
+41abd06c4911a2a6,2022-08-13,2022,Aston Villa,Everton,validation
+456ace53f6401d94,2022-08-13,2022,Arsenal,Leicester,validation
+6d2c566bee665615,2022-08-13,2022,Southampton,Leeds,validation
+c666341416f672b2,2022-08-13,2022,Brentford,Manchester United,validation
+eb96ac11363a177c,2022-08-13,2022,Brighton,Newcastle,validation
+3254f66fb9117e9f,2022-08-14,2022,Chelsea,Tottenham,validation
+233fed73b8bc26b8,2022-08-15,2022,Liverpool,Crystal Palace,validation
+3a11edb8f1fcf47d,2022-08-20,2022,Leicester,Southampton,validation
+98931b37c93aa0e7,2022-08-20,2022,Crystal Palace,Aston Villa,validation
+e053beda673b0d02,2022-08-20,2022,Tottenham,Wolves,validation
+09c82618e6a37d2f,2022-08-21,2022,Newcastle,Manchester City,validation
+2a1affffa6086610,2022-08-21,2022,West Ham,Brighton,validation
+a18249e0b25056c6,2022-08-21,2022,Leeds,Chelsea,validation
+a79f963faa934117,2022-08-22,2022,Manchester United,Liverpool,validation
+3b9bb5c6a2dbce17,2022-08-27,2022,Southampton,Manchester United,validation
+68ba7963ca1b047d,2022-08-27,2022,Brighton,Leeds,validation
+9314eec670d5f67f,2022-08-27,2022,Chelsea,Leicester,validation
+cc046af55362941c,2022-08-27,2022,Manchester City,Crystal Palace,validation
+e64d8bb4ba99906a,2022-08-27,2022,Brentford,Everton,validation
+685d0d8b96b62ca7,2022-08-28,2022,Wolves,Newcastle,validation
+707dfec6d2ca44fc,2022-08-28,2022,Aston Villa,West Ham,validation
+7dcc75f521d25b57,2022-08-30,2022,Crystal Palace,Brentford,validation
+7e1c352be3bf30c1,2022-08-30,2022,Leeds,Everton,validation
+aeae1f8060a52cd4,2022-08-30,2022,Southampton,Chelsea,validation
+1b73d85eb9432fef,2022-08-31,2022,Liverpool,Newcastle,validation
+4c91789407289f06,2022-08-31,2022,Arsenal,Aston Villa,validation
+79537b73c22ba2a8,2022-08-31,2022,West Ham,Tottenham,validation
+a6dfa91ffdeb5219,2022-09-01,2022,Leicester,Manchester United,validation
+1b8d2963f6bf5c87,2022-09-03,2022,Nottingham Forest,Bournemouth,validation
+54bea6289343e6db,2022-09-03,2022,Newcastle,Crystal Palace,validation
+6424deb69f6a279a,2022-09-03,2022,Brentford,Leeds,validation
+b6c6091cbaf06269,2022-09-03,2022,Tottenham,Fulham,validation
+b6ce1ac9314658cd,2022-09-03,2022,Wolves,Southampton,validation
+e1928b4188feac24,2022-09-03,2022,Everton,Liverpool,validation
+eb7b44702f54a886,2022-09-03,2022,Aston Villa,Manchester City,validation
+fc6503e69ac4009f,2022-09-03,2022,Chelsea,West Ham,validation
+13ae8503b913db37,2022-09-04,2022,Brighton,Leicester,validation
+b2a7e7ffc7937ff0,2022-09-04,2022,Manchester United,Arsenal,validation
+548b4376c3f379a5,2022-09-16,2022,Aston Villa,Southampton,validation
+7341264b058e1aa0,2022-09-16,2022,Nottingham Forest,Fulham,validation
+0a3cd958ff4eae2f,2022-09-17,2022,Wolves,Manchester City,validation
+387369ca1c67e49d,2022-09-17,2022,Newcastle,Bournemouth,validation
+9cd890257b2fd92d,2022-09-17,2022,Tottenham,Leicester,validation
+3c142e247b6c1544,2022-09-18,2022,Everton,West Ham,validation
+d0beab627b08b945,2022-09-18,2022,Brentford,Arsenal,validation
+293bcc032758f185,2022-10-01,2022,Crystal Palace,Chelsea,validation
+3cc6bfc7e2ceff1c,2022-10-01,2022,Liverpool,Brighton,validation
+5138ba3638224e1a,2022-10-01,2022,Fulham,Newcastle,validation
+60a4cd5b489e4295,2022-10-01,2022,Arsenal,Tottenham,validation
+6d8e62293448272f,2022-10-01,2022,Southampton,Everton,validation
+6f5afafa85731961,2022-10-01,2022,West Ham,Wolves,validation
+fd5fbe6cb5908765,2022-10-01,2022,Bournemouth,Brentford,validation
+51705065beb3110c,2022-10-02,2022,Leeds,Aston Villa,validation
+93c92f3613bef48f,2022-10-02,2022,Manchester City,Manchester United,validation
+999a45a5c6ad6c11,2022-10-03,2022,Leicester,Nottingham Forest,validation
+5d6d078f4c1a2962,2022-10-08,2022,Manchester City,Southampton,validation
+6a3cfb4e7e80b211,2022-10-08,2022,Newcastle,Brentford,validation
+b36cefd6763af252,2022-10-08,2022,Chelsea,Wolves,validation
+cbcfed36aa9927f4,2022-10-08,2022,Brighton,Tottenham,validation
+df6165ceb5fdcb46,2022-10-08,2022,Bournemouth,Leicester,validation
+61c0cbb51c6150e5,2022-10-09,2022,Arsenal,Liverpool,validation
+9e689d2add2f9236,2022-10-09,2022,Crystal Palace,Leeds,validation
+d84dce0ebac67dfb,2022-10-09,2022,Everton,Manchester United,validation
+d8a07c1659951c77,2022-10-09,2022,West Ham,Fulham,validation
+e02e30b15cc617e2,2022-10-10,2022,Nottingham Forest,Aston Villa,validation
+35c13018434c9f5d,2022-10-14,2022,Brentford,Brighton,validation
+01969142d79cd11d,2022-10-15,2022,Wolves,Nottingham Forest,validation
+82c310d395b12cfb,2022-10-15,2022,Leicester,Crystal Palace,validation
+bb18f88891c12ce2,2022-10-15,2022,Fulham,Bournemouth,validation
+e7e87c3c14b08e92,2022-10-15,2022,Tottenham,Everton,validation
+5c677fc59cc7c9ab,2022-10-16,2022,Manchester United,Newcastle,validation
+71d00373200d0036,2022-10-16,2022,Southampton,West Ham,validation
+7629906e91ba9896,2022-10-16,2022,Leeds,Arsenal,validation
+94cc19637c9d7341,2022-10-16,2022,Liverpool,Manchester City,validation
+d9e58fd81edaf298,2022-10-16,2022,Aston Villa,Chelsea,validation
+690c01af3e108c43,2022-10-18,2022,Crystal Palace,Wolves,validation
+b243f8d9fa80437e,2022-10-18,2022,Brighton,Nottingham Forest,validation
+03687dcee663d5c4,2022-10-19,2022,Brentford,Chelsea,validation
+3fb3fc8258b3b18d,2022-10-19,2022,Newcastle,Everton,validation
+7062cd37031c836a,2022-10-19,2022,Liverpool,West Ham,validation
+91b82fcd9af17e0a,2022-10-19,2022,Manchester United,Tottenham,validation
+e132411d2d3e3341,2022-10-19,2022,Bournemouth,Southampton,validation
+4859fe89ef9a8f66,2022-10-20,2022,Leicester,Leeds,validation
+5bfb87273f3ea768,2022-10-20,2022,Fulham,Aston Villa,validation
+3de8b32f086aed57,2022-10-22,2022,Everton,Crystal Palace,validation
+51d61fd53193b5ad,2022-10-22,2022,Chelsea,Manchester United,validation
+b3850b60013a8f73,2022-10-22,2022,Nottingham Forest,Liverpool,validation
+c8147c9b3651a518,2022-10-22,2022,Manchester City,Brighton,validation
+152e68488727f062,2022-10-23,2022,Wolves,Leicester,validation
+332c5610f3aaad78,2022-10-23,2022,Aston Villa,Brentford,validation
+7ca66f5b4c8aa3b8,2022-10-23,2022,Tottenham,Newcastle,validation
+8d5a626cbf51d767,2022-10-23,2022,Southampton,Arsenal,validation
+9dacef787ae0a997,2022-10-23,2022,Leeds,Fulham,validation
+0a91dc6a6b790af0,2022-10-24,2022,West Ham,Bournemouth,validation
+1b701bdafc4c0241,2022-10-29,2022,Newcastle,Aston Villa,validation
+5d51dfcb5dcdd793,2022-10-29,2022,Brentford,Wolves,validation
+757a6bcb5afaac70,2022-10-29,2022,Brighton,Chelsea,validation
+8e2ce29f92fb1b36,2022-10-29,2022,Fulham,Everton,validation
+91147a2176749919,2022-10-29,2022,Bournemouth,Tottenham,validation
+b9fd8b638eeeacc6,2022-10-29,2022,Liverpool,Leeds,validation
+ec92cee24aa7e813,2022-10-29,2022,Crystal Palace,Southampton,validation
+fb6ef2e2b4c4efff,2022-10-29,2022,Leicester,Manchester City,validation
+13d9bb4640b95545,2022-10-30,2022,Arsenal,Nottingham Forest,validation
+64096b6430964224,2022-10-30,2022,Manchester United,West Ham,validation
+1ff3f5e7e87a3246,2022-11-05,2022,Leeds,Bournemouth,validation
+516c41261ca2e56e,2022-11-05,2022,Everton,Leicester,validation
+60e9e38acb04bc15,2022-11-05,2022,Nottingham Forest,Brentford,validation
+c35065e2ae0977e1,2022-11-05,2022,Manchester City,Fulham,validation
+e65fcd79cdcbf017,2022-11-05,2022,Wolves,Brighton,validation
+17e8955ef77e7c3d,2022-11-06,2022,Chelsea,Arsenal,validation
+1d108e6be6542181,2022-11-06,2022,Southampton,Newcastle,validation
+55bb4910265c89a2,2022-11-06,2022,West Ham,Crystal Palace,validation
+66d88cda72bead77,2022-11-06,2022,Tottenham,Liverpool,validation
+7351a57a74273874,2022-11-06,2022,Aston Villa,Manchester United,validation
+3b17334fcfdd2a34,2022-11-12,2022,Newcastle,Chelsea,validation
+4939bd92f5832b4f,2022-11-12,2022,Tottenham,Leeds,validation
+51d7487b053bb053,2022-11-12,2022,Nottingham Forest,Crystal Palace,validation
+6d8f1c51553871c2,2022-11-12,2022,Bournemouth,Everton,validation
+a54f70e7bf80301f,2022-11-12,2022,West Ham,Leicester,validation
+ae6f9e00c95ec7c0,2022-11-12,2022,Manchester City,Brentford,validation
+c7fd22387dab24a8,2022-11-12,2022,Wolves,Arsenal,validation
+c9e5de37d00998bd,2022-11-12,2022,Liverpool,Southampton,validation
+c0a4d3288e142591,2022-11-13,2022,Brighton,Aston Villa,validation
+f25a4933025191cd,2022-11-13,2022,Fulham,Manchester United,validation
+1585f24b4b6dbb24,2022-12-26,2022,Brentford,Tottenham,validation
+2c46f5ea056679be,2022-12-26,2022,Leicester,Newcastle,validation
+2d100eca240a9dd1,2022-12-26,2022,Everton,Wolves,validation
+2f59d0bccc1c28e6,2022-12-26,2022,Crystal Palace,Fulham,validation
+783797f2d8a8f254,2022-12-26,2022,Southampton,Brighton,validation
+ca1b9ce631043e85,2022-12-26,2022,Arsenal,West Ham,validation
+dae531241f4e21f5,2022-12-26,2022,Aston Villa,Liverpool,validation
+28b0f2891dd81557,2022-12-27,2022,Manchester United,Nottingham Forest,validation
+919ba10c472eb51c,2022-12-27,2022,Chelsea,Bournemouth,validation
+8498a12a91bfbce9,2022-12-28,2022,Leeds,Manchester City,validation
+61ad17425125f939,2022-12-30,2022,West Ham,Brentford,validation
+a853bad7982fc099,2022-12-30,2022,Liverpool,Leicester,validation
+41debd4aef34dc40,2022-12-31,2022,Bournemouth,Crystal Palace,validation
+7ba90b1edaf94067,2022-12-31,2022,Newcastle,Leeds,validation
+8287b3e535029e22,2022-12-31,2022,Manchester City,Everton,validation
+df4c4afd7d91a89f,2022-12-31,2022,Fulham,Southampton,validation
+e14bbb56ced23139,2022-12-31,2022,Brighton,Arsenal,validation
+ec21aa5d8eb23269,2022-12-31,2022,Wolves,Manchester United,validation
+02ec5761720e23d2,2023-01-01,2022,Nottingham Forest,Chelsea,validation
+b34fa36537f046c5,2023-01-01,2022,Tottenham,Aston Villa,validation
+89f5bdbce42283ad,2023-01-02,2022,Brentford,Liverpool,validation
+6908dc1614d656bb,2023-01-03,2022,Manchester United,Bournemouth,validation
+8010ff3e141d9899,2023-01-03,2022,Arsenal,Newcastle,validation
+8ba353355a428137,2023-01-03,2022,Leicester,Fulham,validation
+bcab2f93ce4f305b,2023-01-03,2022,Everton,Brighton,validation
+414993e43c5c1aa0,2023-01-04,2022,Leeds,West Ham,validation
+70b1eb552e3f0a7b,2023-01-04,2022,Southampton,Nottingham Forest,validation
+9c62d827d59b7762,2023-01-04,2022,Crystal Palace,Tottenham,validation
+fc37ee48fb1c4936,2023-01-04,2022,Aston Villa,Wolves,validation
+413d396e949e9b73,2023-01-05,2022,Chelsea,Manchester City,validation
+3a4b4e96951aabcf,2023-01-12,2022,Fulham,Chelsea,validation
+1bc3ea5d9480d4dc,2023-01-13,2022,Aston Villa,Leeds,validation
+0f6f985f513bdb13,2023-01-14,2022,Nottingham Forest,Leicester,validation
+33e60b2b925c26a3,2023-01-14,2022,Manchester United,Manchester City,validation
+3823170a6692a77b,2023-01-14,2022,Brentford,Bournemouth,validation
+7b75cccfe91054d9,2023-01-14,2022,Everton,Southampton,validation
+cfd3b206007c5a91,2023-01-14,2022,Brighton,Liverpool,validation
+fcf51df178f4ae24,2023-01-14,2022,Wolves,West Ham,validation
+209b9fbea63f53b8,2023-01-15,2022,Chelsea,Crystal Palace,validation
+b3350a6c43aaf7bf,2023-01-15,2022,Tottenham,Arsenal,validation
+fb88ac07bcdaee38,2023-01-15,2022,Newcastle,Fulham,validation
+bcec806cacf1b0bb,2023-01-18,2022,Crystal Palace,Manchester United,validation
+046a9ea4d49d8a85,2023-01-19,2022,Manchester City,Tottenham,validation
+0f1688d8de1bac0f,2023-01-21,2022,Leicester,Brighton,validation
+6a1767f647218afc,2023-01-21,2022,Liverpool,Chelsea,validation
+ae5144d1a66974b9,2023-01-21,2022,Crystal Palace,Newcastle,validation
+c657eb908d885a56,2023-01-21,2022,Bournemouth,Nottingham Forest,validation
+dc8c8978fd64746e,2023-01-21,2022,West Ham,Everton,validation
+f1c72dcc0fd59774,2023-01-21,2022,Southampton,Aston Villa,validation
+733c359e2b2181fe,2023-01-22,2022,Arsenal,Manchester United,validation
+a681b71dca6c4587,2023-01-22,2022,Manchester City,Wolves,validation
+daf4ac9c2e1f3250,2023-01-22,2022,Leeds,Brentford,validation
+7a7cc7db90a71919,2023-01-23,2022,Fulham,Tottenham,validation
+9e3518ed38845569,2023-02-03,2022,Chelsea,Fulham,validation
+02874e539be7cd41,2023-02-04,2022,Aston Villa,Leicester,validation
+57f59b14a75bd04c,2023-02-04,2022,Brighton,Bournemouth,validation
+5bef6dc8be895485,2023-02-04,2022,Brentford,Southampton,validation
+816ca9d73f4d08e9,2023-02-04,2022,Manchester United,Crystal Palace,validation
+97db88b583a61ce5,2023-02-04,2022,Wolves,Liverpool,validation
+a713d631aa8b9fd7,2023-02-04,2022,Everton,Arsenal,validation
+aefcd3caa8220373,2023-02-04,2022,Newcastle,West Ham,validation
+51e3ea8c2043a861,2023-02-05,2022,Nottingham Forest,Leeds,validation
+979b4ee1fe09a68b,2023-02-05,2022,Tottenham,Manchester City,validation
+44bb5473d58403f9,2023-02-08,2022,Manchester United,Leeds,validation
+02758a8c4817a09a,2023-02-11,2022,Arsenal,Brentford,validation
+2469bcb6cf04170e,2023-02-11,2022,Leicester,Tottenham,validation
+2c46a1f8fa4c9a3a,2023-02-11,2022,Bournemouth,Newcastle,validation
+2caabb672abb4a0c,2023-02-11,2022,Crystal Palace,Brighton,validation
+46cea62c11e77f32,2023-02-11,2022,Southampton,Wolves,validation
+4f32b4f8af764471,2023-02-11,2022,West Ham,Chelsea,validation
+564c1a3f8cf68782,2023-02-11,2022,Fulham,Nottingham Forest,validation
+7eddddfa8d746424,2023-02-12,2022,Leeds,Manchester United,validation
+dd5d8d5ee24c79a6,2023-02-12,2022,Manchester City,Aston Villa,validation
+204d86020f324d37,2023-02-13,2022,Liverpool,Everton,validation
+648b86529475db35,2023-02-15,2022,Arsenal,Manchester City,validation
+55bc1e64676cc159,2023-02-18,2022,Chelsea,Southampton,validation
+60859fdb9cc39abe,2023-02-18,2022,Newcastle,Liverpool,validation
+6ed59a7bc98fd239,2023-02-18,2022,Brighton,Fulham,validation
+768d80ecc7de7388,2023-02-18,2022,Aston Villa,Arsenal,validation
+a820de1dd485234d,2023-02-18,2022,Wolves,Bournemouth,validation
+af89e857c0fd25c1,2023-02-18,2022,Nottingham Forest,Manchester City,validation
+aff2325dde9efecc,2023-02-18,2022,Everton,Leeds,validation
+b92578fc9d49db9c,2023-02-18,2022,Brentford,Crystal Palace,validation
+66a06a8c090f6741,2023-02-19,2022,Tottenham,West Ham,validation
+da3a0a3a2837a6d5,2023-02-19,2022,Manchester United,Leicester,validation
+781d10c05b2e3d52,2023-02-24,2022,Fulham,Wolves,validation
+09986526da40522f,2023-02-25,2022,Crystal Palace,Liverpool,validation
+4b026da2ea56e967,2023-02-25,2022,Leicester,Arsenal,validation
+a34087b6f4cd1fa0,2023-02-25,2022,Leeds,Southampton,validation
+bdd8c8dfa30dce34,2023-02-25,2022,West Ham,Nottingham Forest,validation
+ee9446d6b48d5ba4,2023-02-25,2022,Bournemouth,Manchester City,validation
+fdd985314655ff90,2023-02-25,2022,Everton,Aston Villa,validation
+d2050a4e4c50de7e,2023-02-26,2022,Tottenham,Chelsea,validation
+31e8e2f951625ffe,2023-03-01,2022,Liverpool,Wolves,validation
+5c6a40594fcfba2a,2023-03-01,2022,Arsenal,Everton,validation
+19261441edc34178,2023-03-04,2022,Aston Villa,Crystal Palace,validation
+941d95b4b3231ece,2023-03-04,2022,Chelsea,Leeds,validation
+bd3c438d48b6344d,2023-03-04,2022,Brighton,West Ham,validation
+d7afd7388fc61c1a,2023-03-04,2022,Southampton,Leicester,validation
+dc7b8c419e100ee5,2023-03-04,2022,Manchester City,Newcastle,validation
+ee6fee05d7a881ae,2023-03-04,2022,Wolves,Tottenham,validation
+fbb1f68068846a32,2023-03-04,2022,Arsenal,Bournemouth,validation
+7311d745d8e76eb7,2023-03-05,2022,Liverpool,Manchester United,validation
+e966cd3cad997783,2023-03-05,2022,Nottingham Forest,Everton,validation
+6dda67e223c62025,2023-03-06,2022,Brentford,Fulham,validation
+0e5e6baebbef9e33,2023-03-11,2022,Bournemouth,Liverpool,validation
+28ca6cd924450268,2023-03-11,2022,Leeds,Brighton,validation
+523b4cc227aca394,2023-03-11,2022,Everton,Brentford,validation
+7caeae78288d2da1,2023-03-11,2022,Leicester,Chelsea,validation
+7d0915cf2aa3982f,2023-03-11,2022,Tottenham,Nottingham Forest,validation
+de22449f35cfb3af,2023-03-11,2022,Crystal Palace,Manchester City,validation
+94f64c20e039c2be,2023-03-12,2022,Manchester United,Southampton,validation
+a3bd29ae855ce560,2023-03-12,2022,West Ham,Aston Villa,validation
+d59b81bc4774baf9,2023-03-12,2022,Fulham,Arsenal,validation
+dcbd6934a1fae232,2023-03-12,2022,Newcastle,Wolves,validation
+1ffa1a47f8d099d8,2023-03-15,2022,Brighton,Crystal Palace,validation
+ad4cf9cc7d525a39,2023-03-15,2022,Southampton,Brentford,validation
+ed9de35853aa45f3,2023-03-17,2022,Nottingham Forest,Newcastle,validation
+0d5cd7b879eb4407,2023-03-18,2022,Chelsea,Everton,validation
+7961c6a468305a2c,2023-03-18,2022,Wolves,Leeds,validation
+a5d9aae2dfe6b770,2023-03-18,2022,Brentford,Leicester,validation
+c203f7c094d9ef74,2023-03-18,2022,Southampton,Tottenham,validation
+c477cc9f8dd11811,2023-03-18,2022,Aston Villa,Bournemouth,validation
+fdd8d3878897eed5,2023-03-19,2022,Arsenal,Crystal Palace,validation
+075f17f6427ba79b,2023-04-01,2022,Bournemouth,Fulham,validation
+152817e7eec01628,2023-04-01,2022,Brighton,Brentford,validation
+75c87751e30570f3,2023-04-01,2022,Chelsea,Aston Villa,validation
+7b8e436a5d60ba64,2023-04-01,2022,Crystal Palace,Leicester,validation
+bbb86e0ab7ea3328,2023-04-01,2022,Arsenal,Leeds,validation
+dd03a506b0e98d07,2023-04-01,2022,Manchester City,Liverpool,validation
+f3c8b1cbc6346d85,2023-04-01,2022,Nottingham Forest,Wolves,validation
+501a97272602c04d,2023-04-02,2022,West Ham,Southampton,validation
+a0b32e9317c1d6b3,2023-04-02,2022,Newcastle,Manchester United,validation
+86b121cda536c287,2023-04-03,2022,Everton,Tottenham,validation
+498d70763882a91c,2023-04-04,2022,Bournemouth,Brighton,validation
+68067793274e8e02,2023-04-04,2022,Leicester,Aston Villa,validation
+cabf094c5357380c,2023-04-04,2022,Leeds,Nottingham Forest,validation
+f5a6669dea33ff78,2023-04-04,2022,Chelsea,Liverpool,validation
+31679ad6263e2e72,2023-04-05,2022,Manchester United,Brentford,validation
+bf2988e61e559941,2023-04-05,2022,West Ham,Newcastle,validation
+0c1c298e0604edea,2023-04-08,2022,Leicester,Bournemouth,validation
+65d5f9209d2dcdaa,2023-04-08,2022,Manchester United,Everton,validation
+6cde509043c57c77,2023-04-08,2022,Wolves,Chelsea,validation
+77435639a0b114c9,2023-04-08,2022,Tottenham,Brighton,validation
+a53ceab2718bf379,2023-04-08,2022,Southampton,Manchester City,validation
+b91861c1805f3a1a,2023-04-08,2022,Aston Villa,Nottingham Forest,validation
+e225aaf6cc186f55,2023-04-08,2022,Fulham,West Ham,validation
+fd9d5021f18dbcff,2023-04-08,2022,Brentford,Newcastle,validation
+10d025054b29f500,2023-04-09,2022,Liverpool,Arsenal,validation
+774ec3578c9fd34a,2023-04-09,2022,Leeds,Crystal Palace,validation
+2c11e43b687fc20a,2023-04-15,2022,Wolves,Brentford,validation
+3236974762258b61,2023-04-15,2022,Tottenham,Bournemouth,validation
+5f67afd2c2efaf1a,2023-04-15,2022,Manchester City,Leicester,validation
+862f754a1e7a5d7b,2023-04-15,2022,Aston Villa,Newcastle,validation
+92a9c65f3d230992,2023-04-15,2022,Everton,Fulham,validation
+c6c575f8421c4945,2023-04-15,2022,Chelsea,Brighton,validation
+e5698c82c32919c8,2023-04-15,2022,Southampton,Crystal Palace,validation
+108b2aa325c07ea6,2023-04-16,2022,Nottingham Forest,Manchester United,validation
+932ce5997c52a5b3,2023-04-16,2022,West Ham,Arsenal,validation
+2e5787ee241ed135,2023-04-17,2022,Leeds,Liverpool,validation
+f5e1cb7c889b7913,2023-04-21,2022,Arsenal,Southampton,validation
+051951cadc9ea6f5,2023-04-22,2022,Leicester,Wolves,validation
+2f3eb5e173c17624,2023-04-22,2022,Fulham,Leeds,validation
+2f8f546f5c4cee53,2023-04-22,2022,Crystal Palace,Everton,validation
+ad61a7528b440f04,2023-04-22,2022,Liverpool,Nottingham Forest,validation
+f0787e9db16faebf,2023-04-22,2022,Brentford,Aston Villa,validation
+2c9e0631b65afd23,2023-04-23,2022,Newcastle,Tottenham,validation
+e2e0749a74fcf6d0,2023-04-23,2022,Bournemouth,West Ham,validation
+0a590a13db92b440,2023-04-25,2022,Leeds,Leicester,validation
+54b2ba231c18c931,2023-04-25,2022,Wolves,Crystal Palace,validation
+f3858e8ab3db05f2,2023-04-25,2022,Aston Villa,Fulham,validation
+92d9346a7ed50932,2023-04-26,2022,Nottingham Forest,Brighton,validation
+a5079064e950d8b4,2023-04-26,2022,Manchester City,Arsenal,validation
+b62c9e0415821373,2023-04-26,2022,West Ham,Liverpool,validation
+b8e7c3708c013b20,2023-04-26,2022,Chelsea,Brentford,validation
+56207bbf7dc383fb,2023-04-27,2022,Tottenham,Manchester United,validation
+6af977e09a61505a,2023-04-27,2022,Everton,Newcastle,validation
+d3e8b5e290500cc3,2023-04-27,2022,Southampton,Bournemouth,validation
+0ea273a2542b7537,2023-04-29,2022,Brighton,Wolves,validation
+dea626e518361452,2023-04-29,2022,Crystal Palace,West Ham,validation
+eb96729e1f99a534,2023-04-29,2022,Brentford,Nottingham Forest,validation
+54fc826b98aa4759,2023-04-30,2022,Fulham,Manchester City,validation
+579c111285e5d0ab,2023-04-30,2022,Liverpool,Tottenham,validation
+7afeaf88d26390c4,2023-04-30,2022,Manchester United,Aston Villa,validation
+b6945924ef88ec08,2023-04-30,2022,Bournemouth,Leeds,validation
+fefabbb867eb2095,2023-04-30,2022,Newcastle,Southampton,validation
+2ce6398946e8a6c9,2023-05-01,2022,Leicester,Everton,validation
+85836674d8ad54cb,2023-05-02,2022,Arsenal,Chelsea,validation
+8476845569e73ed5,2023-05-03,2022,Manchester City,West Ham,validation
+ee00e30a291ffd42,2023-05-03,2022,Liverpool,Fulham,validation
+25fcf35468847cf8,2023-05-04,2022,Brighton,Manchester United,validation
+0682359156260d21,2023-05-06,2022,Manchester City,Leeds,validation
+1cd5169a56b959e8,2023-05-06,2022,Wolves,Aston Villa,validation
+7cb080cd0b45ac67,2023-05-06,2022,Tottenham,Crystal Palace,validation
+a6aea3c8d34cb220,2023-05-06,2022,Liverpool,Brentford,validation
+df23ccd7d2b49c91,2023-05-06,2022,Bournemouth,Chelsea,validation
+1f688865a92940c0,2023-05-07,2022,West Ham,Manchester United,validation
+5e74c1971bbe8ab6,2023-05-07,2022,Newcastle,Arsenal,validation
+27f02e7b4650fb7a,2023-05-08,2022,Brighton,Everton,validation
+669ef09ff7db0437,2023-05-08,2022,Fulham,Leicester,validation
+d66debe99ebb2331,2023-05-08,2022,Nottingham Forest,Southampton,validation
+0330a20c557aa82e,2023-05-13,2022,Crystal Palace,Bournemouth,validation
+257d5083c483ea12,2023-05-13,2022,Southampton,Fulham,validation
+6a14698fb472c39c,2023-05-13,2022,Leeds,Newcastle,validation
+bcc7894aa23dffbd,2023-05-13,2022,Manchester United,Wolves,validation
+c5f4942f1e6f9ccf,2023-05-13,2022,Chelsea,Nottingham Forest,validation
+f1c3aabdde08b80e,2023-05-13,2022,Aston Villa,Tottenham,validation
+6f347f9a8a858e88,2023-05-14,2022,Brentford,West Ham,validation
+8c22708071473846,2023-05-14,2022,Arsenal,Brighton,validation
+a0ce4f19d96b1330,2023-05-14,2022,Everton,Manchester City,validation
+2e7a3b26baed8b2f,2023-05-15,2022,Leicester,Liverpool,validation
+b0582467a086d471,2023-05-18,2022,Newcastle,Brighton,validation
+09a1a076da6ece8b,2023-05-20,2022,Fulham,Crystal Palace,validation
+280b92f1a24f0b6c,2023-05-20,2022,Tottenham,Brentford,validation
+747e15116fac4ab8,2023-05-20,2022,Bournemouth,Manchester United,validation
+8890774bbf3c637d,2023-05-20,2022,Nottingham Forest,Arsenal,validation
+912ece9eb389dcbf,2023-05-20,2022,Liverpool,Aston Villa,validation
+a9d3b0e292a7aa59,2023-05-20,2022,Wolves,Everton,validation
+24ae560a3710e21d,2023-05-21,2022,West Ham,Leeds,validation
+f606761c2074b1c1,2023-05-21,2022,Manchester City,Chelsea,validation
+fa6eacc57ba079d4,2023-05-21,2022,Brighton,Southampton,validation
+fa3c81edd2cf7080,2023-05-22,2022,Newcastle,Leicester,validation
+ef07db9f63db7453,2023-05-24,2022,Brighton,Manchester City,validation
+b16e109ed85f9ab6,2023-05-25,2022,Manchester United,Chelsea,validation
+1e72e15de2a0658f,2023-05-28,2022,Leicester,West Ham,validation
+944ce061398ee143,2023-05-28,2022,Manchester United,Fulham,validation
+a5377cd4cc2bcef5,2023-05-28,2022,Everton,Bournemouth,validation
+a9082f4ad781c034,2023-05-28,2022,Leeds,Tottenham,validation
+b6ca0e7ad71d0439,2023-05-28,2022,Brentford,Manchester City,validation
+c2b01040a9314ff4,2023-05-28,2022,Southampton,Liverpool,validation
+d1aac407ad8d58b5,2023-05-28,2022,Arsenal,Wolves,validation
+d2f587ec8d798386,2023-05-28,2022,Chelsea,Newcastle,validation
+d41dcfd571150f86,2023-05-28,2022,Crystal Palace,Nottingham Forest,validation
+e9a34b23bd4e5bb6,2023-05-28,2022,Aston Villa,Brighton,validation
+13f04951eb9af4b9,2023-08-12,2023,Bournemouth,West Ham,validation
+3c51926ed1885dec,2023-08-12,2023,Everton,Fulham,validation
+54433bea24fc85c5,2023-08-12,2023,Newcastle,Aston Villa,validation
+8a33fe74fdd63a3f,2023-08-12,2023,Arsenal,Nottingham Forest,validation
+d6acbc02f829777b,2023-08-13,2023,Brentford,Tottenham,validation
+ff4fdc058da974dc,2023-08-13,2023,Chelsea,Liverpool,validation
+5299b3ba96c8f898,2023-08-14,2023,Manchester United,Wolves,validation
+4247b4535f17c88c,2023-08-19,2023,Manchester City,Newcastle,validation
+618a8bbe82dd1b2a,2023-08-19,2023,Fulham,Brentford,validation
+6ea4d9ff4d984baf,2023-08-19,2023,Wolves,Brighton,validation
+70229694be8521c2,2023-08-19,2023,Liverpool,Bournemouth,validation
+f2af0e5ec40aa626,2023-08-19,2023,Tottenham,Manchester United,validation
+1a90727c78afea02,2023-08-20,2023,West Ham,Chelsea,validation
+d28dca965a775c1d,2023-08-20,2023,Aston Villa,Everton,validation
+3b2a71cb74a758ed,2023-08-21,2023,Crystal Palace,Arsenal,validation
+1ac7000a85e40fbd,2023-08-26,2023,Bournemouth,Tottenham,validation
+45acbbd8e370066a,2023-08-26,2023,Arsenal,Fulham,validation
+4cad23a39c0e9133,2023-08-26,2023,Brighton,West Ham,validation
+55233918d6f77251,2023-08-26,2023,Brentford,Crystal Palace,validation
+7fdfe3b02d0753c3,2023-08-26,2023,Manchester United,Nottingham Forest,validation
+8dc76ab0b80e28d8,2023-08-26,2023,Everton,Wolves,validation
+29d00e45c6bf3779,2023-08-27,2023,Newcastle,Liverpool,validation
+49c6142b2302cea2,2023-09-02,2023,Brighton,Newcastle,validation
+7053242b0e6de635,2023-09-02,2023,Chelsea,Nottingham Forest,validation
+8141a2d35c7fd004,2023-09-02,2023,Brentford,Bournemouth,validation
+eb6484c6f3cd0884,2023-09-02,2023,Manchester City,Fulham,validation
+5ab581bbab83669e,2023-09-03,2023,Arsenal,Manchester United,validation
+95dca124b4638544,2023-09-03,2023,Liverpool,Aston Villa,validation
+b9ee89d381c55aba,2023-09-03,2023,Crystal Palace,Wolves,validation
+018d0b2ebe8e7d5a,2023-09-16,2023,Aston Villa,Crystal Palace,validation
+87a136e9e7804f4a,2023-09-16,2023,Newcastle,Brentford,validation
+ab32b14321987303,2023-09-16,2023,Wolves,Liverpool,validation
+df2c96a26bf70cb8,2023-09-16,2023,West Ham,Manchester City,validation
+fe40ea5102da8396,2023-09-16,2023,Manchester United,Brighton,validation
+132c07f67b640804,2023-09-17,2023,Everton,Arsenal,validation
+19170094b47a7d65,2023-09-17,2023,Bournemouth,Chelsea,validation
+3fa33f9d3657b728,2023-09-23,2023,Brentford,Everton,validation
+4e632adf607fc5f9,2023-09-23,2023,Manchester City,Nottingham Forest,validation
+5b79c77ba0a5c4f4,2023-09-23,2023,Crystal Palace,Fulham,validation
+3bb943aa4e10833f,2023-09-24,2023,Chelsea,Aston Villa,validation
+87d71043d99ab75b,2023-09-24,2023,Sheffield United,Newcastle,validation
+ad9d1b6ac6641395,2023-09-24,2023,Liverpool,West Ham,validation
+bd3a8a03a65b03c3,2023-09-24,2023,Brighton,Bournemouth,validation
+d7af48bbac846e0f,2023-09-24,2023,Arsenal,Tottenham,validation
+21c68fd544f91801,2023-09-30,2023,Tottenham,Liverpool,validation
+3555f344186dacbf,2023-09-30,2023,Everton,Luton,validation
+35ba19cb4f268e25,2023-09-30,2023,Manchester United,Crystal Palace,validation
+54af69a834b4df3e,2023-09-30,2023,Aston Villa,Brighton,validation
+7a570b590454348c,2023-09-30,2023,Bournemouth,Arsenal,validation
+b6099e9a709e9bff,2023-09-30,2023,Newcastle,Burnley,validation
+f8cebfa3b20296e0,2023-09-30,2023,Wolves,Manchester City,validation
+f989703c94f89437,2023-09-30,2023,West Ham,Sheffield United,validation
+7fd053acf16b8480,2023-10-01,2023,Nottingham Forest,Brentford,validation
+b94870e38ec3a9ad,2023-10-02,2023,Fulham,Chelsea,validation
+44174e1c62dabab4,2023-10-03,2023,Luton,Burnley,validation
+02d15bd4568b9093,2023-10-07,2023,Luton,Tottenham,validation
+3cb4df92b3a008da,2023-10-07,2023,Crystal Palace,Nottingham Forest,validation
+562731f2eb3ddd80,2023-10-07,2023,Everton,Bournemouth,validation
+7a39626b309dc4ef,2023-10-07,2023,Manchester United,Brentford,validation
+ba59e59a3f20e239,2023-10-07,2023,Burnley,Chelsea,validation
+e79b4fef2f360933,2023-10-07,2023,Fulham,Sheffield United,validation
+051398703b0566bd,2023-10-08,2023,West Ham,Newcastle,validation
+aa1567f9f3b53568,2023-10-08,2023,Wolves,Aston Villa,validation
+c4d4f631216dea19,2023-10-08,2023,Arsenal,Manchester City,validation
+d485e0dc7776f6dc,2023-10-08,2023,Brighton,Liverpool,validation
+02ec2746e398e4c5,2023-10-21,2023,Chelsea,Arsenal,validation
+1e894600fc7b8999,2023-10-21,2023,Brentford,Burnley,validation
+290dea901acd72af,2023-10-21,2023,Liverpool,Everton,validation
+53e3aae3c6f76dd3,2023-10-21,2023,Sheffield United,Manchester United,validation
+54c1dc7a08066dff,2023-10-21,2023,Nottingham Forest,Luton,validation
+6b7a6b40ebed88b9,2023-10-21,2023,Bournemouth,Wolves,validation
+8f0b7890dd5ed285,2023-10-21,2023,Manchester City,Brighton,validation
+d713db63630b6ab0,2023-10-21,2023,Newcastle,Crystal Palace,validation
+cc4626015c7b7254,2023-10-22,2023,Aston Villa,West Ham,validation
+fecae11fb7fd4ca7,2023-10-23,2023,Tottenham,Fulham,validation
+6d8099d43ab7b092,2023-10-27,2023,Crystal Palace,Tottenham,validation
+07df9eb4ff525c89,2023-10-28,2023,Bournemouth,Burnley,validation
+1c7abab1a5d027f8,2023-10-28,2023,Arsenal,Sheffield United,validation
+af273c2f905ccac8,2023-10-28,2023,Chelsea,Brentford,validation
+caf3116d50e87fa9,2023-10-28,2023,Wolves,Newcastle,validation
+171998680c72366a,2023-10-29,2023,Liverpool,Nottingham Forest,validation
+6ba31418bfd0e12b,2023-10-29,2023,Manchester United,Manchester City,validation
+71966be1c94dcf59,2023-10-29,2023,West Ham,Everton,validation
+7968c73c6e0376ab,2023-10-29,2023,Brighton,Fulham,validation
+ec4a975ee4f66265,2023-10-29,2023,Aston Villa,Luton,validation
+1e9206acfc53b0f1,2023-11-04,2023,Brentford,West Ham,validation
+261fa7e66136c905,2023-11-04,2023,Fulham,Manchester United,validation
+57232db1e41bf77d,2023-11-04,2023,Manchester City,Bournemouth,validation
+7f9c6f6903e9a90b,2023-11-04,2023,Everton,Brighton,validation
+8672a131437be856,2023-11-04,2023,Burnley,Crystal Palace,validation
+921c4a4662a8895a,2023-11-04,2023,Newcastle,Arsenal,validation
+ab93aec4a1110b5c,2023-11-04,2023,Sheffield United,Wolves,validation
+2f302906f722108d,2023-11-05,2023,Luton,Liverpool,validation
+6a72c4803da47e41,2023-11-05,2023,Nottingham Forest,Aston Villa,validation
+1af18fcfc2dfdbb5,2023-11-06,2023,Tottenham,Chelsea,validation
+3e0fcf38f4f74262,2023-11-11,2023,Manchester United,Luton,validation
+6ae5c0368eb289af,2023-11-11,2023,Crystal Palace,Everton,validation
+a1968f210d663f40,2023-11-11,2023,Arsenal,Burnley,validation
+b785fc2e60ec6be3,2023-11-11,2023,Bournemouth,Newcastle,validation
+e9c82c056698c276,2023-11-11,2023,Wolves,Tottenham,validation
+1d1becac05e3e2f3,2023-11-12,2023,Aston Villa,Fulham,validation
+655accca34b666e2,2023-11-12,2023,Chelsea,Manchester City,validation
+7b1f83d7fd58b0a4,2023-11-12,2023,West Ham,Nottingham Forest,validation
+b513491bbc6d2d22,2023-11-12,2023,Brighton,Sheffield United,validation
+ca33776271a13adf,2023-11-12,2023,Liverpool,Brentford,validation
+6cfd3e88769b51cf,2023-11-25,2023,Newcastle,Chelsea,validation
+83efdd0d78e27f81,2023-11-25,2023,Burnley,West Ham,validation
+cc0c1af204c6f670,2023-11-25,2023,Manchester City,Liverpool,validation
+d07f3214026446eb,2023-11-25,2023,Brentford,Arsenal,validation
+de34013920a38a23,2023-11-25,2023,Nottingham Forest,Brighton,validation
+e0344ba976ce0920,2023-11-25,2023,Sheffield United,Bournemouth,validation
+ec03090ca1803dd6,2023-11-25,2023,Luton,Crystal Palace,validation
+82879fbc7bf90235,2023-11-26,2023,Tottenham,Aston Villa,validation
+8855136838acaace,2023-11-26,2023,Everton,Manchester United,validation
+0c905ae346356d6f,2023-11-27,2023,Fulham,Wolves,validation
+080b40c63c11a85d,2023-12-02,2023,Arsenal,Wolves,validation
+0e28fa80351a36bb,2023-12-02,2023,Brentford,Luton,validation
+eab0e5ae7aab11d0,2023-12-02,2023,Burnley,Sheffield United,validation
+fe1216992a382413,2023-12-02,2023,Nottingham Forest,Everton,validation
+fe7dfe5b96036bd1,2023-12-02,2023,Newcastle,Manchester United,validation
+88f8b293f564872d,2023-12-03,2023,Liverpool,Fulham,validation
+b3aa1a79cf60ba5e,2023-12-03,2023,West Ham,Crystal Palace,validation
+e030537831e96343,2023-12-03,2023,Manchester City,Tottenham,validation
+e9317b4fc8fa8bca,2023-12-03,2023,Chelsea,Brighton,validation
+fbc66e4b6dec445d,2023-12-03,2023,Bournemouth,Aston Villa,validation
+9c477633da6fed93,2023-12-05,2023,Luton,Arsenal,validation
+e596acbfb3a36548,2023-12-05,2023,Wolves,Burnley,validation
+027af88d6e53756f,2023-12-06,2023,Aston Villa,Manchester City,validation
+193e1d0ad206a512,2023-12-06,2023,Crystal Palace,Bournemouth,validation
+49d301cac4f60a68,2023-12-06,2023,Fulham,Nottingham Forest,validation
+6a5514461e405474,2023-12-06,2023,Brighton,Brentford,validation
+a4036c7d3ade4ccb,2023-12-06,2023,Sheffield United,Liverpool,validation
+e6defe280f93d8f4,2023-12-06,2023,Manchester United,Chelsea,validation
+5472f0e08dddaa05,2023-12-07,2023,Tottenham,West Ham,validation
+5d19b14e3c253a87,2023-12-07,2023,Everton,Newcastle,validation
+1df6e9616093e9d4,2023-12-09,2023,Aston Villa,Arsenal,validation
+5f2d1ee063ae7773,2023-12-09,2023,Sheffield United,Brentford,validation
+84c6810aae1751e9,2023-12-09,2023,Wolves,Nottingham Forest,validation
+ad1e7671b9f7158e,2023-12-09,2023,Brighton,Burnley,validation
+bc6ca6550e4ca7d8,2023-12-09,2023,Manchester United,Bournemouth,validation
+e7cae7f46c85d2f1,2023-12-09,2023,Crystal Palace,Liverpool,validation
+230090caff7b348a,2023-12-10,2023,Tottenham,Newcastle,validation
+6c366d7abafcc9d2,2023-12-10,2023,Luton,Manchester City,validation
+727fb2f6f2fc935e,2023-12-10,2023,Fulham,West Ham,validation
+b48380617ab4e1df,2023-12-10,2023,Everton,Chelsea,validation
+185dd259e9c3a5b9,2023-12-15,2023,Nottingham Forest,Tottenham,validation
+1dab76a061a9c587,2023-12-16,2023,Burnley,Everton,validation
+63991ed5a1995652,2023-12-16,2023,Manchester City,Crystal Palace,validation
+71c7cb6bd675ace4,2023-12-16,2023,Newcastle,Fulham,validation
+e8a8cb967148e1ee,2023-12-16,2023,Chelsea,Sheffield United,validation
+0107c6bfca0614c4,2023-12-17,2023,Liverpool,Manchester United,validation
+83cb1eabed361ef5,2023-12-17,2023,Brentford,Aston Villa,validation
+87f33259922fe311,2023-12-17,2023,West Ham,Wolves,validation
+faf8b10d640bfcfa,2023-12-17,2023,Arsenal,Brighton,validation
+a920859356532f4e,2023-12-21,2023,Crystal Palace,Brighton,validation
+b84e6a510b251bbc,2023-12-22,2023,Aston Villa,Sheffield United,validation
+2640458b4191276c,2023-12-23,2023,Fulham,Burnley,validation
+52cc2fd9535fddc4,2023-12-23,2023,Nottingham Forest,Bournemouth,validation
+553821ffccbef06b,2023-12-23,2023,Liverpool,Arsenal,validation
+5739c52d2fec405c,2023-12-23,2023,West Ham,Manchester United,validation
+d3b782dc05254a38,2023-12-23,2023,Luton,Newcastle,validation
+ff16031ba3b405c5,2023-12-23,2023,Tottenham,Everton,validation
+959c88e226b340bc,2023-12-24,2023,Wolves,Chelsea,validation
+67178afc508661b9,2023-12-26,2023,Burnley,Liverpool,validation
+9e6c3102b601ad8e,2023-12-26,2023,Sheffield United,Luton,validation
+9f371b52535a9f7f,2023-12-26,2023,Newcastle,Nottingham Forest,validation
+e42132009b7b21f2,2023-12-26,2023,Manchester United,Aston Villa,validation
+f5e7edebbeec0531,2023-12-26,2023,Bournemouth,Fulham,validation
+0a9d1f31d29849ed,2023-12-27,2023,Brentford,Wolves,validation
+26252b5441630d29,2023-12-27,2023,Chelsea,Crystal Palace,validation
+a9ce81be4818cc62,2023-12-27,2023,Everton,Manchester City,validation
+b6b93838ecfc8da5,2023-12-28,2023,Arsenal,West Ham,validation
+ec83b87bcfb30886,2023-12-28,2023,Brighton,Tottenham,validation
+0501e62bfd2bf188,2023-12-30,2023,Luton,Chelsea,validation
+57e15b0d2cac5e99,2023-12-30,2023,Crystal Palace,Brentford,validation
+a7d14a4c923dc7e0,2023-12-30,2023,Manchester City,Sheffield United,validation
+bc0ed92512db7941,2023-12-30,2023,Nottingham Forest,Manchester United,validation
+c95188078d283251,2023-12-30,2023,Wolves,Everton,validation
+ff5589606ef83322,2023-12-30,2023,Aston Villa,Burnley,validation
+a6b9d92a4c66d4e1,2023-12-31,2023,Fulham,Arsenal,validation
+bb1a4c9ac1b8268b,2023-12-31,2023,Tottenham,Bournemouth,validation
+43e3ce21a00a80a4,2024-01-01,2023,Liverpool,Newcastle,validation
+eb43f840e8ff3371,2024-01-02,2023,West Ham,Brighton,validation
+ca4382e7dbcee9ba,2024-01-12,2023,Burnley,Luton,validation
+8437b1f18f4dc694,2024-01-13,2023,Chelsea,Fulham,validation
+e09c07860f2732ff,2024-01-13,2023,Newcastle,Manchester City,validation
+279159db7450d98d,2024-01-14,2023,Everton,Aston Villa,validation
+5b3429c4d464d2e0,2024-01-14,2023,Manchester United,Tottenham,validation
+6167cbe37ae68c13,2024-01-20,2023,Arsenal,Crystal Palace,validation
+df3f916e6eba6e78,2024-01-20,2023,Brentford,Nottingham Forest,validation
+17e5d441ab3bf795,2024-01-21,2023,Bournemouth,Liverpool,validation
+3ab3a76ee947079c,2024-01-21,2023,Sheffield United,West Ham,validation
+2a3a9902d3b76e47,2024-01-22,2023,Brighton,Wolves,validation
+28811ba562f111fa,2024-01-30,2023,Crystal Palace,Sheffield United,validation
+5d3cedb0779bde5f,2024-01-30,2023,Aston Villa,Newcastle,validation
+601593566c43f700,2024-01-30,2023,Nottingham Forest,Arsenal,validation
+a248f3db751f39e9,2024-01-30,2023,Fulham,Everton,validation
+d82725faaef65c2b,2024-01-30,2023,Luton,Brighton,validation
+8148d96ee6302ed6,2024-01-31,2023,Liverpool,Chelsea,validation
+a8d29038660a9944,2024-01-31,2023,Manchester City,Burnley,validation
+f7f01c6ff371d5f0,2024-01-31,2023,Tottenham,Brentford,validation
+97842c421b338290,2024-02-01,2023,West Ham,Bournemouth,validation
+c3eb1b565a892b5a,2024-02-01,2023,Wolves,Manchester United,validation
+0c219ec1a5215f0e,2024-02-03,2023,Burnley,Fulham,validation
+49c2b0d7c8b30e93,2024-02-03,2023,Sheffield United,Aston Villa,validation
+5f31ad128a8e4285,2024-02-03,2023,Everton,Tottenham,validation
+bdf91f5426eab49a,2024-02-03,2023,Newcastle,Luton,validation
+f9464835f638a7c3,2024-02-03,2023,Brighton,Crystal Palace,validation
+8ac2755ec29908c5,2024-02-04,2023,Chelsea,Wolves,validation
+a2793129190bcb47,2024-02-04,2023,Arsenal,Liverpool,validation
+e28ed667efe2ee9e,2024-02-04,2023,Bournemouth,Nottingham Forest,validation
+e6316d6ffdd5d142,2024-02-04,2023,Manchester United,West Ham,validation
+75a31a020e4f6462,2024-02-05,2023,Brentford,Manchester City,validation
+2648443f2b5bd0cc,2024-02-10,2023,Manchester City,Everton,validation
+3a19f42e39b3197c,2024-02-10,2023,Tottenham,Brighton,validation
+620385520046f6b4,2024-02-10,2023,Nottingham Forest,Newcastle,validation
+66562fe5f2085385,2024-02-10,2023,Wolves,Brentford,validation
+7d7431de8f61dce7,2024-02-10,2023,Liverpool,Burnley,validation
+cf309b2313af8f1f,2024-02-10,2023,Fulham,Bournemouth,validation
+f4d0a503f769b252,2024-02-10,2023,Luton,Sheffield United,validation
+01c36d1009689f8a,2024-02-11,2023,Aston Villa,Manchester United,validation
+80b1b3760056dd77,2024-02-11,2023,West Ham,Arsenal,validation
+aa240f07de02da93,2024-02-12,2023,Crystal Palace,Chelsea,validation
+070981b2429f2a3d,2024-02-17,2023,Burnley,Arsenal,validation
+2a3e803442533ec2,2024-02-17,2023,Tottenham,Wolves,validation
+6fc9a685d85b2d7e,2024-02-17,2023,Manchester City,Chelsea,validation
+858d8ce0974a5299,2024-02-17,2023,Fulham,Aston Villa,validation
+9141253f6a7a6fc6,2024-02-17,2023,Nottingham Forest,West Ham,validation
+b72aed63339617ca,2024-02-17,2023,Brentford,Liverpool,validation
+f5b3c9ddea545f86,2024-02-17,2023,Newcastle,Bournemouth,validation
+441034b126087280,2024-02-18,2023,Sheffield United,Brighton,validation
+63736a79430b6d6c,2024-02-18,2023,Luton,Manchester United,validation
+ded96e79a8cc58d2,2024-02-19,2023,Everton,Crystal Palace,validation
+b0baf98c2e1afcf6,2024-02-20,2023,Manchester City,Brentford,validation
+681345f03476c4fb,2024-02-21,2023,Liverpool,Luton,validation
+1e556a932f7ea0de,2024-02-24,2023,Brighton,Everton,validation
+442bb8d801840930,2024-02-24,2023,Crystal Palace,Burnley,validation
+4e9f738221916259,2024-02-24,2023,Aston Villa,Nottingham Forest,validation
+99c18052513c350f,2024-02-24,2023,Arsenal,Newcastle,validation
+e97bcf866ddd9f3a,2024-02-24,2023,Bournemouth,Manchester City,validation
+f217adab5874e3b1,2024-02-24,2023,Manchester United,Fulham,validation
+ed73c90b6b4c240f,2024-02-25,2023,Wolves,Sheffield United,validation
+615672fd40fc49f6,2024-02-26,2023,West Ham,Brentford,validation
+594a8e316ebf75e8,2024-03-02,2023,Fulham,Brighton,validation
+6d3f344228b39abf,2024-03-02,2023,Newcastle,Wolves,validation
+715a637d4f6a7410,2024-03-02,2023,Brentford,Chelsea,validation
+80987461aa81e6bd,2024-03-02,2023,Luton,Aston Villa,validation
+994ba3dd635ec28b,2024-03-02,2023,Everton,West Ham,validation
+a2fcd33bbdcc883d,2024-03-02,2023,Tottenham,Crystal Palace,validation
+d2018b52c5d55466,2024-03-02,2023,Nottingham Forest,Liverpool,validation
+ae572f5a25ce5442,2024-03-03,2023,Burnley,Bournemouth,validation
+be83ff96d88d2496,2024-03-03,2023,Manchester City,Manchester United,validation
+577e7e534a1d80ca,2024-03-04,2023,Sheffield United,Arsenal,validation
+0dba23ffa5953bc8,2024-03-09,2023,Arsenal,Brentford,validation
+3e74900b82d2d234,2024-03-09,2023,Manchester United,Everton,validation
+6c98b96194d52f6f,2024-03-09,2023,Bournemouth,Sheffield United,validation
+9ac4cf8838e2be34,2024-03-09,2023,Crystal Palace,Luton,validation
+b9978b68658e9011,2024-03-09,2023,Wolves,Fulham,validation
+83555c66d2a060cd,2024-03-10,2023,West Ham,Burnley,validation
+d3e16ce93a68dc0c,2024-03-10,2023,Liverpool,Manchester City,validation
+d9b8577c68921c2f,2024-03-10,2023,Aston Villa,Tottenham,validation
+f9b3fa897ad1a360,2024-03-10,2023,Brighton,Nottingham Forest,validation
+7cb7cf8e905e65a0,2024-03-11,2023,Chelsea,Newcastle,validation
+e427ebf2bbc52390,2024-03-13,2023,Bournemouth,Luton,validation
+06b7377cc83c3f2b,2024-03-16,2023,Burnley,Brentford,validation
+0c8c01b2c47708ff,2024-03-16,2023,Luton,Nottingham Forest,validation
+be27860be92e54d6,2024-03-16,2023,Fulham,Tottenham,validation
+d50bb3aab79f10f6,2024-03-17,2023,West Ham,Aston Villa,validation
+4f6956ed3c489b84,2024-03-30,2023,Brentford,Manchester United,validation
+747c0b0ea449df80,2024-03-30,2023,Aston Villa,Wolves,validation
+8f3cca6d6b75c168,2024-03-30,2023,Bournemouth,Everton,validation
+a199aff839356e4c,2024-03-30,2023,Newcastle,West Ham,validation
+b57ef04939e7fefb,2024-03-30,2023,Nottingham Forest,Crystal Palace,validation
+d08c106abb1c7a02,2024-03-30,2023,Chelsea,Burnley,validation
+d211a97bd285e097,2024-03-30,2023,Sheffield United,Fulham,validation
+e0575eaaa00b47af,2024-03-30,2023,Tottenham,Luton,validation
+6ad994db9d69a792,2024-03-31,2023,Liverpool,Brighton,validation
+82d817477ba189a1,2024-03-31,2023,Manchester City,Arsenal,validation
+6603a9a510d13ffc,2024-04-02,2023,Burnley,Wolves,validation
+c75ac985427da946,2024-04-02,2023,West Ham,Tottenham,validation
+d6d5ef5ba57d0202,2024-04-02,2023,Bournemouth,Crystal Palace,validation
+eabf7ccc5599a2f8,2024-04-02,2023,Nottingham Forest,Fulham,validation
+f68518018a3b861e,2024-04-02,2023,Newcastle,Everton,validation
+8808a9269b4ad5c3,2024-04-03,2023,Brentford,Brighton,validation
+bba042d82af12ad9,2024-04-03,2023,Arsenal,Luton,validation
+d00221187ceae881,2024-04-03,2023,Manchester City,Aston Villa,validation
+45224b74aaa1482f,2024-04-04,2023,Chelsea,Manchester United,validation
+5e1174a4b38dd024,2024-04-04,2023,Liverpool,Sheffield United,validation
+0934159333fab605,2024-04-06,2023,Luton,Bournemouth,validation
+1594e81b9b3ecbe3,2024-04-06,2023,Wolves,West Ham,validation
+3428719d2399c585,2024-04-06,2023,Crystal Palace,Manchester City,validation
+807fe02a79d824f2,2024-04-06,2023,Aston Villa,Brentford,validation
+95d138b565df8197,2024-04-06,2023,Everton,Burnley,validation
+ae86c9d8a3c897c5,2024-04-06,2023,Fulham,Newcastle,validation
+c0960d43a8a9a5c1,2024-04-06,2023,Brighton,Arsenal,validation
+17c00c244b15cf69,2024-04-07,2023,Manchester United,Liverpool,validation
+c0c0bb24faf5d88d,2024-04-07,2023,Tottenham,Nottingham Forest,validation
+d13b67ddd4458b1a,2024-04-07,2023,Sheffield United,Chelsea,validation
+3982361ca3fbd5cd,2024-04-13,2023,Bournemouth,Manchester United,validation
+69f2c6ef2ee67ea5,2024-04-13,2023,Nottingham Forest,Wolves,validation
+6afa9ab13b546249,2024-04-13,2023,Newcastle,Tottenham,validation
+90956d8bf05027dd,2024-04-13,2023,Burnley,Brighton,validation
+d7bb989e1b19bd1c,2024-04-13,2023,Brentford,Sheffield United,validation
+e7c8910960d364a7,2024-04-13,2023,Manchester City,Luton,validation
+12aabc3729167c65,2024-04-14,2023,Liverpool,Crystal Palace,validation
+1453b429f907ee75,2024-04-14,2023,Arsenal,Aston Villa,validation
+1acb9ae85707e723,2024-04-14,2023,West Ham,Fulham,validation
+8b3623b05495645e,2024-04-15,2023,Chelsea,Everton,validation
+255bf4be243ec622,2024-04-20,2023,Luton,Brentford,validation
+7b785aaf58ef3b22,2024-04-20,2023,Sheffield United,Burnley,validation
+8ea5e314bb29eee3,2024-04-20,2023,Wolves,Arsenal,validation
+6d9351b17f66e32b,2024-04-21,2023,Everton,Nottingham Forest,validation
+85db5015a94b1ffe,2024-04-21,2023,Crystal Palace,West Ham,validation
+bc9c7b6a2e21abac,2024-04-21,2023,Aston Villa,Bournemouth,validation
+bd9b96adc54dc2cd,2024-04-21,2023,Fulham,Liverpool,validation
+87c9e1ab3f8bbf43,2024-04-23,2023,Arsenal,Chelsea,validation
+7f3b2b5bf1c33c36,2024-04-24,2023,Manchester United,Sheffield United,validation
+9c170568d2ef698a,2024-04-24,2023,Wolves,Bournemouth,validation
+a169a4911f060314,2024-04-24,2023,Crystal Palace,Newcastle,validation
+d740872ff7dd4c20,2024-04-24,2023,Everton,Liverpool,validation
+ddfd60b02f3ed885,2024-04-25,2023,Brighton,Manchester City,validation
+552ec44fe960e255,2024-04-27,2023,Wolves,Luton,validation
+60a93188fc2dfd52,2024-04-27,2023,Manchester United,Burnley,validation
+80f6cf171f1a096d,2024-04-27,2023,Fulham,Crystal Palace,validation
+a984c4bb7ac7b549,2024-04-27,2023,West Ham,Liverpool,validation
+b111dd12d84371b8,2024-04-27,2023,Aston Villa,Chelsea,validation
+c57d4b3eccee3c0e,2024-04-27,2023,Newcastle,Sheffield United,validation
+cb2c97ebafb9ff4c,2024-04-27,2023,Everton,Brentford,validation
+0fdf54d00ce3b470,2024-04-28,2023,Tottenham,Arsenal,validation
+20c9edfebd46c447,2024-04-28,2023,Bournemouth,Brighton,validation
+f8b4bf99fae42f88,2024-04-28,2023,Nottingham Forest,Manchester City,validation
+c52f3b03618540ab,2024-05-02,2023,Chelsea,Tottenham,validation
+6637e75fefec0bf0,2024-05-03,2023,Luton,Everton,validation
+32a6e144e80e2521,2024-05-04,2023,Burnley,Newcastle,validation
+381422f7013c14a0,2024-05-04,2023,Arsenal,Bournemouth,validation
+40f40e521f41ddfa,2024-05-04,2023,Manchester City,Wolves,validation
+afb18159440be63e,2024-05-04,2023,Brentford,Fulham,validation
+ef2424d721d0883a,2024-05-04,2023,Sheffield United,Nottingham Forest,validation
+b9a23c4fc8c034a9,2024-05-05,2023,Liverpool,Tottenham,validation
+f810079a67c3e79f,2024-05-05,2023,Chelsea,West Ham,validation
+fe1e7fd2df7ce822,2024-05-05,2023,Brighton,Aston Villa,validation
+d1c53cb00ec45ad1,2024-05-06,2023,Crystal Palace,Manchester United,validation
+2aab5809f205b5b4,2024-05-11,2023,Bournemouth,Brentford,validation
+30be0a00f86baf0b,2024-05-11,2023,West Ham,Luton,validation
+414f8a84953b35fb,2024-05-11,2023,Nottingham Forest,Chelsea,validation
+6380e8d1a7646bac,2024-05-11,2023,Fulham,Manchester City,validation
+7be4091abe2c7c2f,2024-05-11,2023,Wolves,Crystal Palace,validation
+a5aa25f6010e06e5,2024-05-11,2023,Everton,Sheffield United,validation
+b99f28eb2aeacf43,2024-05-11,2023,Tottenham,Burnley,validation
+e21563d314dce39c,2024-05-11,2023,Newcastle,Brighton,validation
+0b747ee5fcb0c266,2024-05-12,2023,Manchester United,Arsenal,validation
+758cc14b9cd5f47a,2024-05-13,2023,Aston Villa,Liverpool,validation
+57029b1b3d456eea,2024-05-14,2023,Tottenham,Manchester City,validation
+1a10f3e362d855d1,2024-05-15,2023,Manchester United,Newcastle,validation
+44f6b95938ec7dcc,2024-05-15,2023,Brighton,Chelsea,validation
+301628fa0a6ade73,2024-05-19,2023,Liverpool,Wolves,validation
+3f1d30e5ed6d75d8,2024-05-19,2023,Manchester City,West Ham,validation
+523e38ee9bad164e,2024-05-19,2023,Sheffield United,Tottenham,validation
+9e0e45ccfb933409,2024-05-19,2023,Chelsea,Bournemouth,validation
+a3823249f3113e12,2024-05-19,2023,Brentford,Newcastle,validation
+aaad468466423cd0,2024-05-19,2023,Luton,Fulham,validation
+ac8d1828e34ebe99,2024-05-19,2023,Arsenal,Everton,validation
+d048d4786a9578e0,2024-05-19,2023,Crystal Palace,Aston Villa,validation
+e15c2d1dc1ea9b3a,2024-05-19,2023,Burnley,Nottingham Forest,validation
+e415cc36d3b06235,2024-05-19,2023,Brighton,Manchester United,validation

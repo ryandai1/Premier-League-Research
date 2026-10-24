@@ -1,0 +1,442 @@
+match_id,date,home_team,away_team,split,exclusion_reason
+0ceaf8d2cb42c57b,2000-08-19,Leeds,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+58ed09c518db22cd,2000-08-19,Liverpool,Bradford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aa81d1dcf2aa9fae,2000-08-19,Tottenham,Ipswich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bf10594aa2b23493,2000-08-19,Leicester,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bf1ad191b0bae94a,2000-08-19,Charlton,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca1bf0da76b3e8e8,2000-08-19,Chelsea,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d3d4ab7d91d527e8,2000-08-19,Coventry,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d549f4ef1446bd61,2000-08-19,Derby,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+dc17cb4cf53e909e,2000-08-19,Sunderland,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+085caa81878099ba,2000-08-20,Manchester United,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+acbe43a9fcff1251,2000-08-21,Arsenal,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5c27ce56def2f21b,2000-08-22,Ipswich,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+69becb0a61582bd8,2000-08-22,Middlesbrough,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c4b55a9b5f5763aa,2000-08-22,Bradford,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+15474b0087c41cb8,2000-08-23,Manchester City,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+20c18065427f3ce2,2000-08-23,Newcastle,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2dc74809b2a8993e,2000-08-23,West Ham,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e35b40c1bef6f399,2000-08-23,Southampton,Coventry,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e87e6fd70d3bb679,2000-08-23,Everton,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0bb3145ac44a160e,2000-08-26,Manchester City,Coventry,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+13f6085a61c5b3e2,2000-08-26,Southampton,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+256beb71baece73b,2000-08-26,Everton,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+55e8aaee7ee471c1,2000-08-26,Newcastle,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8324efb9fa8da1cf,2000-08-26,Ipswich,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+939e923da7fa8d9c,2000-08-26,Arsenal,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a6e4975c9129c9b2,2000-08-26,Bradford,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b25aa2a6fba67df2,2000-08-26,Middlesbrough,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bf4de9bbb7afec1c,2000-08-26,West Ham,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+164330588008a120,2000-08-27,Aston Villa,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+14aac65e357bdde6,2000-09-05,Sunderland,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ab377312d825f8ee,2000-09-05,Leeds,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fbff0e4081bd7a04,2000-09-05,Tottenham,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fce760be10cc00b4,2000-09-05,Manchester United,Bradford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0e87dd3273c84be1,2000-09-06,Derby,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+556c6b8ac79c579a,2000-09-06,Charlton,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6749724dc87ce144,2000-09-06,Chelsea,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+78d46e559cdabd1f,2000-09-06,Liverpool,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cc21d42d89b1f12d,2000-09-06,Coventry,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e6b706c9412bc35d,2000-09-06,Leicester,Ipswich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0274e741eac8694c,2000-09-09,Newcastle,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+180bc5e602ded58f,2000-09-09,Leicester,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+85aa021dd10633e9,2000-09-09,Coventry,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a604ea0c17ebaf5d,2000-09-09,Manchester United,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aa3ed455611f4b94,2000-09-09,Ipswich,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b37d966c726a10f6,2000-09-09,Middlesbrough,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d7e1c11861513da9,2000-09-09,Bradford,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+dec18c08d580172a,2000-09-09,Liverpool,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d2be92d3d319bd94,2000-09-10,Derby,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+13c231eccdf2ae13,2000-09-11,Tottenham,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8b50805b0567548b,2000-09-16,Leeds,Ipswich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a8133cee5ceae681,2000-09-16,Aston Villa,Bradford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2b4005303baae077,2000-10-21,Chelsea,Coventry,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+afb60152946eab51,2000-10-21,Tottenham,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+45dc012a06edf889,2000-10-28,Chelsea,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5e09b3edbaaf91c5,2000-10-28,Sunderland,Coventry,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0210d11ebd2cf14e,2000-11-04,Tottenham,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d452c5d0287a1d62,2000-11-04,Coventry,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a2f9e16d0527563a,2000-11-11,Aston Villa,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9eb671d957a050e1,2000-11-12,Liverpool,Coventry,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a9dc368e605f074d,2000-11-19,Tottenham,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ceed3b3a726daff4,2000-11-20,Coventry,Ipswich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+20e4b93de1cb8b58,2001-04-17,Charlton,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a0c7d3af92af6290,2001-04-21,Bradford,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a0d015c69f23ef9d,2001-04-21,Chelsea,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+192dd2a0ee6a9316,2001-04-28,Everton,Bradford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f0af7adbca08e970,2001-04-30,Charlton,Ipswich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+73af25b5b0ffb955,2001-05-01,Bradford,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3b08ce0f213f509c,2001-05-05,Bradford,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7ab49243ec161a59,2001-05-05,Sunderland,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f7f065b045009cca,2001-05-13,Leeds,Bradford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5504f8e1fc1bb8a3,2001-05-19,Charlton,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0ea8068fe37220a8,2001-08-18,Derby,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6b1b70d9d54dd3a0,2001-08-18,Leicester,Bolton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+72dd80460d55da0d,2001-08-19,Manchester United,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9deeae62402c3898,2001-08-21,Bolton,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0a203b3742eb3c20,2001-08-22,Fulham,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+86dd35b32fe9f0a5,2001-08-22,Blackburn,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c68902e3c226f013,2001-08-25,Blackburn,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cfbde837f157ba0a,2001-08-25,Fulham,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4ac9f7ce5b25a76b,2001-08-27,Bolton,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+67b362b3bc7f8442,2001-09-08,Sunderland,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e7c5d775ac2a74b1,2001-09-08,Leeds,Bolton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bf56a296107949e6,2001-09-09,Charlton,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+574021a2ced5bce2,2001-09-15,Fulham,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+72b6671eaa2797ce,2001-09-15,Bolton,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca813acdd8b4c8de,2001-09-16,Ipswich,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3dfe1b6653063067,2002-08-17,Leeds,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a09f8f9dd734a487,2002-08-17,Manchester United,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+684d50b09667e706,2002-08-18,Arsenal,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1798bac97755a8ae,2002-08-24,Manchester City,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8a8fcc5d654a9a41,2002-08-24,West Brom,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fa8c6f1480c1a4e7,2002-08-24,Birmingham,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a4eed4c9de8f1c4f,2002-08-27,Arsenal,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8b22d18b4b61f4a7,2002-08-28,Everton,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c531e37d04fab895,2002-08-28,Aston Villa,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+244495035d8bded2,2002-08-31,Manchester City,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5f8d94bbee76b5d1,2002-08-31,West Brom,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6ba7695fe7448d41,2002-08-31,Birmingham,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8b416f3650878576,2002-09-10,Arsenal,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0f6b6b9c262a4306,2002-09-11,West Ham,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a79fd6a3b8f638ed,2002-09-11,Liverpool,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a232d3cf8e5cafbf,2003-08-16,Portsmouth,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c21f0daa78bb525b,2003-08-16,Leicester,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f4bfb34d8da2ec16,2003-08-16,Blackburn,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+40388e8bf2df3651,2003-08-23,Wolves,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+45a506f9491a275e,2003-08-23,Chelsea,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fe3b95ca84195e14,2003-08-23,Manchester City,Portsmouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+423f1ab92b41a323,2003-08-26,Leicester,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4408bfcc08dc7e7b,2003-08-26,Portsmouth,Bolton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0495752d4d677eb0,2003-08-27,Manchester United,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3153fe81fd425db5,2003-08-30,Wolves,Portsmouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+33b0603d74c3a684,2003-08-30,Aston Villa,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cdb2f37450f36982,2003-09-13,Southampton,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f6c9a35980462a5d,2003-09-13,Arsenal,Portsmouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c6bdbbfc5d0a4bbe,2003-09-15,Leicester,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2247fcad4e597aa9,2004-08-14,Norwich,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cfa1b8d897de083e,2004-08-14,Blackburn,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3576835cfb0b6880,2004-08-21,Crystal Palace,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+751884dee08c0f01,2004-08-21,Manchester United,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca1480e7e11f0061,2004-08-22,West Brom,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9d56db2a09e9c33a,2004-08-24,Crystal Palace,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4fa2404bd08d7be6,2004-08-25,Newcastle,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f92e7143a1111f35,2004-08-25,West Brom,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1fd747b2ab157378,2004-08-28,Norwich,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3939eef8b92f48a0,2004-08-28,Middlesbrough,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6781458d5fb16bde,2004-08-28,Everton,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+58d7f2534b072999,2004-09-11,Portsmouth,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca0ac5247fdb5034,2004-09-11,Liverpool,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2ec065a43733ca1e,2004-09-12,Tottenham,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+13d9533f6bc6f22c,2005-08-13,Sunderland,Charlton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e9944bd40a4a2a50,2005-08-13,West Ham,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+08657558368becb9,2005-08-14,Wigan,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d2cb2a4ed1e83d15,2005-08-20,Newcastle,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e406acc829c1e585,2005-08-20,Charlton,Wigan,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ebcaf7537d293096,2005-08-20,Liverpool,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+51fe62bb6aad868d,2005-08-23,Sunderland,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6e1e24e677b36131,2005-08-27,West Ham,Bolton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fdf8dac62acb7397,2005-08-27,Wigan,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+879f67a2c4c8b74e,2005-09-10,West Brom,Wigan,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e10528d418972926,2005-09-10,Chelsea,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2e4eaebdd75413f9,2005-09-12,West Ham,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aaa8d1ee5830c804,2005-09-17,Fulham,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7c524489a525fc6d,2005-09-18,Wigan,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+25b67359cedab20d,2006-08-19,Sheffield United,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+710c42b0388d32a8,2006-08-19,Reading,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b9fdab2964483e9f,2006-08-19,Everton,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+81f939ae3e4f9778,2006-08-22,Tottenham,Sheffield United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+923f0d211fd2df89,2006-08-22,Watford,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f9caddb9e9058876,2006-08-23,Aston Villa,Reading,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4a7b95101aa801a7,2006-08-26,Watford,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+55c3afeaf428b7f8,2006-08-26,Fulham,Sheffield United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+da221ea5c48d3453,2006-08-26,Wigan,Reading,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4202ea7854bf6941,2006-09-09,Bolton,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7b6eb617640cd4f6,2006-09-09,Sheffield United,Blackburn,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7b74e37de3c74267,2006-09-11,Reading,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+44dd2a8aeab6be65,2006-09-16,Sheffield United,Reading,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+56d95a164a1b8480,2006-09-16,Watford,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+43f51107b8bea086,2007-08-11,Sunderland,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5a44316c66600230,2007-08-11,Derby,Portsmouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e373aaadcf449b4e,2007-08-12,Chelsea,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6d4a666a1d53cd61,2007-08-15,Birmingham,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d34ca01b98dac67c,2007-08-15,Manchester City,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4dda34db3b20add7,2007-08-18,Tottenham,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8b04ea1cb66db82e,2007-08-18,Birmingham,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a7036c4b36383384,2007-08-18,Wigan,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+278b6165b734c76a,2007-08-25,Derby,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8841a6be6b52e3cf,2007-08-25,Sunderland,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8bfe32f97930f22a,2007-09-01,Manchester United,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cf674c8eb3745f14,2007-09-01,Liverpool,Derby,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fb5ad33a6b585dcf,2007-09-01,Middlesbrough,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1c821f007cdda4d2,2008-08-16,Hull,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+75c42c177f23f244,2008-08-16,Bolton,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ff76a968fbe81dbc,2008-08-16,Arsenal,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9154aebf93ba9b34,2008-08-23,Stoke,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+988bec26aedfadf4,2008-08-23,West Brom,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b1faf534feafbeac,2008-08-23,Blackburn,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1e195fada5cb40a7,2008-08-30,Hull,Wigan,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6fe45296272e421f,2008-08-30,Bolton,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e194a5b1c93e5452,2008-08-30,Middlesbrough,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+515bd5e3e1d52057,2008-09-13,West Brom,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c52f210c5599b4eb,2008-09-13,Newcastle,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+405905e561d655ef,2008-09-14,Stoke,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c851cc98b7264214,2008-09-20,Liverpool,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+01b3a2f9cded8b85,2008-09-21,West Brom,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b68a0ffa761ad17b,2008-09-21,Hull,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+be0777e9db96fe6e,2009-08-15,Wolves,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f6bf883167ac2ce7,2009-08-15,Stoke,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b6de2954aafdad3c,2009-08-16,Manchester United,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b451dbbf66a87729,2009-08-18,Wigan,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+141176307a2ef929,2009-08-19,Burnley,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ccc0ab55bd1a2a73,2009-08-19,Birmingham,Portsmouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7c8dfcac2135f645,2009-08-22,Birmingham,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d28ee0331725fbca,2009-08-22,Manchester City,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9b7de3cba78813c0,2009-08-23,Burnley,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8432381167e23688,2009-08-29,Tottenham,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aa38cbc1ce4c8b84,2009-08-29,Wolves,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bea40ff054941af5,2009-08-29,Chelsea,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5564274d97d65d8c,2009-09-12,Blackburn,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c8fbbd0ebb92ad32,2009-09-12,Liverpool,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+45f9dd7ee5b87cc2,2009-09-13,Birmingham,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1f47464baa8836ae,2010-08-14,Wigan,Blackpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6f9aab8b8c8f8b4c,2010-08-14,Chelsea,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+47179a3e78bd6aef,2010-08-16,Manchester United,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+074e2ab8b4579e61,2010-08-21,Arsenal,Blackpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9d868f880a2fc565,2010-08-21,West Brom,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+66ab339a6dac0493,2010-08-22,Newcastle,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+18fe8b2213cf7eea,2010-08-28,Wolves,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3b479f5a8702a645,2010-08-28,Blackpool,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a09a52e6b1c04b9d,2010-08-29,Liverpool,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6c28f75b7b985bce,2010-09-11,Newcastle,Blackpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+87db98ab0d3a744a,2010-09-11,West Brom,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+19e8d261a40d5839,2010-09-18,West Brom,Birmingham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cdca90bf44afcd0c,2010-09-18,Everton,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0a2a8664af38e392,2010-09-19,Chelsea,Blackpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2c15084c168d604e,2011-08-13,QPR,Bolton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b10477279d952924,2011-08-13,Wigan,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a054e0908dc0b876,2011-08-15,Manchester City,Swansea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1c245b8f2ba53ee9,2011-08-20,Everton,QPR,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3f440c34113526cd,2011-08-20,Swansea,Wigan,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+75e09b793836117c,2011-08-21,Norwich,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+33253c4c474bd82e,2011-08-27,Chelsea,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4da21eb7026a1b70,2011-08-27,Wigan,QPR,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+99e55911984920ca,2011-08-27,Swansea,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+985cf9c53afef969,2011-09-10,Arsenal,Swansea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a00fecd958dea71c,2011-09-11,Norwich,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c97af96ed3a7dc42,2011-09-12,QPR,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7042ff9568137c26,2011-09-17,Swansea,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9dd341c5330da646,2011-09-17,Bolton,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aa02ddea8041bace,2011-09-17,Wolves,QPR,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b320fb49edc055b6,2012-08-18,Reading,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+edaf1455458cfcfa,2012-08-18,West Ham,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+79af7e59569e5cda,2012-08-19,Manchester City,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3a1a752c63fa13bf,2012-08-22,Chelsea,Reading,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2557f82a709bab44,2012-08-25,Swansea,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e8602c451b3e8ef0,2012-08-25,Southampton,Wigan,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5b723d06d3fc1590,2012-09-01,West Ham,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+06cd815b4a56e3dc,2012-09-02,Southampton,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+518da5399597e77d,2012-09-15,Norwich,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e8f78454b578c7e0,2012-09-15,Arsenal,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+de755458049a5204,2012-09-16,Reading,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b4a2209f45d9846b,2012-09-22,West Ham,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bc312a05dc179b90,2012-09-22,Southampton,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c263d7beb656e104,2012-09-22,West Brom,Reading,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7974e116176483f1,2012-09-29,Reading,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d9a0f9913330f28f,2013-08-17,West Ham,Cardiff,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f3d6071bd4bc5b38,2013-08-18,Chelsea,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fcd5f3a0e05c2a9a,2013-08-18,Crystal Palace,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+83f42ed2f7f4d738,2013-08-24,Stoke,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f1ad1681d04c5dfe,2013-08-24,Hull,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c86f340ba3db030f,2013-08-25,Cardiff,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2d42d177ffd9cfb7,2013-08-31,Manchester City,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3dc13a8b42b1939e,2013-08-31,Crystal Palace,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b42c49b4a23a9db2,2013-08-31,Cardiff,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b7b8c28b366e511f,2013-09-14,Manchester United,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c6e0349b6ac92a47,2013-09-14,Hull,Cardiff,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+30763a1508a8d1c4,2013-09-21,Newcastle,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+47b7925ace825c74,2013-09-22,Cardiff,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+80e3a44587130aa5,2013-09-22,Crystal Palace,Swansea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b949969c8f71afd7,2014-08-16,Leicester,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e546c50d7d5d4f91,2014-08-16,QPR,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+780c4c1dd95a4aab,2014-08-18,Burnley,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6aabdba9ad0485ac,2014-08-23,Swansea,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+da26b36174733f98,2014-08-23,Chelsea,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+42e23d6935f4b750,2014-08-24,Tottenham,QPR,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+48f143e7301a5d8d,2014-08-30,Burnley,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c01a951bc42fdae2,2014-08-30,QPR,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+032fa2d09cf345fc,2014-08-31,Leicester,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0d2d050b80ce636d,2014-09-13,Stoke,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1a7fd0193d6b7d31,2014-09-13,Crystal Palace,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+217ad39f70cf87f1,2014-09-14,Manchester United,QPR,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+33a18ae489f7f85c,2014-09-20,QPR,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d8467b61a8d67696,2014-09-20,Burnley,Sunderland,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+50db3b25ed0f372e,2014-09-21,Leicester,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+25ff3278e0b3105a,2015-08-08,Everton,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7e25c641ca9bdf6d,2015-08-08,Bournemouth,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e89fde2386ef14b0,2015-08-08,Norwich,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+11e8bd6456b939a6,2015-08-15,Watford,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+389dd8484e2ae578,2015-08-15,Sunderland,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d4388e54f087097e,2015-08-17,Liverpool,Bournemouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+20e08d9cd21a2153,2015-08-22,West Ham,Bournemouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+848a5f8bb69ce603,2015-08-22,Norwich,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+481069a0e8678d9c,2015-08-23,Watford,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1e76b3b8d93d260e,2015-08-29,Manchester City,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e546c2e79f53b06a,2015-08-29,Bournemouth,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+52b3452b44491256,2015-08-30,Southampton,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0f3fdba00e329b94,2015-09-12,Norwich,Bournemouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c22afcf557dd7071,2015-09-12,Watford,Swansea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2bec3cf68d0cbed8,2016-08-13,Burnley,Swansea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+35a1e81f52b1416b,2016-08-13,Hull,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c746ced9a2cfc3ce,2016-08-13,Middlesbrough,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1959bb94285aa850,2016-08-20,Burnley,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b116f15bc6e668a0,2016-08-20,Swansea,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+12537456f12fbe2e,2016-08-21,Sunderland,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+46d34395d9a75c58,2016-08-27,Hull,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7d48d1d4f850935e,2016-08-27,Chelsea,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+19084d5bd5eaeab4,2016-08-28,West Brom,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+39be63059f6cc259,2016-09-10,Burnley,Hull,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+dcacfdb1e796c517,2016-09-10,Middlesbrough,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+356153449ca16999,2016-09-17,Leicester,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4dc990f957705407,2016-09-17,Hull,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fc0d34b406d5106a,2016-09-17,Everton,Middlesbrough,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0fd2ce080bb42d94,2017-08-12,Brighton,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+233f79370f4bfe10,2017-08-12,Crystal Palace,Huddersfield,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+467e3d9f9a267421,2017-08-13,Newcastle,Tottenham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+25b90d5b6aff4806,2017-08-19,Leicester,Brighton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aff6d7a8871e9c89,2017-08-20,Huddersfield,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+37718f4de4dae717,2017-08-26,Watford,Brighton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3b02c4a5ad882bdb,2017-08-26,Huddersfield,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+603a8b11dfe367b3,2017-08-26,Newcastle,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+25f27598f6166e1a,2017-09-09,Brighton,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f2cdd5b4af5f44a4,2017-09-10,Swansea,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+74ea82ae1c1f9dfb,2017-09-11,West Ham,Huddersfield,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e3e28fdb251f0825,2017-09-15,Bournemouth,Brighton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7e6f29acb9dd62e5,2017-09-16,Huddersfield,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9a73976533fcc927,2017-09-16,Newcastle,Stoke,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1edd2154a8d736bc,2018-08-11,Bournemouth,Cardiff,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+808b94a16e59de9a,2018-08-11,Wolves,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e0cfc9e58f39a548,2018-08-11,Fulham,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2685192778562d37,2018-08-18,Cardiff,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+909f4884bbc876e4,2018-08-18,Leicester,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f7c5053ab61a5bb9,2018-08-18,Tottenham,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+363ab65ae11eb682,2018-08-25,Wolves,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f4903bde7f760670,2018-08-25,Huddersfield,Cardiff,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3f215dea33d4e885,2018-08-26,Fulham,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+806cf4975522bd01,2018-09-01,Brighton,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+db2c54115152856d,2018-09-01,West Ham,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+680c4bcad3b0b93f,2018-09-02,Cardiff,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+947a56368ea470c7,2018-09-15,Manchester City,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f2a99c8bb7c5d71c,2018-09-15,Chelsea,Cardiff,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6c4886db6e57767c,2018-09-16,Wolves,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+663201d37407c090,2019-08-09,Liverpool,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+002788960092bb9d,2019-08-10,Bournemouth,Sheffield United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c6cd839b2e0ab376,2019-08-10,Tottenham,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6220035b4deed432,2019-08-17,Aston Villa,Bournemouth,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b99920ee4d04eb49,2019-08-17,Norwich,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+993893f1f21fca00,2019-08-18,Sheffield United,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7492a271cea4b08b,2019-08-23,Aston Villa,Everton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+46d6bd9e2c973d9f,2019-08-24,Norwich,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+71291c86bda318fb,2019-08-24,Sheffield United,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6d5997f9665345ac,2019-08-31,Chelsea,Sheffield United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+dc13950a99e37ef7,2019-08-31,West Ham,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+eabe7feabaad7304,2019-08-31,Crystal Palace,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+50d412785bfca06d,2019-09-14,Norwich,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+a0bedafc4279bda1,2019-09-14,Sheffield United,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e9d9dd54788a2cd2,2019-09-16,Aston Villa,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1a0e42cf966070f3,2020-09-12,Fulham,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fc8b2b97eef4e29e,2020-09-12,Liverpool,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+41fbe28c2204e032,2020-09-13,West Brom,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7fe527502b3731b6,2020-09-19,Everton,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9bbf84b2c9716472,2020-09-19,Leeds,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bb30a13ba154bb5c,2020-09-26,West Brom,Chelsea,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2ce123187269fa74,2020-09-27,Sheffield United,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+225b676d6580d843,2020-09-28,Fulham,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+515d949820fe59e8,2020-10-03,Leeds,Manchester City,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0882222ca352ed47,2020-10-04,Southampton,West Brom,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+17aecc4afc64b5a5,2020-10-04,Wolves,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d7e9dcc4f27ea670,2020-10-18,Sheffield United,Fulham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+517e0aae9d8c1511,2020-10-19,West Brom,Burnley,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+52b1564e5c9d2727,2020-10-19,Leeds,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fa2d40d23e043f7d,2021-08-13,Brentford,Arsenal,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2fe3e006194c802a,2021-08-14,Watford,Aston Villa,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d8edb58094324274,2021-08-14,Norwich,Liverpool,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0f80735606e13607,2021-08-21,Brighton,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2decd60134ea7113,2021-08-21,Crystal Palace,Brentford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d81fb67dc93521ff,2021-08-21,Manchester City,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+e83f7f6059c141e8,2021-08-21,Aston Villa,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+4fd8bdeebee72b96,2021-08-23,West Ham,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0820246a6e1d9c25,2021-08-28,West Ham,Crystal Palace,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+28e29ff659304d14,2021-08-28,Newcastle,Southampton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bd2e7cea5974ef97,2021-08-28,Norwich,Leicester,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d2d71179721abde7,2021-08-28,Aston Villa,Brentford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5aba6ede15c67276,2021-08-29,Tottenham,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6e5eac167f455a3b,2021-09-11,Arsenal,Norwich,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+92dc05919b197444,2021-09-11,Watford,Wolves,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+cd49fb4f521f6e83,2021-09-11,Brentford,Brighton,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d20e4a44b63523d6,2021-09-11,Manchester United,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+fcc2ee19924f6aa1,2021-09-11,Southampton,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+83fac137f69f03e0,2021-09-17,Newcastle,Leeds,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3164cbc17eb33686,2021-09-18,Norwich,Watford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3c0dd8be43147dbc,2021-09-18,Wolves,Brentford,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+98d1702f4d60a1fa,2021-09-19,West Ham,Manchester United,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1cf07c76b011831a,2021-09-25,Leeds,West Ham,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bff16353d7db16e7,2021-09-25,Watford,Newcastle,train,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+bb0fd0ce92033bb4,2022-08-06,Bournemouth,Aston Villa,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d089af6a37939f01,2022-08-06,Fulham,Liverpool,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f164784dadd5db9f,2022-08-06,Newcastle,Nottingham Forest,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ea1a95b665d59c9f,2022-08-13,Manchester City,Bournemouth,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f223412f2f221051,2022-08-13,Wolves,Fulham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ce0e1577d6753388,2022-08-14,Nottingham Forest,West Ham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+333b0a7a41107901,2022-08-20,Everton,Nottingham Forest,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3703dfe41c4b6847,2022-08-20,Bournemouth,Arsenal,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3d599df661651534,2022-08-20,Fulham,Brentford,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+7298b956be0beb0b,2022-08-27,Liverpool,Bournemouth,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c51ef3ceeeef36ba,2022-08-27,Arsenal,Fulham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+946bd5c8d06543ef,2022-08-28,Nottingham Forest,Tottenham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+72c5ea970d03616b,2022-08-30,Fulham,Brighton,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8e5b4969cb57dc40,2022-08-31,Manchester City,Nottingham Forest,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d60f7139fcfecf1f,2022-08-31,Bournemouth,Wolves,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3d920c974fcb1667,2023-08-11,Burnley,Manchester City,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0b1dbcb78363b102,2023-08-12,Brighton,Luton,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+916faf943e6645dc,2023-08-12,Sheffield United,Crystal Palace,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8a9c25738e901434,2023-08-18,Nottingham Forest,Sheffield United,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d823e2b298519cc9,2023-08-25,Chelsea,Luton,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9b441e61c9ed55b3,2023-08-27,Sheffield United,Manchester City,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca6becdec36843b3,2023-08-27,Burnley,Aston Villa,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+9fc1ba1c02a46a76,2023-09-01,Luton,West Ham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+13193fa28b17bfbe,2023-09-02,Sheffield United,Everton,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1bea536215fb9ce9,2023-09-02,Burnley,Tottenham,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+243561e55175667c,2023-09-16,Fulham,Luton,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d886f62920f656b3,2023-09-16,Tottenham,Sheffield United,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+3361e70de5be64a5,2023-09-18,Nottingham Forest,Burnley,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+513f3e021baa6c45,2023-09-23,Burnley,Manchester United,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+78625ef16f809910,2023-09-23,Luton,Wolves,validation,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+1418dd06cd63c2d9,2024-08-17,Ipswich,Liverpool,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f31aab932fcadda4,2024-08-17,Newcastle,Southampton,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+16243bb86776bac9,2024-08-19,Leicester,Tottenham,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+166e9f633eba6465,2024-08-24,Fulham,Leicester,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ee3e10027a6c7a8e,2024-08-24,Manchester City,Ipswich,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+f08d95654d95ec82,2024-08-24,Southampton,Nottingham Forest,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+2a7b7f3e8cfc352f,2024-08-31,Ipswich,Fulham,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5f5ff37c6d6b81c0,2024-08-31,Leicester,Aston Villa,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ca2fa4f92048004b,2024-08-31,Brentford,Southampton,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+13d7e72c12f06299,2024-09-14,Brighton,Ipswich,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+6afe3ae07f54f0f4,2024-09-14,Southampton,Manchester United,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+c80e526c83c8dcf4,2024-09-14,Crystal Palace,Leicester,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+355734dd4f776439,2024-09-21,Southampton,Ipswich,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ab29bc4f7431fc2e,2024-09-21,Leicester,Everton,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5e4d08c02569ba07,2025-08-16,Tottenham,Burnley,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+dc1550a0315c12ae,2025-08-16,Sunderland,West Ham,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+12241ff91d3a34db,2025-08-18,Leeds,Everton,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d6679abae33aa7b2,2025-08-23,Burnley,Sunderland,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+ed64ad0a14bfb919,2025-08-23,Arsenal,Leeds,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+0e66dd3073793e4d,2025-08-30,Manchester United,Burnley,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5515f9291dabaec8,2025-08-30,Leeds,Newcastle,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+8c32f8ea6aa0b001,2025-08-30,Sunderland,Brentford,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+aa7fb8dae32f9052,2025-09-13,Crystal Palace,Sunderland,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d6e3d3cedd9873d0,2025-09-13,Fulham,Leeds,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+d8ce43b257162319,2025-09-14,Burnley,Liverpool,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+5005a138ade679bb,2025-09-20,Burnley,Nottingham Forest,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+70da1d48e89ea703,2025-09-20,Wolves,Leeds,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window
+b9730178e94426b8,2025-09-21,Sunderland,Aston Villa,test,Insufficient prior EPL history or fewer than 5 valid measurements in a required window

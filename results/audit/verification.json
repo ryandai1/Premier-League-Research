@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "matches": 9880,
+  "reproduced_features": 9880,
+  "correction_cells": 57,
+  "raw_preserved": true,
+  "remote_football_data_verified": false,
+  "original_provider_per_cell_verified": false,
+  "checks": [
+    "raw SHA256",
+    "raw-to-clean equality",
+    "season counts",
+    "full feature reconstruction",
+    "all split cells and alignment",
+    "readiness and split definitions",
+    "multi-era temporal mutation"
+  ]
+}

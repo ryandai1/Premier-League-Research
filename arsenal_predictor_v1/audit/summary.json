@@ -1,0 +1,34 @@
+{
+  "raw_reza_rows": 9880,
+  "raw_reza_columns": 85,
+  "readme_claimed_columns": 65,
+  "raw_tara_rows": 3800,
+  "matched_overlap": 3800,
+  "additional_matches_from_tara": 0,
+  "unique_matches": 9880,
+  "seasons": 26,
+  "teams": 46,
+  "arsenal_total_matches": 988,
+  "source_measurement_conflicts": 1,
+  "contradictory_shot_matches": 3,
+  "contradictory_shot_team_sides": 5,
+  "matches_missing_either_xg": 7023,
+  "core_features": 39,
+  "core_ready_matches": 9439,
+  "core_excluded_matches": 441,
+  "split_rows": {
+    "test": 732,
+    "train": 7977,
+    "validation": 730
+  },
+  "arsenal_ready_matches": 964,
+  "arsenal_split_rows": {
+    "test": 75,
+    "train": 815,
+    "validation": 74
+  },
+  "optional_xg_ready_matches": 2551,
+  "min_date": "2000-08-19",
+  "max_date": "2026-05-24",
+  "test_model_evaluation_performed": false
+}

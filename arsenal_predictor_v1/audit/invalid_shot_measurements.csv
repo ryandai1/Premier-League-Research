@@ -1,0 +1,6 @@
+match_id,date,home_team,away_team,side,shots,shots_on_target,action
+03722351532785f9,2000-10-14,Coventry,Tottenham,home,0.0,5.0,Set both contradictory measurements to missing; preserve match and goals
+d66b08be650dd6bd,2001-04-13,Bradford,Charlton,home,4.0,8.0,Set both contradictory measurements to missing; preserve match and goals
+03722351532785f9,2000-10-14,Coventry,Tottenham,away,4.0,5.0,Set both contradictory measurements to missing; preserve match and goals
+d66b08be650dd6bd,2001-04-13,Bradford,Charlton,away,3.0,8.0,Set both contradictory measurements to missing; preserve match and goals
+90f4aee708558cd1,2021-08-15,Newcastle,West Ham,away,8.0,9.0,Set both contradictory measurements to missing; preserve match and goals

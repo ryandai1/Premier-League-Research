@@ -1,0 +1,2 @@
+season_start,home_team,away_team,field,reza_value,tara_value,resolution,chosen_source
+2015,Aston Villa,West Ham,home_shots,15.0,5,"Keep Reza value 15: football-data 2015/16 confirms 15; Tara gives 5, below 8 shots on target",reza_verified_football_data

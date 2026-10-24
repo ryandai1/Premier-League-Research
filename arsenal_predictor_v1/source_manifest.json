@@ -1,0 +1,46 @@
+[
+  {
+    "name": "reza",
+    "repository": "RezaGooner/english-premier-league-match-dataset",
+    "revision": "9e3ecdc5b85616e69044440304673ef564a8ed98",
+    "path": "Data/EPL_Match_Data_2000_2026.csv",
+    "url": "https://raw.githubusercontent.com/RezaGooner/english-premier-league-match-dataset/9e3ecdc5b85616e69044440304673ef564a8ed98/Data/EPL_Match_Data_2000_2026.csv",
+    "bytes": 4524257,
+    "sha256": "f4145b15e6838ffe825d172130debb0be6f2f4e982df3b8582911310c2086997",
+    "download_date": "2026-10-24"
+  },
+  {
+    "name": "tara",
+    "repository": "tara-nguyen/english-premier-league-datasets-for-10-seasons",
+    "revision": "be9c5c9953e9a4f4c1b4e906c0d0654dab317449",
+    "path": "epldat10seasons/epl-allseasons-matchstats.csv",
+    "url": "https://raw.githubusercontent.com/tara-nguyen/english-premier-league-datasets-for-10-seasons/be9c5c9953e9a4f4c1b4e906c0d0654dab317449/epldat10seasons/epl-allseasons-matchstats.csv",
+    "bytes": 410046,
+    "sha256": "eb35308565cc3d906b56bec76a009da53ea7dc6168f4dfbd1671c5fa75d31ebf",
+    "download_date": "2026-10-24"
+  },
+  {
+    "name": "football_data_1516",
+    "url": "https://www.football-data.co.uk/mmz4281/1516/E0.csv",
+    "download_date": "2026-10-24",
+    "bytes": 100656,
+    "sha256": "bd3502a18c38a1597fd9af62e2366b4015006d3528dd4d18b311bd6237bbc085",
+    "purpose": "independent spot-check; not appended as new matches"
+  },
+  {
+    "name": "football_data_2425",
+    "url": "https://www.football-data.co.uk/mmz4281/2425/E0.csv",
+    "download_date": "2026-10-24",
+    "bytes": 197110,
+    "sha256": "d0c8ce4a96d886cf60cf101f570f4a3893844226f91c7bd769eb568c49edbfa4",
+    "purpose": "independent spot-check; not appended as new matches"
+  },
+  {
+    "name": "football_data_2526",
+    "url": "https://www.football-data.co.uk/mmz4281/2526/E0.csv",
+    "download_date": "2026-10-24",
+    "bytes": 203438,
+    "sha256": "3e3a8352f9ada6789c508d6ca184424421fed56a30400904a4a327c583407e62",
+    "purpose": "independent spot-check; not appended as new matches"
+  }
+]

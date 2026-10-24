@@ -1,0 +1,86 @@
+raw_column,handling
+Season,Metadata / chronological indexing; not direct model feature
+Year,Metadata / chronological indexing; not direct model feature
+Month,Metadata / chronological indexing; not direct model feature
+Day,Metadata / chronological indexing; not direct model feature
+WeekDay,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+Time,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+Round,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeTeam,Metadata / chronological indexing; not direct model feature
+AwayTeam,Metadata / chronological indexing; not direct model feature
+HomeGoal,Post-match observation; retained for targets and strictly lagged histories only
+AwayGoal,Post-match observation; retained for targets and strictly lagged histories only
+Result,Target; independently recomputed from goals
+HomeGoal-HalfTime,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayGoal-HalfTime,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+Result-HalfTime,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+Attendance,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+Referee,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeShot,Post-match observation; retained for targets and strictly lagged histories only
+AwayShot,Post-match observation; retained for targets and strictly lagged histories only
+HomeOnTargetShot,Post-match observation; retained for targets and strictly lagged histories only
+AwayOnTargetShot,Post-match observation; retained for targets and strictly lagged histories only
+HomeFoul,Post-match observation; retained for targets and strictly lagged histories only
+AwayFoul,Post-match observation; retained for targets and strictly lagged histories only
+HomeCorner,Post-match observation; retained for targets and strictly lagged histories only
+AwayCorner,Post-match observation; retained for targets and strictly lagged histories only
+HomeYellow,Post-match observation; retained for targets and strictly lagged histories only
+AwayYellow,Post-match observation; retained for targets and strictly lagged histories only
+HomeRed,Post-match observation; retained for targets and strictly lagged histories only
+AwayRed,Post-match observation; retained for targets and strictly lagged histories only
+XGHome,Post-match observation; retained for targets and strictly lagged histories only
+XGAway,Post-match observation; retained for targets and strictly lagged histories only
+SeasonPosHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonPlayedHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonWinHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonDrawHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonLossHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGFHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGAHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGDHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonPointsHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+QualificationOrRelegationHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonPosAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonPlayedAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonWinAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonDrawAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonLossAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGFAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGAAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonGDAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SeasonPointsAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+QualificationOrRelegationAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeCity,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeRegion,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayCity,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayRegion,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+IsDerby,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeStadium,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeManager,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayManager,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeTrophies,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayTrophies,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+HomeForm,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+AwayForm,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+H2HForm,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+VAR,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+PremierLeagueHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+PremierLeagueAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+FACupHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+FACupAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+CarabaoCupHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+CarabaoCupAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+CommunityShieldHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+CommunityShieldAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ChampionsLeagueHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ChampionsLeagueAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+EuropaLeagueHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+EuropaLeagueAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ConferenceLeagueHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ConferenceLeagueAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SuperCupHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+SuperCupAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ClubWorldCupHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+ClubWorldCupAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+IntercontinentalCupHome,Excluded from default model: post-match/final-season information or unverified historical availability/definition
+IntercontinentalCupAway,Excluded from default model: post-match/final-season information or unverified historical availability/definition
