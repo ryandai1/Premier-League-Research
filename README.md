@@ -4,6 +4,29 @@
 
 Start with **[the executed notebook](notebooks/Arsenal_League_vs_Arsenal.ipynb)**. It contains raw-data visualization, an explicit cleaning protocol, post-cleaning visualization, training/checkpoint inspection, held-out probabilities, calibration and transfer evaluation.
 
+## Latest results — experiment 2
+
+**[Open the executed experiment 2 notebook](notebooks/Experiment_2_Arsenal_First_Reproducibility.ipynb)** · [Workflow and comparison](EXPERIMENT_2.md) · [Saved outputs](results/experiment_2/run_20261025T124105/)
+
+**Reproducibility rerun: the test results had already been inspected.** The workflow is now Arsenal-only baseline → independently initialized league-wide challenger → optional Arsenal fine-tuning (enabled in this run). The data, chronological splits, seed 42, architecture, cross-entropy loss, AdamW at 1e-4, maximum 100 epochs and patience 20 are unchanged. Each fit resets its seed; only fine-tuning starts from a trained checkpoint.
+
+On the same **75 eligible Arsenal test fixtures**:
+
+| Model | Experiment 1 log loss ↓ | Experiment 2 log loss ↓ | Experiment 2 Brier ↓ | Experiment 2 accuracy |
+|---|---:|---:|---:|---:|
+| Arsenal-only MLP | 0.959723 | 0.959723 | 0.569044 | 60.00% |
+| Independent league MLP | 0.899941 | 0.899941 | 0.529087 | 61.33% |
+| League → Arsenal fine-tuned MLP | 0.900410 | 0.900410 | 0.529357 | 61.33% |
+| League logistic | 0.908957 | 0.908957 | 0.532644 | 61.33% |
+| Arsenal-only logistic | 0.909300 | 0.909300 | 0.534445 | 64.00% |
+| League class prior | 1.094381 | 1.094381 | 0.664183 | 40.00% |
+
+All six models exactly reproduce experiment 1's validation and test probabilities across all EPL fixtures: maximum absolute probability difference **0**. All metric deltas are zero. The league-minus-Arsenal test log-loss difference remains **-0.059782**, with month-block 95% bootstrap interval **[-0.100787, -0.016194]**. Fine-tuning does not improve test log loss here. **League logistic remains the validation-selected candidate**; test performance does not change selection.
+
+The reordered workflow reproduces the original result and adds no independent confirmatory evidence. A new untouched period is needed for that. Experiment 1's notebook, fitting code, data and result artifacts remain unchanged.
+
+![Experiment 1 versus experiment 2](results/experiment_2/run_20261025T124105/experiment_1_comparison.png)
+
 ## First experiment
 Does league-wide training improve future Arsenal predictions over Arsenal-only training?
 
