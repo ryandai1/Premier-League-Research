@@ -1,0 +1,12 @@
+Executed notebook top to bottom; nbformat valid; all code cells executed without errors.
+Figures inspected as PNGs. HTML preview exported; full browser layout inspection unavailable in this session.
+
+test_all_models_reproduce_saved_predictions (__main__.Experiment2Artifacts.test_all_models_reproduce_saved_predictions) ... ok
+test_away_orientation (__main__.Experiment2Artifacts.test_away_orientation) ... ok
+test_rejects_reordered_or_missing_features (__main__.Experiment2Artifacts.test_rejects_reordered_or_missing_features) ... ok
+test_selection_and_caps (__main__.Experiment2Artifacts.test_selection_and_caps) ... ok
+
+----------------------------------------------------------------------
+Ran 4 tests in 0.049s
+
+OK
