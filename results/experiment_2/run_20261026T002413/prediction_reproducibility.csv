@@ -1,0 +1,13 @@
+model,split,max_probability_difference
+arsenal_mlp,validation,0.0
+arsenal_mlp,test,0.0
+league_mlp,validation,0.0
+league_mlp,test,0.0
+league_to_arsenal_mlp,validation,0.0
+league_to_arsenal_mlp,test,0.0
+league_logistic,validation,0.0
+league_logistic,test,0.0
+arsenal_logistic,validation,0.0
+arsenal_logistic,test,0.0
+league_prior,validation,0.0
+league_prior,test,0.0

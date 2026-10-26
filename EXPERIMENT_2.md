@@ -33,3 +33,13 @@ The order makes the baseline/challenger interpretation clearer, but does not alt
 Install `requirements.txt` (this execution used CPU PyTorch 2.5.1+cpu), then execute the new notebook top to bottom. Every execution creates a new timestamped directory; experiment 1 is read only. The notebook verifies inputs, stage independence, scaler retention, checkpoint reloads, candidate selection, and fixture alignment. It saves full metrics, histories, checkpoints, per-match probabilities, `experiment_1_comparison.csv`, `prediction_reproducibility.csv`, a summary, and figures.
 
 The existing experiment 1 notebook, code, raw inputs, splits, audits, and result files are preserved byte for byte. No source refresh, feature engineering revision, hyperparameter search, or test-based candidate selection was performed.
+
+## Fresh execution with visible epochs
+
+The code was reviewed again and the update loop instrumented in `experiments/epoch_training.py`. It preserves the original numerical update and early-stopping rules, while exposing every epoch. The runner now uses that instrumented loop. `notebooks/Experiment_2_Epoch_By_Epoch.ipynb` executed all stages anew and generated `results/experiment_2/run_20261026T002413/`.
+
+Read `EVERY_EPOCH.md` for all 221 epochs; `epoch_log.txt` and `all_epochs.csv` contain the raw records. Each stage also records UTC execution times, initial and best weight hashes, checkpoint ancestry, optimizer update counts, and its stopping reason. Arsenal-only ran 400 updates, league ran 3,200, and fine-tuning ran 84. Checkpoint and optimizer-state checks validate these records. Epoch zero of fine-tuning is shown in the executed notebook output.
+
+The same results are expected because each independent fit resets seed 42 and consumes the same ordered data with the same optimizer settings. The reordered stages do not transfer Arsenal weights into the league challenger. Independent initialization here means a fresh model; the fixed seed intentionally makes its initial tensor values identical to the Arsenal model's initial values. New losses and probabilities are computed in the run, then compared with archived values. No prior predictions are used to train or score.
+
+The earlier chat was supplied and reviewed. Its intended flow is Arsenal baseline → independent league challenger → frozen comparison → optional Arsenal specialization. The final rerun explicitly writes and displays `frozen_validation_comparison.json` before fine-tuning starts; it uses validation only. Test evaluation follows completion of fitting and validation-only candidate selection. Cross-entropy is unweighted, as before.

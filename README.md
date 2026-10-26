@@ -6,6 +6,8 @@ Start with **[the executed notebook](notebooks/Arsenal_League_vs_Arsenal.ipynb)*
 
 ## Latest results — experiment 2
 
+**Fresh execution with every epoch visible:** [executed notebook](notebooks/Experiment_2_Epoch_By_Epoch.ipynb), [all 221 epoch results](results/experiment_2/run_20261026T002413/EVERY_EPOCH.md), [raw log](results/experiment_2/run_20261026T002413/epoch_log.txt), and [new outputs](results/experiment_2/run_20261026T002413/). The reviewed training loop logs loss, validation accuracy, patience, checkpoint saves and optimizer steps. Initialization hashes establish that the league challenger starts fresh and only fine-tuning inherits league weights. This fresh execution again exactly reproduces the earlier probabilities.
+
 **[Open the executed experiment 2 notebook](notebooks/Experiment_2_Arsenal_First_Reproducibility.ipynb)** · [Workflow and comparison](EXPERIMENT_2.md) · [Saved outputs](results/experiment_2/run_20261025T124105/)
 
 **Reproducibility rerun: the test results had already been inspected.** The workflow is now Arsenal-only baseline → independently initialized league-wide challenger → optional Arsenal fine-tuning (enabled in this run). The data, chronological splits, seed 42, architecture, cross-entropy loss, AdamW at 1e-4, maximum 100 epochs and patience 20 are unchanged. Each fit resets its seed; only fine-tuning starts from a trained checkpoint.

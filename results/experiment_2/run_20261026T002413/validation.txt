@@ -1,0 +1,6 @@
+Executed notebook top to bottom with every epoch visible.
+All 221 epochs and 3,684 optimizer updates checked.
+Frozen validation comparison recorded before optional specialization.
+Checkpoint reload and initialization ancestry checks passed.
+Seven unit tests passed; original experiment 1 remains unchanged.
+HTML exported; full browser layout inspection unavailable.

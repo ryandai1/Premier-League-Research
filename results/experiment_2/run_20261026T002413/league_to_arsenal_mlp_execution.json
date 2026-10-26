@@ -1,0 +1,16 @@
+{
+  "model": "league_to_arsenal_mlp",
+  "started_utc": "2026-10-26T00:24:17.057694+00:00",
+  "initial_checkpoint": "/workspace/Premier-League-Research/results/experiment_2/run_20261026T002413/league_mlp_best.pt",
+  "initial_weights_sha256": "6491ec3acec3c202f9476ed554dad683191400613eb8a950ff445b6bc6766b1e",
+  "initial_checkpoint_sha256": "0416130b3fd2eab7db5f86512162569e862c82f5014f61160ef1aeff396838b0",
+  "training_rows": 815,
+  "validation_rows": 74,
+  "optimizer_steps": 84,
+  "finished_utc": "2026-10-26T00:24:17.167625+00:00",
+  "elapsed_seconds": 0.11246991157531738,
+  "best_weights_sha256": "1ef8bbf329a100e20134b3d4f3bc6d3148faab625b3bdcd08bd5060410927b5c",
+  "best_epoch": 1,
+  "epochs_run": 21,
+  "stop_reason": "patience"
+}

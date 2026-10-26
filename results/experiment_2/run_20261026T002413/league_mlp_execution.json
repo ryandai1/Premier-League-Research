@@ -1,0 +1,16 @@
+{
+  "model": "league_mlp",
+  "started_utc": "2026-10-26T00:24:14.602662+00:00",
+  "initial_checkpoint": null,
+  "initial_weights_sha256": "a82b44ca3abc7438de0fbd0854c518ff90448624564e791c5c83d87b123bf694",
+  "initial_checkpoint_sha256": null,
+  "training_rows": 7977,
+  "validation_rows": 74,
+  "optimizer_steps": 3200,
+  "finished_utc": "2026-10-26T00:24:17.048686+00:00",
+  "elapsed_seconds": 2.4505374431610107,
+  "best_weights_sha256": "6491ec3acec3c202f9476ed554dad683191400613eb8a950ff445b6bc6766b1e",
+  "best_epoch": 98,
+  "epochs_run": 100,
+  "stop_reason": "maximum epochs"
+}
