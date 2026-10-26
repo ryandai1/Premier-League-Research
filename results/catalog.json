@@ -1,0 +1,50 @@
+{
+  "schema_version": 1,
+  "runs": [
+    {
+      "id": "experiment_1_original",
+      "path": "results/run_20261024T140407",
+      "status": "original",
+      "source_commit": "a31974478432a717fb2986887e81f8739990ea17",
+      "runner_source": "experiments/train.py",
+      "notebook": "notebooks/Arsenal_League_vs_Arsenal.ipynb",
+      "test_previously_inspected": false
+    },
+    {
+      "id": "experiment_2_initial",
+      "path": "results/experiment_2/run_20261025T124105",
+      "status": "historical",
+      "source_commit": "9a7b50000a90fc2fd2a7fcd99311309d987cf0fe",
+      "runner_source": "experiments/experiment_2.py",
+      "notebook": "notebooks/Experiment_2_Arsenal_First_Reproducibility.ipynb",
+      "test_previously_inspected": true
+    },
+    {
+      "id": "experiment_2_instrumented",
+      "path": "results/experiment_2/run_20261026T002228",
+      "status": "historical",
+      "source_commit": "49e91061ee4b9f94bb69d800d1b36da3a92f1224",
+      "runner_source": "experiments/experiment_2.py",
+      "notebook": null,
+      "test_previously_inspected": true
+    },
+    {
+      "id": "experiment_2_current",
+      "path": "results/experiment_2/run_20261026T002413",
+      "status": "featured",
+      "source_commit": "7eac1f2888f110b4e1480e28d8804ea09c2d1a27",
+      "runner_source": "experiments/experiment_2.py",
+      "notebook": "notebooks/Experiment_2_Epoch_By_Epoch.ipynb",
+      "test_previously_inspected": true
+    },
+    {
+      "id": "experiment_1_verification",
+      "path": "results/run_20261026T003158",
+      "status": "featured",
+      "source_commit": "96d9221a915cad36dd15622c8a05ec737483236f",
+      "runner_source": "experiments/train.py",
+      "notebook": "notebooks/Experiment_1_Fresh_Verification.ipynb",
+      "test_previously_inspected": true
+    }
+  ]
+}

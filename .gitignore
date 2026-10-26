@@ -2,3 +2,7 @@ __pycache__/
 .ipynb_checkpoints/
 .venv/
 *.tmp
+
+# Local authoring scratch and regenerable notebook previews
+work/
+results/**/notebook.html

@@ -1,0 +1,7 @@
+[tool.black]
+line-length = 88
+include = '\.py$'
+# Hash-pinned original evidence: retain formatting as well as behavior.
+force-exclude = '''
+/(arsenal_predictor_v1/|experiments/train\.py$|work/)
+'''
