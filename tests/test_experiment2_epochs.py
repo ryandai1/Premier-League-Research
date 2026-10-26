@@ -51,3 +51,13 @@ class EpochTrace(unittest.TestCase):
             ck=torch.load(self.run_dir/f'{n}_best.pt',weights_only=False)
             model=network(39);model.load_state_dict(ck['model_state'])
             self.assertEqual(state_digest(model),audit['best_weights_sha256'])
+
+    def test_frozen_comparison_precedes_specialization(self):
+        comparison=json.loads((self.run_dir/'frozen_validation_comparison.json').read_text())
+        self.assertEqual(set(comparison['models']), {'arsenal_mlp','league_mlp'})
+        for name, record in comparison['models'].items():
+            from experiments.train import digest
+            self.assertEqual(record['checkpoint_sha256'],digest(self.run_dir/f'{name}_best.pt'))
+            self.assertEqual(record['validation']['n'],74)
+        epochs=json.loads((self.run_dir/'league_to_arsenal_mlp_execution.json').read_text())
+        self.assertIn('league_mlp_best.pt',epochs['initial_checkpoint'])

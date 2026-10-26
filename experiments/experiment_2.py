@@ -42,6 +42,20 @@ def run(fine_tune=True):
     predictors={};training=[]
     for name,mask in [('arsenal_mlp',a),('league_mlp',np.ones(len(xt),dtype=bool))]:
         predictors[name],info=fit(name,(xt[mask],yt[mask]),(xv[av],yv[av]),folder,schema['features']);training.append(info)
+    # Freeze the baseline/challenger comparison before optional specialization.
+    # fit() already reloads the best checkpoint and disables all gradients.
+    frozen_comparison = {
+        'stage': 'after independent fits, before optional fine-tuning',
+        'selection_data': 'same 74 Arsenal validation fixtures; test not scored here',
+        'models': {
+            name: {'validation': score(yv[av], predictors[name](xv[av])),
+                   'checkpoint_sha256': digest(folder/f'{name}_best.pt')}
+            for name in ['arsenal_mlp', 'league_mlp']
+        }
+    }
+    (folder/'frozen_validation_comparison.json').write_text(json.dumps(frozen_comparison, indent=2))
+    print('FROZEN BASELINE / CHALLENGER COMPARISON BEFORE FINE-TUNING', flush=True)
+    print(json.dumps(frozen_comparison, indent=2), flush=True)
     if fine_tune:
         predictors['league_to_arsenal_mlp'],info=fit('league_to_arsenal_mlp',(xt[a],yt[a]),(xv[av],yv[av]),folder,schema['features'],folder/'league_mlp_best.pt');training.append(info)
     # Fixed credible baselines; no tuning on either validation or test.
