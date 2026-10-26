@@ -1,0 +1,26 @@
+{
+  "model": "league_frozen_source_mlp",
+  "freeze_hidden": false,
+  "trainable_parameters": [
+    "0.weight",
+    "0.bias",
+    "3.weight",
+    "3.bias",
+    "5.weight",
+    "5.bias"
+  ],
+  "started_utc": "2026-10-26T10:40:21.266057+00:00",
+  "initial_checkpoint": null,
+  "initial_weights_sha256": "a82b44ca3abc7438de0fbd0854c518ff90448624564e791c5c83d87b123bf694",
+  "initial_checkpoint_sha256": null,
+  "training_rows": 7142,
+  "validation_rows": 654,
+  "optimizer_steps": 2800,
+  "frozen_hidden_layers_unchanged": false,
+  "finished_utc": "2026-10-26T10:40:23.346908+00:00",
+  "elapsed_seconds": 2.083031177520752,
+  "best_weights_sha256": "3b0bacfa2389a518e26a6e7ad8cfbe93452400e5b7d0c74b4c7dededdbf2cbfc",
+  "best_epoch": 99,
+  "epochs_run": 100,
+  "stop_reason": "maximum epochs"
+}

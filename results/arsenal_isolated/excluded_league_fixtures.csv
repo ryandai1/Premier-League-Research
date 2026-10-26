@@ -1,0 +1,441 @@
+match_id,date,season_start,home_team,away_team,split,reason
+0ceaf8d2cb42c57b,2000-08-19,2000,Leeds,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+58ed09c518db22cd,2000-08-19,2000,Liverpool,Bradford,train,Incomplete pre-match features after Arsenal history exclusion
+aa81d1dcf2aa9fae,2000-08-19,2000,Tottenham,Ipswich,train,Incomplete pre-match features after Arsenal history exclusion
+bf10594aa2b23493,2000-08-19,2000,Leicester,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+bf1ad191b0bae94a,2000-08-19,2000,Charlton,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+ca1bf0da76b3e8e8,2000-08-19,2000,Chelsea,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+d3d4ab7d91d527e8,2000-08-19,2000,Coventry,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+d549f4ef1446bd61,2000-08-19,2000,Derby,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+085caa81878099ba,2000-08-20,2000,Manchester United,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+5c27ce56def2f21b,2000-08-22,2000,Ipswich,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+69becb0a61582bd8,2000-08-22,2000,Middlesbrough,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+c4b55a9b5f5763aa,2000-08-22,2000,Bradford,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+15474b0087c41cb8,2000-08-23,2000,Manchester City,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+20c18065427f3ce2,2000-08-23,2000,Newcastle,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+2dc74809b2a8993e,2000-08-23,2000,West Ham,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+e35b40c1bef6f399,2000-08-23,2000,Southampton,Coventry,train,Incomplete pre-match features after Arsenal history exclusion
+e87e6fd70d3bb679,2000-08-23,2000,Everton,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+0bb3145ac44a160e,2000-08-26,2000,Manchester City,Coventry,train,Incomplete pre-match features after Arsenal history exclusion
+13f6085a61c5b3e2,2000-08-26,2000,Southampton,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+256beb71baece73b,2000-08-26,2000,Everton,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+55e8aaee7ee471c1,2000-08-26,2000,Newcastle,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+8324efb9fa8da1cf,2000-08-26,2000,Ipswich,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+a6e4975c9129c9b2,2000-08-26,2000,Bradford,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+b25aa2a6fba67df2,2000-08-26,2000,Middlesbrough,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+bf4de9bbb7afec1c,2000-08-26,2000,West Ham,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+164330588008a120,2000-08-27,2000,Aston Villa,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+14aac65e357bdde6,2000-09-05,2000,Sunderland,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+ab377312d825f8ee,2000-09-05,2000,Leeds,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+fbff0e4081bd7a04,2000-09-05,2000,Tottenham,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+fce760be10cc00b4,2000-09-05,2000,Manchester United,Bradford,train,Incomplete pre-match features after Arsenal history exclusion
+0e87dd3273c84be1,2000-09-06,2000,Derby,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+556c6b8ac79c579a,2000-09-06,2000,Charlton,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+78d46e559cdabd1f,2000-09-06,2000,Liverpool,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+cc21d42d89b1f12d,2000-09-06,2000,Coventry,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+e6b706c9412bc35d,2000-09-06,2000,Leicester,Ipswich,train,Incomplete pre-match features after Arsenal history exclusion
+0274e741eac8694c,2000-09-09,2000,Newcastle,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+180bc5e602ded58f,2000-09-09,2000,Leicester,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+85aa021dd10633e9,2000-09-09,2000,Coventry,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+a604ea0c17ebaf5d,2000-09-09,2000,Manchester United,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+aa3ed455611f4b94,2000-09-09,2000,Ipswich,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+b37d966c726a10f6,2000-09-09,2000,Middlesbrough,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+dec18c08d580172a,2000-09-09,2000,Liverpool,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+d2be92d3d319bd94,2000-09-10,2000,Derby,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+13c231eccdf2ae13,2000-09-11,2000,Tottenham,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+0776f987dbf0ee81,2000-09-16,2000,Sunderland,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+8b50805b0567548b,2000-09-16,2000,Leeds,Ipswich,train,Incomplete pre-match features after Arsenal history exclusion
+a8133cee5ceae681,2000-09-16,2000,Aston Villa,Bradford,train,Incomplete pre-match features after Arsenal history exclusion
+ac8976463450d283,2000-09-16,2000,Charlton,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+19e278fe588ec5f1,2000-09-17,2000,West Ham,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+72d3e2575ad8f48e,2000-09-17,2000,Chelsea,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+2b4005303baae077,2000-10-21,2000,Chelsea,Coventry,train,Incomplete pre-match features after Arsenal history exclusion
+afb60152946eab51,2000-10-21,2000,Tottenham,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+45dc012a06edf889,2000-10-28,2000,Chelsea,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+5e09b3edbaaf91c5,2000-10-28,2000,Sunderland,Coventry,train,Incomplete pre-match features after Arsenal history exclusion
+0210d11ebd2cf14e,2000-11-04,2000,Tottenham,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+d452c5d0287a1d62,2000-11-04,2000,Coventry,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+a2f9e16d0527563a,2000-11-11,2000,Aston Villa,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+9eb671d957a050e1,2000-11-12,2000,Liverpool,Coventry,train,Incomplete pre-match features after Arsenal history exclusion
+a9dc368e605f074d,2000-11-19,2000,Tottenham,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+ceed3b3a726daff4,2000-11-20,2000,Coventry,Ipswich,train,Incomplete pre-match features after Arsenal history exclusion
+20e4b93de1cb8b58,2001-04-17,2000,Charlton,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+a0c7d3af92af6290,2001-04-21,2000,Bradford,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+a0d015c69f23ef9d,2001-04-21,2000,Chelsea,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+192dd2a0ee6a9316,2001-04-28,2000,Everton,Bradford,train,Incomplete pre-match features after Arsenal history exclusion
+f0af7adbca08e970,2001-04-30,2000,Charlton,Ipswich,train,Incomplete pre-match features after Arsenal history exclusion
+73af25b5b0ffb955,2001-05-01,2000,Bradford,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+3b08ce0f213f509c,2001-05-05,2000,Bradford,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+7ab49243ec161a59,2001-05-05,2000,Sunderland,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+f7f065b045009cca,2001-05-13,2000,Leeds,Bradford,train,Incomplete pre-match features after Arsenal history exclusion
+5504f8e1fc1bb8a3,2001-05-19,2000,Charlton,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+0ea8068fe37220a8,2001-08-18,2001,Derby,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+6b1b70d9d54dd3a0,2001-08-18,2001,Leicester,Bolton,train,Incomplete pre-match features after Arsenal history exclusion
+72dd80460d55da0d,2001-08-19,2001,Manchester United,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+9deeae62402c3898,2001-08-21,2001,Bolton,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+0a203b3742eb3c20,2001-08-22,2001,Fulham,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+86dd35b32fe9f0a5,2001-08-22,2001,Blackburn,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+c68902e3c226f013,2001-08-25,2001,Blackburn,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+cfbde837f157ba0a,2001-08-25,2001,Fulham,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+4ac9f7ce5b25a76b,2001-08-27,2001,Bolton,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+67b362b3bc7f8442,2001-09-08,2001,Sunderland,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+e7c5d775ac2a74b1,2001-09-08,2001,Leeds,Bolton,train,Incomplete pre-match features after Arsenal history exclusion
+bf56a296107949e6,2001-09-09,2001,Charlton,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+72b6671eaa2797ce,2001-09-15,2001,Bolton,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+ca813acdd8b4c8de,2001-09-16,2001,Ipswich,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+d949fb9f02ff30e2,2001-09-22,2001,Leicester,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+3dfe1b6653063067,2002-08-17,2002,Leeds,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+a09f8f9dd734a487,2002-08-17,2002,Manchester United,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+1798bac97755a8ae,2002-08-24,2002,Manchester City,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+8a8fcc5d654a9a41,2002-08-24,2002,West Brom,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+fa8c6f1480c1a4e7,2002-08-24,2002,Birmingham,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+8b22d18b4b61f4a7,2002-08-28,2002,Everton,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+c531e37d04fab895,2002-08-28,2002,Aston Villa,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+244495035d8bded2,2002-08-31,2002,Manchester City,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+5f8d94bbee76b5d1,2002-08-31,2002,West Brom,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+6ba7695fe7448d41,2002-08-31,2002,Birmingham,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+0f6b6b9c262a4306,2002-09-11,2002,West Ham,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+a79fd6a3b8f638ed,2002-09-11,2002,Liverpool,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+2cee57e728c5b8cc,2002-09-14,2002,West Brom,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+70d53c650e3ff556,2002-09-15,2002,Manchester City,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+cf161c6adf194f58,2002-09-16,2002,Birmingham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+a232d3cf8e5cafbf,2003-08-16,2003,Portsmouth,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+c21f0daa78bb525b,2003-08-16,2003,Leicester,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+f4bfb34d8da2ec16,2003-08-16,2003,Blackburn,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+40388e8bf2df3651,2003-08-23,2003,Wolves,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+45a506f9491a275e,2003-08-23,2003,Chelsea,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+fe3b95ca84195e14,2003-08-23,2003,Manchester City,Portsmouth,train,Incomplete pre-match features after Arsenal history exclusion
+423f1ab92b41a323,2003-08-26,2003,Leicester,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+4408bfcc08dc7e7b,2003-08-26,2003,Portsmouth,Bolton,train,Incomplete pre-match features after Arsenal history exclusion
+0495752d4d677eb0,2003-08-27,2003,Manchester United,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+3153fe81fd425db5,2003-08-30,2003,Wolves,Portsmouth,train,Incomplete pre-match features after Arsenal history exclusion
+33b0603d74c3a684,2003-08-30,2003,Aston Villa,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+cdb2f37450f36982,2003-09-13,2003,Southampton,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+c6bdbbfc5d0a4bbe,2003-09-15,2003,Leicester,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+08f9343b2d1ee87b,2003-09-20,2003,Portsmouth,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+2247fcad4e597aa9,2004-08-14,2004,Norwich,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+cfa1b8d897de083e,2004-08-14,2004,Blackburn,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+3576835cfb0b6880,2004-08-21,2004,Crystal Palace,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+751884dee08c0f01,2004-08-21,2004,Manchester United,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+ca1480e7e11f0061,2004-08-22,2004,West Brom,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+9d56db2a09e9c33a,2004-08-24,2004,Crystal Palace,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+4fa2404bd08d7be6,2004-08-25,2004,Newcastle,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+f92e7143a1111f35,2004-08-25,2004,West Brom,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+3939eef8b92f48a0,2004-08-28,2004,Middlesbrough,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+6781458d5fb16bde,2004-08-28,2004,Everton,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+58d7f2534b072999,2004-09-11,2004,Portsmouth,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+ca0ac5247fdb5034,2004-09-11,2004,Liverpool,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+2ec065a43733ca1e,2004-09-12,2004,Tottenham,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+a8e12cee28569f56,2004-09-18,2004,Norwich,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+13d9533f6bc6f22c,2005-08-13,2005,Sunderland,Charlton,train,Incomplete pre-match features after Arsenal history exclusion
+e9944bd40a4a2a50,2005-08-13,2005,West Ham,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+08657558368becb9,2005-08-14,2005,Wigan,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+d2cb2a4ed1e83d15,2005-08-20,2005,Newcastle,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+e406acc829c1e585,2005-08-20,2005,Charlton,Wigan,train,Incomplete pre-match features after Arsenal history exclusion
+ebcaf7537d293096,2005-08-20,2005,Liverpool,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+51fe62bb6aad868d,2005-08-23,2005,Sunderland,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+6e1e24e677b36131,2005-08-27,2005,West Ham,Bolton,train,Incomplete pre-match features after Arsenal history exclusion
+fdf8dac62acb7397,2005-08-27,2005,Wigan,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+879f67a2c4c8b74e,2005-09-10,2005,West Brom,Wigan,train,Incomplete pre-match features after Arsenal history exclusion
+e10528d418972926,2005-09-10,2005,Chelsea,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+2e4eaebdd75413f9,2005-09-12,2005,West Ham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+aaa8d1ee5830c804,2005-09-17,2005,Fulham,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+7c524489a525fc6d,2005-09-18,2005,Wigan,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+25b67359cedab20d,2006-08-19,2006,Sheffield United,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+710c42b0388d32a8,2006-08-19,2006,Reading,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+b9fdab2964483e9f,2006-08-19,2006,Everton,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+81f939ae3e4f9778,2006-08-22,2006,Tottenham,Sheffield United,train,Incomplete pre-match features after Arsenal history exclusion
+923f0d211fd2df89,2006-08-22,2006,Watford,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+f9caddb9e9058876,2006-08-23,2006,Aston Villa,Reading,train,Incomplete pre-match features after Arsenal history exclusion
+4a7b95101aa801a7,2006-08-26,2006,Watford,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+55c3afeaf428b7f8,2006-08-26,2006,Fulham,Sheffield United,train,Incomplete pre-match features after Arsenal history exclusion
+da221ea5c48d3453,2006-08-26,2006,Wigan,Reading,train,Incomplete pre-match features after Arsenal history exclusion
+4202ea7854bf6941,2006-09-09,2006,Bolton,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+7b6eb617640cd4f6,2006-09-09,2006,Sheffield United,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+7b74e37de3c74267,2006-09-11,2006,Reading,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+44dd2a8aeab6be65,2006-09-16,2006,Sheffield United,Reading,train,Incomplete pre-match features after Arsenal history exclusion
+56d95a164a1b8480,2006-09-16,2006,Watford,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+43f51107b8bea086,2007-08-11,2007,Sunderland,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+5a44316c66600230,2007-08-11,2007,Derby,Portsmouth,train,Incomplete pre-match features after Arsenal history exclusion
+e373aaadcf449b4e,2007-08-12,2007,Chelsea,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+6d4a666a1d53cd61,2007-08-15,2007,Birmingham,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+d34ca01b98dac67c,2007-08-15,2007,Manchester City,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+4dda34db3b20add7,2007-08-18,2007,Tottenham,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+8b04ea1cb66db82e,2007-08-18,2007,Birmingham,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+a7036c4b36383384,2007-08-18,2007,Wigan,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+278b6165b734c76a,2007-08-25,2007,Derby,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+8841a6be6b52e3cf,2007-08-25,2007,Sunderland,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+8bfe32f97930f22a,2007-09-01,2007,Manchester United,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+cf674c8eb3745f14,2007-09-01,2007,Liverpool,Derby,train,Incomplete pre-match features after Arsenal history exclusion
+fb5ad33a6b585dcf,2007-09-01,2007,Middlesbrough,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+1c821f007cdda4d2,2008-08-16,2008,Hull,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+75c42c177f23f244,2008-08-16,2008,Bolton,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+9154aebf93ba9b34,2008-08-23,2008,Stoke,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+988bec26aedfadf4,2008-08-23,2008,West Brom,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+b1faf534feafbeac,2008-08-23,2008,Blackburn,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+1e195fada5cb40a7,2008-08-30,2008,Hull,Wigan,train,Incomplete pre-match features after Arsenal history exclusion
+6fe45296272e421f,2008-08-30,2008,Bolton,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+e194a5b1c93e5452,2008-08-30,2008,Middlesbrough,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+515bd5e3e1d52057,2008-09-13,2008,West Brom,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+c52f210c5599b4eb,2008-09-13,2008,Newcastle,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+405905e561d655ef,2008-09-14,2008,Stoke,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+c851cc98b7264214,2008-09-20,2008,Liverpool,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+01b3a2f9cded8b85,2008-09-21,2008,West Brom,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+b68a0ffa761ad17b,2008-09-21,2008,Hull,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+4fa44f8dd984718d,2008-09-27,2008,Middlesbrough,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+be0777e9db96fe6e,2009-08-15,2009,Wolves,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+f6bf883167ac2ce7,2009-08-15,2009,Stoke,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+b6de2954aafdad3c,2009-08-16,2009,Manchester United,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+b451dbbf66a87729,2009-08-18,2009,Wigan,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+141176307a2ef929,2009-08-19,2009,Burnley,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+ccc0ab55bd1a2a73,2009-08-19,2009,Birmingham,Portsmouth,train,Incomplete pre-match features after Arsenal history exclusion
+7c8dfcac2135f645,2009-08-22,2009,Birmingham,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+d28ee0331725fbca,2009-08-22,2009,Manchester City,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+9b7de3cba78813c0,2009-08-23,2009,Burnley,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+8432381167e23688,2009-08-29,2009,Tottenham,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+aa38cbc1ce4c8b84,2009-08-29,2009,Wolves,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+bea40ff054941af5,2009-08-29,2009,Chelsea,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+5564274d97d65d8c,2009-09-12,2009,Blackburn,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+c8fbbd0ebb92ad32,2009-09-12,2009,Liverpool,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+45f9dd7ee5b87cc2,2009-09-13,2009,Birmingham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+1f47464baa8836ae,2010-08-14,2010,Wigan,Blackpool,train,Incomplete pre-match features after Arsenal history exclusion
+6f9aab8b8c8f8b4c,2010-08-14,2010,Chelsea,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+47179a3e78bd6aef,2010-08-16,2010,Manchester United,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+9d868f880a2fc565,2010-08-21,2010,West Brom,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+66ab339a6dac0493,2010-08-22,2010,Newcastle,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+18fe8b2213cf7eea,2010-08-28,2010,Wolves,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+3b479f5a8702a645,2010-08-28,2010,Blackpool,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+a09a52e6b1c04b9d,2010-08-29,2010,Liverpool,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+6c28f75b7b985bce,2010-09-11,2010,Newcastle,Blackpool,train,Incomplete pre-match features after Arsenal history exclusion
+87db98ab0d3a744a,2010-09-11,2010,West Brom,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+19e8d261a40d5839,2010-09-18,2010,West Brom,Birmingham,train,Incomplete pre-match features after Arsenal history exclusion
+cdca90bf44afcd0c,2010-09-18,2010,Everton,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+0a2a8664af38e392,2010-09-19,2010,Chelsea,Blackpool,train,Incomplete pre-match features after Arsenal history exclusion
+ad9661432edeeeae,2010-09-25,2010,Blackpool,Blackburn,train,Incomplete pre-match features after Arsenal history exclusion
+2c15084c168d604e,2011-08-13,2011,QPR,Bolton,train,Incomplete pre-match features after Arsenal history exclusion
+b10477279d952924,2011-08-13,2011,Wigan,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+a054e0908dc0b876,2011-08-15,2011,Manchester City,Swansea,train,Incomplete pre-match features after Arsenal history exclusion
+1c245b8f2ba53ee9,2011-08-20,2011,Everton,QPR,train,Incomplete pre-match features after Arsenal history exclusion
+3f440c34113526cd,2011-08-20,2011,Swansea,Wigan,train,Incomplete pre-match features after Arsenal history exclusion
+75e09b793836117c,2011-08-21,2011,Norwich,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+33253c4c474bd82e,2011-08-27,2011,Chelsea,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+4da21eb7026a1b70,2011-08-27,2011,Wigan,QPR,train,Incomplete pre-match features after Arsenal history exclusion
+99e55911984920ca,2011-08-27,2011,Swansea,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+a00fecd958dea71c,2011-09-11,2011,Norwich,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+c97af96ed3a7dc42,2011-09-12,2011,QPR,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+7042ff9568137c26,2011-09-17,2011,Swansea,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+9dd341c5330da646,2011-09-17,2011,Bolton,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+aa02ddea8041bace,2011-09-17,2011,Wolves,QPR,train,Incomplete pre-match features after Arsenal history exclusion
+a19de46e35ad0110,2011-09-24,2011,Chelsea,Swansea,train,Incomplete pre-match features after Arsenal history exclusion
+b320fb49edc055b6,2012-08-18,2012,Reading,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+edaf1455458cfcfa,2012-08-18,2012,West Ham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+79af7e59569e5cda,2012-08-19,2012,Manchester City,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+3a1a752c63fa13bf,2012-08-22,2012,Chelsea,Reading,train,Incomplete pre-match features after Arsenal history exclusion
+2557f82a709bab44,2012-08-25,2012,Swansea,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+e8602c451b3e8ef0,2012-08-25,2012,Southampton,Wigan,train,Incomplete pre-match features after Arsenal history exclusion
+5b723d06d3fc1590,2012-09-01,2012,West Ham,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+06cd815b4a56e3dc,2012-09-02,2012,Southampton,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+518da5399597e77d,2012-09-15,2012,Norwich,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+de755458049a5204,2012-09-16,2012,Reading,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+b4a2209f45d9846b,2012-09-22,2012,West Ham,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+bc312a05dc179b90,2012-09-22,2012,Southampton,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+c263d7beb656e104,2012-09-22,2012,West Brom,Reading,train,Incomplete pre-match features after Arsenal history exclusion
+6a51eb8cb9d1d8e8,2012-09-29,2012,Everton,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+7974e116176483f1,2012-09-29,2012,Reading,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+d9a0f9913330f28f,2013-08-17,2013,West Ham,Cardiff,train,Incomplete pre-match features after Arsenal history exclusion
+f3d6071bd4bc5b38,2013-08-18,2013,Chelsea,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+fcd5f3a0e05c2a9a,2013-08-18,2013,Crystal Palace,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+83f42ed2f7f4d738,2013-08-24,2013,Stoke,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+f1ad1681d04c5dfe,2013-08-24,2013,Hull,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+c86f340ba3db030f,2013-08-25,2013,Cardiff,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+2d42d177ffd9cfb7,2013-08-31,2013,Manchester City,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+3dc13a8b42b1939e,2013-08-31,2013,Crystal Palace,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+b42c49b4a23a9db2,2013-08-31,2013,Cardiff,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+b7b8c28b366e511f,2013-09-14,2013,Manchester United,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+c6e0349b6ac92a47,2013-09-14,2013,Hull,Cardiff,train,Incomplete pre-match features after Arsenal history exclusion
+30763a1508a8d1c4,2013-09-21,2013,Newcastle,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+47b7925ace825c74,2013-09-22,2013,Cardiff,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+80e3a44587130aa5,2013-09-22,2013,Crystal Palace,Swansea,train,Incomplete pre-match features after Arsenal history exclusion
+b949969c8f71afd7,2014-08-16,2014,Leicester,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+e546c50d7d5d4f91,2014-08-16,2014,QPR,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+780c4c1dd95a4aab,2014-08-18,2014,Burnley,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+6aabdba9ad0485ac,2014-08-23,2014,Swansea,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+da26b36174733f98,2014-08-23,2014,Chelsea,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+42e23d6935f4b750,2014-08-24,2014,Tottenham,QPR,train,Incomplete pre-match features after Arsenal history exclusion
+48f143e7301a5d8d,2014-08-30,2014,Burnley,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+c01a951bc42fdae2,2014-08-30,2014,QPR,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+0d2d050b80ce636d,2014-09-13,2014,Stoke,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+1a7fd0193d6b7d31,2014-09-13,2014,Crystal Palace,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+217ad39f70cf87f1,2014-09-14,2014,Manchester United,QPR,train,Incomplete pre-match features after Arsenal history exclusion
+33a18ae489f7f85c,2014-09-20,2014,QPR,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+d8467b61a8d67696,2014-09-20,2014,Burnley,Sunderland,train,Incomplete pre-match features after Arsenal history exclusion
+50db3b25ed0f372e,2014-09-21,2014,Leicester,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+92f70ae83e6362a8,2014-09-27,2014,Crystal Palace,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+25ff3278e0b3105a,2015-08-08,2015,Everton,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+7e25c641ca9bdf6d,2015-08-08,2015,Bournemouth,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+e89fde2386ef14b0,2015-08-08,2015,Norwich,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+11e8bd6456b939a6,2015-08-15,2015,Watford,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+389dd8484e2ae578,2015-08-15,2015,Sunderland,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+d4388e54f087097e,2015-08-17,2015,Liverpool,Bournemouth,train,Incomplete pre-match features after Arsenal history exclusion
+20e08d9cd21a2153,2015-08-22,2015,West Ham,Bournemouth,train,Incomplete pre-match features after Arsenal history exclusion
+848a5f8bb69ce603,2015-08-22,2015,Norwich,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+481069a0e8678d9c,2015-08-23,2015,Watford,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+1e76b3b8d93d260e,2015-08-29,2015,Manchester City,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+e546c2e79f53b06a,2015-08-29,2015,Bournemouth,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+52b3452b44491256,2015-08-30,2015,Southampton,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+0f3fdba00e329b94,2015-09-12,2015,Norwich,Bournemouth,train,Incomplete pre-match features after Arsenal history exclusion
+c22afcf557dd7071,2015-09-12,2015,Watford,Swansea,train,Incomplete pre-match features after Arsenal history exclusion
+2bec3cf68d0cbed8,2016-08-13,2016,Burnley,Swansea,train,Incomplete pre-match features after Arsenal history exclusion
+35a1e81f52b1416b,2016-08-13,2016,Hull,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+c746ced9a2cfc3ce,2016-08-13,2016,Middlesbrough,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+1959bb94285aa850,2016-08-20,2016,Burnley,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+b116f15bc6e668a0,2016-08-20,2016,Swansea,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+12537456f12fbe2e,2016-08-21,2016,Sunderland,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+46d34395d9a75c58,2016-08-27,2016,Hull,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+7d48d1d4f850935e,2016-08-27,2016,Chelsea,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+19084d5bd5eaeab4,2016-08-28,2016,West Brom,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+39be63059f6cc259,2016-09-10,2016,Burnley,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+dcacfdb1e796c517,2016-09-10,2016,Middlesbrough,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+356153449ca16999,2016-09-17,2016,Leicester,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+fc0d34b406d5106a,2016-09-17,2016,Everton,Middlesbrough,train,Incomplete pre-match features after Arsenal history exclusion
+812bcb969e045745,2016-09-24,2016,Liverpool,Hull,train,Incomplete pre-match features after Arsenal history exclusion
+0fd2ce080bb42d94,2017-08-12,2017,Brighton,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+233f79370f4bfe10,2017-08-12,2017,Crystal Palace,Huddersfield,train,Incomplete pre-match features after Arsenal history exclusion
+467e3d9f9a267421,2017-08-13,2017,Newcastle,Tottenham,train,Incomplete pre-match features after Arsenal history exclusion
+25b90d5b6aff4806,2017-08-19,2017,Leicester,Brighton,train,Incomplete pre-match features after Arsenal history exclusion
+aff6d7a8871e9c89,2017-08-20,2017,Huddersfield,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+37718f4de4dae717,2017-08-26,2017,Watford,Brighton,train,Incomplete pre-match features after Arsenal history exclusion
+3b02c4a5ad882bdb,2017-08-26,2017,Huddersfield,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+603a8b11dfe367b3,2017-08-26,2017,Newcastle,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+25f27598f6166e1a,2017-09-09,2017,Brighton,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+f2cdd5b4af5f44a4,2017-09-10,2017,Swansea,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+74ea82ae1c1f9dfb,2017-09-11,2017,West Ham,Huddersfield,train,Incomplete pre-match features after Arsenal history exclusion
+e3e28fdb251f0825,2017-09-15,2017,Bournemouth,Brighton,train,Incomplete pre-match features after Arsenal history exclusion
+7e6f29acb9dd62e5,2017-09-16,2017,Huddersfield,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+9a73976533fcc927,2017-09-16,2017,Newcastle,Stoke,train,Incomplete pre-match features after Arsenal history exclusion
+1edd2154a8d736bc,2018-08-11,2018,Bournemouth,Cardiff,train,Incomplete pre-match features after Arsenal history exclusion
+808b94a16e59de9a,2018-08-11,2018,Wolves,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+e0cfc9e58f39a548,2018-08-11,2018,Fulham,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+2685192778562d37,2018-08-18,2018,Cardiff,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+909f4884bbc876e4,2018-08-18,2018,Leicester,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+f7c5053ab61a5bb9,2018-08-18,2018,Tottenham,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+363ab65ae11eb682,2018-08-25,2018,Wolves,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+f4903bde7f760670,2018-08-25,2018,Huddersfield,Cardiff,train,Incomplete pre-match features after Arsenal history exclusion
+3f215dea33d4e885,2018-08-26,2018,Fulham,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+806cf4975522bd01,2018-09-01,2018,Brighton,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+db2c54115152856d,2018-09-01,2018,West Ham,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+947a56368ea470c7,2018-09-15,2018,Manchester City,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+f2a99c8bb7c5d71c,2018-09-15,2018,Chelsea,Cardiff,train,Incomplete pre-match features after Arsenal history exclusion
+6c4886db6e57767c,2018-09-16,2018,Wolves,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+c9825023fc92ad25,2018-09-22,2018,Cardiff,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+663201d37407c090,2019-08-09,2019,Liverpool,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+002788960092bb9d,2019-08-10,2019,Bournemouth,Sheffield United,train,Incomplete pre-match features after Arsenal history exclusion
+c6cd839b2e0ab376,2019-08-10,2019,Tottenham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+6220035b4deed432,2019-08-17,2019,Aston Villa,Bournemouth,train,Incomplete pre-match features after Arsenal history exclusion
+b99920ee4d04eb49,2019-08-17,2019,Norwich,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+993893f1f21fca00,2019-08-18,2019,Sheffield United,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+7492a271cea4b08b,2019-08-23,2019,Aston Villa,Everton,train,Incomplete pre-match features after Arsenal history exclusion
+46d6bd9e2c973d9f,2019-08-24,2019,Norwich,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+71291c86bda318fb,2019-08-24,2019,Sheffield United,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+6d5997f9665345ac,2019-08-31,2019,Chelsea,Sheffield United,train,Incomplete pre-match features after Arsenal history exclusion
+dc13950a99e37ef7,2019-08-31,2019,West Ham,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+eabe7feabaad7304,2019-08-31,2019,Crystal Palace,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+50d412785bfca06d,2019-09-14,2019,Norwich,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+a0bedafc4279bda1,2019-09-14,2019,Sheffield United,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+e9d9dd54788a2cd2,2019-09-16,2019,Aston Villa,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+fc8b2b97eef4e29e,2020-09-12,2020,Liverpool,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+41fbe28c2204e032,2020-09-13,2020,West Brom,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+7fe527502b3731b6,2020-09-19,2020,Everton,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+9bbf84b2c9716472,2020-09-19,2020,Leeds,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+bb30a13ba154bb5c,2020-09-26,2020,West Brom,Chelsea,train,Incomplete pre-match features after Arsenal history exclusion
+2ce123187269fa74,2020-09-27,2020,Sheffield United,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+225b676d6580d843,2020-09-28,2020,Fulham,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+515d949820fe59e8,2020-10-03,2020,Leeds,Manchester City,train,Incomplete pre-match features after Arsenal history exclusion
+0882222ca352ed47,2020-10-04,2020,Southampton,West Brom,train,Incomplete pre-match features after Arsenal history exclusion
+17aecc4afc64b5a5,2020-10-04,2020,Wolves,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+d7e9dcc4f27ea670,2020-10-18,2020,Sheffield United,Fulham,train,Incomplete pre-match features after Arsenal history exclusion
+517e0aae9d8c1511,2020-10-19,2020,West Brom,Burnley,train,Incomplete pre-match features after Arsenal history exclusion
+52b1564e5c9d2727,2020-10-19,2020,Leeds,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+dde231e0fda0c55d,2020-10-24,2020,Fulham,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+2fe3e006194c802a,2021-08-14,2021,Watford,Aston Villa,train,Incomplete pre-match features after Arsenal history exclusion
+d8edb58094324274,2021-08-14,2021,Norwich,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+0f80735606e13607,2021-08-21,2021,Brighton,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+2decd60134ea7113,2021-08-21,2021,Crystal Palace,Brentford,train,Incomplete pre-match features after Arsenal history exclusion
+d81fb67dc93521ff,2021-08-21,2021,Manchester City,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+e83f7f6059c141e8,2021-08-21,2021,Aston Villa,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+4fd8bdeebee72b96,2021-08-23,2021,West Ham,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+0820246a6e1d9c25,2021-08-28,2021,West Ham,Crystal Palace,train,Incomplete pre-match features after Arsenal history exclusion
+28e29ff659304d14,2021-08-28,2021,Newcastle,Southampton,train,Incomplete pre-match features after Arsenal history exclusion
+bd2e7cea5974ef97,2021-08-28,2021,Norwich,Leicester,train,Incomplete pre-match features after Arsenal history exclusion
+d2d71179721abde7,2021-08-28,2021,Aston Villa,Brentford,train,Incomplete pre-match features after Arsenal history exclusion
+5aba6ede15c67276,2021-08-29,2021,Tottenham,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+92dc05919b197444,2021-09-11,2021,Watford,Wolves,train,Incomplete pre-match features after Arsenal history exclusion
+cd49fb4f521f6e83,2021-09-11,2021,Brentford,Brighton,train,Incomplete pre-match features after Arsenal history exclusion
+d20e4a44b63523d6,2021-09-11,2021,Manchester United,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+fcc2ee19924f6aa1,2021-09-11,2021,Southampton,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+83fac137f69f03e0,2021-09-17,2021,Newcastle,Leeds,train,Incomplete pre-match features after Arsenal history exclusion
+3164cbc17eb33686,2021-09-18,2021,Norwich,Watford,train,Incomplete pre-match features after Arsenal history exclusion
+3c0dd8be43147dbc,2021-09-18,2021,Wolves,Brentford,train,Incomplete pre-match features after Arsenal history exclusion
+98d1702f4d60a1fa,2021-09-19,2021,West Ham,Manchester United,train,Incomplete pre-match features after Arsenal history exclusion
+1cf07c76b011831a,2021-09-25,2021,Leeds,West Ham,train,Incomplete pre-match features after Arsenal history exclusion
+64e1c4231f8ede7a,2021-09-25,2021,Brentford,Liverpool,train,Incomplete pre-match features after Arsenal history exclusion
+bff16353d7db16e7,2021-09-25,2021,Watford,Newcastle,train,Incomplete pre-match features after Arsenal history exclusion
+d68b692cc13c1f4e,2021-09-25,2021,Everton,Norwich,train,Incomplete pre-match features after Arsenal history exclusion
+bb0fd0ce92033bb4,2022-08-06,2022,Bournemouth,Aston Villa,validation,Incomplete pre-match features after Arsenal history exclusion
+d089af6a37939f01,2022-08-06,2022,Fulham,Liverpool,validation,Incomplete pre-match features after Arsenal history exclusion
+f164784dadd5db9f,2022-08-06,2022,Newcastle,Nottingham Forest,validation,Incomplete pre-match features after Arsenal history exclusion
+ea1a95b665d59c9f,2022-08-13,2022,Manchester City,Bournemouth,validation,Incomplete pre-match features after Arsenal history exclusion
+f223412f2f221051,2022-08-13,2022,Wolves,Fulham,validation,Incomplete pre-match features after Arsenal history exclusion
+ce0e1577d6753388,2022-08-14,2022,Nottingham Forest,West Ham,validation,Incomplete pre-match features after Arsenal history exclusion
+333b0a7a41107901,2022-08-20,2022,Everton,Nottingham Forest,validation,Incomplete pre-match features after Arsenal history exclusion
+3d599df661651534,2022-08-20,2022,Fulham,Brentford,validation,Incomplete pre-match features after Arsenal history exclusion
+7298b956be0beb0b,2022-08-27,2022,Liverpool,Bournemouth,validation,Incomplete pre-match features after Arsenal history exclusion
+946bd5c8d06543ef,2022-08-28,2022,Nottingham Forest,Tottenham,validation,Incomplete pre-match features after Arsenal history exclusion
+72c5ea970d03616b,2022-08-30,2022,Fulham,Brighton,validation,Incomplete pre-match features after Arsenal history exclusion
+8e5b4969cb57dc40,2022-08-31,2022,Manchester City,Nottingham Forest,validation,Incomplete pre-match features after Arsenal history exclusion
+d60f7139fcfecf1f,2022-08-31,2022,Bournemouth,Wolves,validation,Incomplete pre-match features after Arsenal history exclusion
+1b8d2963f6bf5c87,2022-09-03,2022,Nottingham Forest,Bournemouth,validation,Incomplete pre-match features after Arsenal history exclusion
+b6c6091cbaf06269,2022-09-03,2022,Tottenham,Fulham,validation,Incomplete pre-match features after Arsenal history exclusion
+3d920c974fcb1667,2023-08-11,2023,Burnley,Manchester City,validation,Incomplete pre-match features after Arsenal history exclusion
+0b1dbcb78363b102,2023-08-12,2023,Brighton,Luton,validation,Incomplete pre-match features after Arsenal history exclusion
+916faf943e6645dc,2023-08-12,2023,Sheffield United,Crystal Palace,validation,Incomplete pre-match features after Arsenal history exclusion
+8a9c25738e901434,2023-08-18,2023,Nottingham Forest,Sheffield United,validation,Incomplete pre-match features after Arsenal history exclusion
+d823e2b298519cc9,2023-08-25,2023,Chelsea,Luton,validation,Incomplete pre-match features after Arsenal history exclusion
+9b441e61c9ed55b3,2023-08-27,2023,Sheffield United,Manchester City,validation,Incomplete pre-match features after Arsenal history exclusion
+ca6becdec36843b3,2023-08-27,2023,Burnley,Aston Villa,validation,Incomplete pre-match features after Arsenal history exclusion
+9fc1ba1c02a46a76,2023-09-01,2023,Luton,West Ham,validation,Incomplete pre-match features after Arsenal history exclusion
+13193fa28b17bfbe,2023-09-02,2023,Sheffield United,Everton,validation,Incomplete pre-match features after Arsenal history exclusion
+1bea536215fb9ce9,2023-09-02,2023,Burnley,Tottenham,validation,Incomplete pre-match features after Arsenal history exclusion
+243561e55175667c,2023-09-16,2023,Fulham,Luton,validation,Incomplete pre-match features after Arsenal history exclusion
+d886f62920f656b3,2023-09-16,2023,Tottenham,Sheffield United,validation,Incomplete pre-match features after Arsenal history exclusion
+3361e70de5be64a5,2023-09-18,2023,Nottingham Forest,Burnley,validation,Incomplete pre-match features after Arsenal history exclusion
+513f3e021baa6c45,2023-09-23,2023,Burnley,Manchester United,validation,Incomplete pre-match features after Arsenal history exclusion
+78625ef16f809910,2023-09-23,2023,Luton,Wolves,validation,Incomplete pre-match features after Arsenal history exclusion
+1418dd06cd63c2d9,2024-08-17,2024,Ipswich,Liverpool,test,Incomplete pre-match features after Arsenal history exclusion
+f31aab932fcadda4,2024-08-17,2024,Newcastle,Southampton,test,Incomplete pre-match features after Arsenal history exclusion
+16243bb86776bac9,2024-08-19,2024,Leicester,Tottenham,test,Incomplete pre-match features after Arsenal history exclusion
+166e9f633eba6465,2024-08-24,2024,Fulham,Leicester,test,Incomplete pre-match features after Arsenal history exclusion
+ee3e10027a6c7a8e,2024-08-24,2024,Manchester City,Ipswich,test,Incomplete pre-match features after Arsenal history exclusion
+f08d95654d95ec82,2024-08-24,2024,Southampton,Nottingham Forest,test,Incomplete pre-match features after Arsenal history exclusion
+2a7b7f3e8cfc352f,2024-08-31,2024,Ipswich,Fulham,test,Incomplete pre-match features after Arsenal history exclusion
+5f5ff37c6d6b81c0,2024-08-31,2024,Leicester,Aston Villa,test,Incomplete pre-match features after Arsenal history exclusion
+ca2fa4f92048004b,2024-08-31,2024,Brentford,Southampton,test,Incomplete pre-match features after Arsenal history exclusion
+13d7e72c12f06299,2024-09-14,2024,Brighton,Ipswich,test,Incomplete pre-match features after Arsenal history exclusion
+6afe3ae07f54f0f4,2024-09-14,2024,Southampton,Manchester United,test,Incomplete pre-match features after Arsenal history exclusion
+c80e526c83c8dcf4,2024-09-14,2024,Crystal Palace,Leicester,test,Incomplete pre-match features after Arsenal history exclusion
+355734dd4f776439,2024-09-21,2024,Southampton,Ipswich,test,Incomplete pre-match features after Arsenal history exclusion
+ab29bc4f7431fc2e,2024-09-21,2024,Leicester,Everton,test,Incomplete pre-match features after Arsenal history exclusion
+5e4d08c02569ba07,2025-08-16,2025,Tottenham,Burnley,test,Incomplete pre-match features after Arsenal history exclusion
+dc1550a0315c12ae,2025-08-16,2025,Sunderland,West Ham,test,Incomplete pre-match features after Arsenal history exclusion
+12241ff91d3a34db,2025-08-18,2025,Leeds,Everton,test,Incomplete pre-match features after Arsenal history exclusion
+d6679abae33aa7b2,2025-08-23,2025,Burnley,Sunderland,test,Incomplete pre-match features after Arsenal history exclusion
+0e66dd3073793e4d,2025-08-30,2025,Manchester United,Burnley,test,Incomplete pre-match features after Arsenal history exclusion
+5515f9291dabaec8,2025-08-30,2025,Leeds,Newcastle,test,Incomplete pre-match features after Arsenal history exclusion
+8c32f8ea6aa0b001,2025-08-30,2025,Sunderland,Brentford,test,Incomplete pre-match features after Arsenal history exclusion
+aa7fb8dae32f9052,2025-09-13,2025,Crystal Palace,Sunderland,test,Incomplete pre-match features after Arsenal history exclusion
+d6e3d3cedd9873d0,2025-09-13,2025,Fulham,Leeds,test,Incomplete pre-match features after Arsenal history exclusion
+d8ce43b257162319,2025-09-14,2025,Burnley,Liverpool,test,Incomplete pre-match features after Arsenal history exclusion
+5005a138ade679bb,2025-09-20,2025,Burnley,Nottingham Forest,test,Incomplete pre-match features after Arsenal history exclusion
+70da1d48e89ea703,2025-09-20,2025,Wolves,Leeds,test,Incomplete pre-match features after Arsenal history exclusion
+b9730178e94426b8,2025-09-21,2025,Sunderland,Aston Villa,test,Incomplete pre-match features after Arsenal history exclusion
+bd9779b314b08de9,2025-09-27,2025,Leeds,Bournemouth,test,Incomplete pre-match features after Arsenal history exclusion

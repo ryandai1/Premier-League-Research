@@ -1,5 +1,7 @@
 # Premier League Research — from data to results
 
+**Arsenal-excluded transfer experiment:** [data isolation, full/head-only fine-tuning and source-trained baselines](results/arsenal_isolated/README.md). League features are rebuilt with all Arsenal fixtures removed, and source checkpoint selection uses non-Arsenal validation. The original study below is retained as historical evidence.
+
 A fresh, controlled notebook sequence for Arsenal win/draw/loss probabilities. Read it in this order:
 
 1. **[Data sources, combinations, visualization and audit](notebooks/01_data_sources_and_audit.ipynb)**
