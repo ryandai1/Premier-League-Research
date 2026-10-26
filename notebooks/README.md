@@ -1,17 +1,11 @@
-# Read and execute in order
+# Active Arsenal-excluded notebooks
 
-1. [01_data_sources_and_audit.ipynb](01_data_sources_and_audit.ipynb): source roles and overlap, ten exploratory figures, independent feature reconstruction, exclusions and fixed partitions.
-2. [02_models_and_training.ipynb](02_models_and_training.ipynb): architecture, control/treatment definition, independent initialization, every epoch, validation-only comparison/selection and checkpoint ancestry.
-3. [03_evaluation_and_results.ipynb](03_evaluation_and_results.ipynb): fresh checkpoint reload, test metrics, paired uncertainty, calibration, confusion matrix, transfer and interpretation.
+Run 01 → 02 → 03 → 04, then the standalone frozen-model review. All five use `results/arsenal_isolated/`. They write derived figures and verdict tables only to `results/arsenal_isolated_review/`.
 
-Each notebook executes in a fresh kernel. Stage guards prevent starting training before the data audit or evaluating before model freezing. Notebook 01 refuses an existing `results/current/`; move/preserve it deliberately before a new run. Never run the notebook builder merely to view results: it regenerates unexecuted notebook sources. Use the saved executed notebooks for inspection.
+- **01:** original source evidence, corrected partitions, exact reconstruction of source feature rows, class balance and training distributions.
+- **02:** explicit optional fresh training; completed-run evidence, learning curves, every epoch and frozen-parameter verification.
+- **03:** saved-model inference, probability scores, paired month-block uncertainty, calibration and confusion.
+- **04:** overview including the same corrected graphics.
+- **Frozen_Model_Test_Review:** all 75 Arsenal test fixtures and all seven saved model verdict tables.
 
-[Reproduce](../docs/reproduction.md) · [Protocol](../EXPERIMENT_PROTOCOL.md) · [Execution record](../results/current/notebook_execution.json)
-
-## Inference-only companion
-
-[Inspect the held-out test with frozen models](Frozen_Model_Test_Review.ipynb) runs independently of the numbered sequence. It loads the existing checkpoints, scores the original 732 test fixtures (75 Arsenal), and exports actual outcomes and probabilities to [results/test_review/](../results/test_review/README.md). It performs no fitting or selection and verifies the original data/models/study outputs remain unchanged. Open it directly in Jupyter and run all cells; do not invoke the training executor for this task.
-
-## Corrected Arsenal-excluded experiment
-
-[04_arsenal_isolated_experiments.ipynb](04_arsenal_isolated_experiments.ipynb) is an executed review of the corrected runs. It displays all epoch records and reloads saved models to verify predictions and metrics. It does not retrain; the notebook includes the separate training command. Earlier notebooks retain the historical Arsenal-inclusive experiment.
+Build with `python -m experiments.build_isolated_notebooks`; execute with `python -m experiments.execute_isolated_notebooks --kernel python3`. Building clears saved notebook outputs; always execute afterward. Default execution does not retrain. See [reproduction](../docs/reproduction.md).

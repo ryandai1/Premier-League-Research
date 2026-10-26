@@ -1,3 +1,5 @@
+> Historical Arsenal-inclusive experiment. For the active Arsenal-excluded workflow, see [results/arsenal_isolated/README.md](results/arsenal_isolated/README.md).
+
 # Controlled fresh-execution protocol
 
 This documents the fixed methods used in the rebuilt notebook sequence. Earlier test results have already been inspected. It is a reproducibility rerun; no new preregistration or independent confirmatory test is claimed.

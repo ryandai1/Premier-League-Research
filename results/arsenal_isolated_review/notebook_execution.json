@@ -1,0 +1,37 @@
+[
+  {
+    "notebook": "01_data_sources_and_audit.ipynb",
+    "started_utc": "2026-10-26T12:10:59.269088+00:00",
+    "finished_utc": "2026-10-26T12:11:14.762909+00:00",
+    "code_cells": 4,
+    "status": "executed"
+  },
+  {
+    "notebook": "02_models_and_training.ipynb",
+    "started_utc": "2026-10-26T12:11:14.763385+00:00",
+    "finished_utc": "2026-10-26T12:11:20.183056+00:00",
+    "code_cells": 4,
+    "status": "executed"
+  },
+  {
+    "notebook": "03_evaluation_and_results.ipynb",
+    "started_utc": "2026-10-26T12:11:20.183586+00:00",
+    "finished_utc": "2026-10-26T12:11:26.150212+00:00",
+    "code_cells": 4,
+    "status": "executed"
+  },
+  {
+    "notebook": "04_arsenal_isolated_experiments.ipynb",
+    "started_utc": "2026-10-26T12:11:26.150649+00:00",
+    "finished_utc": "2026-10-26T12:11:30.644372+00:00",
+    "code_cells": 3,
+    "status": "executed"
+  },
+  {
+    "notebook": "Frozen_Model_Test_Review.ipynb",
+    "started_utc": "2026-10-26T12:11:30.644830+00:00",
+    "finished_utc": "2026-10-26T12:11:35.471794+00:00",
+    "code_cells": 4,
+    "status": "executed"
+  }
+]
