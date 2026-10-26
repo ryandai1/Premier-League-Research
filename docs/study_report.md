@@ -1,3 +1,5 @@
+> Historical Arsenal-inclusive experiment. For the active Arsenal-excluded workflow, see [active protocol](../results/arsenal_isolated/README.md).
+
 # Current scientific report
 
 The executed notebooks are the complete report: [data and audit](../notebooks/01_data_sources_and_audit.ipynb), [models and training](../notebooks/02_models_and_training.ipynb), [evaluation](../notebooks/03_evaluation_and_results.ipynb). This summary is generated from the fresh output tables.

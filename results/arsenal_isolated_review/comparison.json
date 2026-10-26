@@ -1,0 +1,9 @@
+{
+  "contrast": "league minus Arsenal-only test log loss",
+  "difference": -0.05148306488990784,
+  "interval_95": [
+    -0.09552935343235731,
+    -0.005096979276277151
+  ],
+  "replicates": 1000
+}

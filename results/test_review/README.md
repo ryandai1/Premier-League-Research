@@ -1,3 +1,5 @@
+> Historical Arsenal-inclusive experiment. For the active Arsenal-excluded workflow, see [active protocol](../arsenal_isolated/README.md).
+
 # Held-out test review — frozen models
 
 Inference-only companion to [the executed notebook](../../notebooks/Frozen_Model_Test_Review.ipynb). No retraining, tuning, checkpoint changes or new selection. The test period was held out from fitting but previously inspected.
