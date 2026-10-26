@@ -1,0 +1,8 @@
+{
+  "model": "league_mlp",
+  "best_epoch": 98,
+  "epochs_run": 100,
+  "validation_arsenal_log_loss": 0.7966090440750122,
+  "training_rows": 7977,
+  "checkpoint_sha256": "0416130b3fd2eab7db5f86512162569e862c82f5014f61160ef1aeff396838b0"
+}

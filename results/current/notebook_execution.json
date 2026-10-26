@@ -1,0 +1,23 @@
+[
+  {
+    "notebook": "01_data_sources_and_audit.ipynb",
+    "started_utc": "2026-10-26T05:55:05.484368+00:00",
+    "finished_utc": "2026-10-26T05:55:30.161563+00:00",
+    "code_cells": 10,
+    "status": "executed"
+  },
+  {
+    "notebook": "02_models_and_training.ipynb",
+    "started_utc": "2026-10-26T05:55:30.162442+00:00",
+    "finished_utc": "2026-10-26T05:55:38.441160+00:00",
+    "code_cells": 7,
+    "status": "executed"
+  },
+  {
+    "notebook": "03_evaluation_and_results.ipynb",
+    "started_utc": "2026-10-26T05:55:38.441768+00:00",
+    "finished_utc": "2026-10-26T05:55:42.964223+00:00",
+    "code_cells": 6,
+    "status": "executed"
+  }
+]

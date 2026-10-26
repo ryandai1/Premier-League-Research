@@ -1,7 +1,0 @@
-reference,model,weights_exactly_equal,epoch_losses_exactly_equal
-experiment_1_original,league_mlp,True,True
-experiment_2_latest,league_mlp,True,True
-experiment_1_original,arsenal_mlp,True,True
-experiment_2_latest,arsenal_mlp,True,True
-experiment_1_original,league_to_arsenal_mlp,True,True
-experiment_2_latest,league_to_arsenal_mlp,True,True

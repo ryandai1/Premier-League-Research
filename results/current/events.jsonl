@@ -1,0 +1,13 @@
+{"utc": "2026-10-26T05:55:08.442545+00:00", "stage": "begin", "run_id": "e3ceec90-4b79-4a9f-a6dc-b2dd43e67546"}
+{"utc": "2026-10-26T05:55:29.337309+00:00", "stage": "data_verified"}
+{"utc": "2026-10-26T05:55:32.922742+00:00", "stage": "training_started"}
+{"utc": "2026-10-26T05:55:32.965099+00:00", "stage": "fit_started", "model": "arsenal_mlp", "initial_checkpoint": null}
+{"utc": "2026-10-26T05:55:34.011675+00:00", "stage": "fit_finished", "model": "arsenal_mlp", "best_epoch": 100, "epochs_run": 100, "validation_arsenal_log_loss": 0.8644348382949829, "training_rows": 815, "checkpoint_sha256": "66a872e6c2b7e900069cf1e1c178b02f47494040c1f9a1919f4643fa320b45ff"}
+{"utc": "2026-10-26T05:55:34.052281+00:00", "stage": "fit_started", "model": "league_mlp", "initial_checkpoint": null}
+{"utc": "2026-10-26T05:55:36.283229+00:00", "stage": "fit_finished", "model": "league_mlp", "best_epoch": 98, "epochs_run": 100, "validation_arsenal_log_loss": 0.7966090440750122, "training_rows": 7977, "checkpoint_sha256": "0416130b3fd2eab7db5f86512162569e862c82f5014f61160ef1aeff396838b0"}
+{"utc": "2026-10-26T05:55:36.289217+00:00", "stage": "independent_comparison_frozen", "scores": {"arsenal_mlp": {"log_loss": 0.8644348940340559, "brier_multiclass": 0.5036678945627908, "accuracy": 0.7027027027027027, "n": 74}, "league_mlp": {"log_loss": 0.7966090561631516, "brier_multiclass": 0.45331816662957797, "accuracy": 0.6891891891891891, "n": 74}}}
+{"utc": "2026-10-26T05:55:36.337649+00:00", "stage": "fit_started", "model": "league_to_arsenal_mlp", "initial_checkpoint": "models/league_mlp_best.pt"}
+{"utc": "2026-10-26T05:55:36.628586+00:00", "stage": "fit_finished", "model": "league_to_arsenal_mlp", "best_epoch": 1, "epochs_run": 21, "validation_arsenal_log_loss": 0.7963728904724121, "training_rows": 815, "checkpoint_sha256": "196f1914616dcd22d3ec8d6ddc37560140bdc9eb10cf94762bd7b97e07074d2d"}
+{"utc": "2026-10-26T05:55:36.756779+00:00", "stage": "models_frozen", "selected_model": "league_logistic"}
+{"utc": "2026-10-26T05:55:41.241957+00:00", "stage": "evaluation_started"}
+{"utc": "2026-10-26T05:55:41.443857+00:00", "stage": "complete"}

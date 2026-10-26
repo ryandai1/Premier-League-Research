@@ -11,8 +11,8 @@ sys.path.insert(0, str(DATA / "scripts"))
 import build_dataset as b
 
 
-def run():
-    out = ROOT / "results" / "audit"
+def run(output=None):
+    out = Path(output) if output is not None else ROOT / "results" / "audit"
     out.mkdir(parents=True, exist_ok=True)
     manifest = json.loads((DATA / "source_manifest.json").read_text())
     for s in manifest:

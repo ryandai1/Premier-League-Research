@@ -1,12 +1,9 @@
-# Executed notebooks
+# Read and execute in order
 
-| Notebook | Role |
-|---|---|
-| [Experiment_2_Epoch_By_Epoch.ipynb](Experiment_2_Epoch_By_Epoch.ipynb) | Featured Arsenal-first workflow, every epoch, frozen validation comparison and final results |
-| [Experiment_1_Fresh_Verification.ipynb](Experiment_1_Fresh_Verification.ipynb) | Featured fresh execution of the unchanged original runner and exact equality checks |
-| [Arsenal_League_vs_Arsenal.ipynb](Arsenal_League_vs_Arsenal.ipynb) | Preserved original experiment 1 data audit, methods, results and plots |
-| [Experiment_2_Arsenal_First_Reproducibility.ipynb](Experiment_2_Arsenal_First_Reproducibility.ipynb) | Historical first experiment 2 presentation; retained as the executed record |
+1. [01_data_sources_and_audit.ipynb](01_data_sources_and_audit.ipynb): source roles and overlap, ten exploratory figures, independent feature reconstruction, exclusions and fixed partitions.
+2. [02_models_and_training.ipynb](02_models_and_training.ipynb): architecture, control/treatment definition, independent initialization, every epoch, validation-only comparison/selection and checkpoint ancestry.
+3. [03_evaluation_and_results.ipynb](03_evaluation_and_results.ipynb): fresh checkpoint reload, test metrics, paired uncertainty, calibration, confusion matrix, transfer and interpretation.
 
-Notebook files and stored outputs were not rewritten during cleanup. For exact historical execution, use the associated source commit from the [run catalog](../results/catalog.json), rather than assuming the latest modules have identical source hashes. The intermediate instrumented notebook is recoverable at commit `49e9106`; its run artifacts remain under `results/experiment_2/run_20261026T002228/`.
+Each notebook executes in a fresh kernel. Stage guards prevent starting training before the data audit or evaluating before model freezing. Notebook 01 refuses an existing `results/current/`; move/preserve it deliberately before a new run. Never run the notebook builder merely to view results: it regenerates unexecuted notebook sources. Use the saved executed notebooks for inspection.
 
-See [reproduction](../docs/reproduction.md) for installation, execution and optional local HTML export. GitHub renders the executed notebooks directly, so committed HTML duplicates are unnecessary.
+[Reproduce](../docs/reproduction.md) · [Protocol](../EXPERIMENT_PROTOCOL.md) · [Execution record](../results/current/notebook_execution.json)

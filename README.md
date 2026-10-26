@@ -1,68 +1,75 @@
-# Premier League Research
+# Premier League Research — from data to results
 
-Reproducible research on Arsenal win/draw/loss probabilities using frozen Premier League match data.
+A fresh, controlled notebook sequence for Arsenal win/draw/loss probabilities. Read it in this order:
 
-**[Scientific report](docs/scientific_report.md)** · **[Protocol](EXPERIMENT_PROTOCOL.md)** · **[Results catalog](results/README.md)** · **[Reproduce](docs/reproduction.md)** · **[Revision log](docs/cleanup_2026-10-26.md)**
+1. **[Data sources, combinations, visualization and audit](notebooks/01_data_sources_and_audit.ipynb)**
+2. **[Model development, controls and every training epoch](notebooks/02_models_and_training.ipynb)**
+3. **[Frozen evaluation and results](notebooks/03_evaluation_and_results.ipynb)**
 
-## Study at a glance
+Previous generated results and notebooks were removed from the current tree. The new results were produced by executing all three notebooks from an empty model directory; no old model or prediction file is loaded. Earlier work remains recoverable from Git history. [Reset record](docs/reset_2026-10-26.md).
 
-The control is an MLP trained on **815 Arsenal fixtures**. The treatment is the same MLP trained independently on **7,977 EPL fixtures**, including Arsenal. An optional extension fine-tunes the league checkpoint on Arsenal. Checkpoints use the same **74 Arsenal validation fixtures**; evaluation uses the same **75 later Arsenal test fixtures**.
+**Reproducibility rerun after test inspection.** This is a fresh execution of fixed methods on a previously inspected test period, not new independent confirmatory evidence.
 
-**The reruns are labeled as reproducibility checks after test inspection.** Reordering independent fits with the same per-fit seed reproduces identical results; it does not constitute a new modeling treatment or independent confirmation. The current cleanup changes organization and presentation, not the experimental question or results.
+## 1. Understand the datasets first
 
-## Results
+| Frozen source | Fixtures | Role | Additional fixtures |
+|---|---:|---|---:|
+| Reza, 2000/01–2025/26 | 9,880 | Primary match archive | Primary source |
+| Tara, 2010/11–2019/20 | 3,800 | Overlapping common-field verification | 0 |
+| football-data 2015/16 | 380 | Season cross-check | 0 |
+| football-data 2024/25 | 380 | Season cross-check | 0 |
+| football-data 2025/26 | 380 | Season cross-check | 0 |
 
-![Test results across original experiment 1 and the two featured reruns](results/profile/test_results.png)
+These files are **not concatenated into a larger training sample**. Sources can share upstream lineage; overlap is not proof of independent original observation. The fresh audit reconciles source conflicts and reconstructs all features and splits.
 
-| Model | Test log loss ↓ | Brier sum ↓ | Accuracy |
-|---|---:|---:|---:|
-| Arsenal-only MLP — control | 0.959723 | 0.569044 | 60.00% |
-| League-wide MLP — treatment | 0.899941 | 0.529087 | 61.33% |
-| League → Arsenal MLP | 0.900410 | 0.529357 | 61.33% |
-| League logistic | 0.908957 | 0.532644 | 61.33% |
-| Arsenal logistic | 0.909300 | 0.534445 | 64.00% |
-| League class prior | 1.094381 | 0.664183 | 40.00% |
+![Shared fixtures across frozen sources](results/current/figures/01_source_overlap.png)
 
-On these historical fixtures, league MLP minus Arsenal MLP log loss is **−0.059782**, with a month-block 95% interval **[−0.100787, −0.016194]**. The interval excludes training-seed uncertainty. **League logistic is the validation-selected candidate**; the test ranking does not change selection. One seed, a short inspected test period and unequal optimizer-update budgets limit interpretation.
+Notebook 01 contains ten data figures: source overlap, season coverage, missingness, xG coverage, all-team coverage, outcomes/goals, eligibility, split class balance, training-feature distributions and correlations. Complete source inventories and table exports are in [data/](results/current/data/). Missing xG is excluded from the fixed model rather than filled with zeros.
 
-[Metric definitions, methods and limitations](docs/scientific_report.md) · [Exact chart data](results/profile/test_results.csv)
+| Partition | Seasons | EPL fixtures | Arsenal fixtures |
+|---|---|---:|---:|
+| Train | 2000/01–2021/22 | 7,977 | 815 |
+| Validation | 2022/23–2023/24 | 730 | 74 |
+| Test | 2024/25–2025/26 | 732 | 75 |
 
-## Workflow and training evidence
+441 archived fixtures are ineligible because the default lagged features are incomplete. They remain in the frozen input archive.
 
-**Arsenal baseline → independent league challenger → frozen validation comparison → optional Arsenal specialization → final test evaluation.** Only specialization inherits trained weights.
+## 2. Develop and train controlled model arms
 
-![Arsenal-first learning curves with selected checkpoints](results/profile/learning_curves.png)
+**Arsenal-only control → independent league challenger → frozen validation comparison → optional Arsenal specialization → final evaluation.** Only specialization inherits a trained checkpoint, created in this execution.
 
-Fixed settings: 39→32→16→3 MLP, ReLU/dropout 0.1, unweighted cross-entropy, AdamW 1e-4, weight decay 0.01, batch 256, seed 42, maximum 100 epochs per fit, patience 20. Both independent fits reached 100 epochs; specialization stopped at 21 and selected epoch 1. Training loss uses different populations and active dropout; validation uses the same Arsenal population without dropout.
+Settings remain fixed: 39→32→16→3 MLP, ReLU/dropout 0.1, unweighted cross-entropy, AdamW at 1e-4, weight decay 0.01, batch 256, seed 42, maximum 100 epochs, patience 20 and min_delta 1e-4. All neural checkpoints use the same Arsenal validation fixtures. Logistic regression under each training population and the league class prior provide reference controls. [Protocol](EXPERIMENT_PROTOCOL.md).
 
-- **[Experiment 2: executed notebook](notebooks/Experiment_2_Epoch_By_Epoch.ipynb)** · [All 221 epochs](results/experiment_2/run_20261026T002413/EVERY_EPOCH.md)
-- **[Experiment 1: fresh verification notebook](notebooks/Experiment_1_Fresh_Verification.ipynb)** · [Every epoch and equality checks](results/run_20261026T003158/RERUN_REPORT.md)
-- [Original experiment 1 notebook](notebooks/Arsenal_League_vs_Arsenal.ipynb) · [All historical runs and source commits](results/README.md)
+![Fresh learning curves](results/current/figures/11_learning_curves.png)
 
-## Repository map
+[Every epoch CSV](results/current/models/all_epochs.csv) · [Every epoch as a table](results/current/models/EVERY_EPOCH.md) · [Live training log](results/current/models/epoch_log.txt) · [Execution timeline](results/current/events.jsonl) · [Initialization and transfer checks](results/current/models/independence_checks.json)
 
-| Location | Responsibility |
-|---|---|
-| [docs/](docs/README.md) | Scientific report, workflow explanation, reproduction guide and revision/deletion records |
-| [arsenal_predictor_v1/](arsenal_predictor_v1/README.md) | Frozen original source bundle, cleaned data, splits, schema, attribution and checksums |
-| [experiments/](experiments/README.md) | Training, evaluation, inference, audit, run resolution and figure generation |
-| [notebooks/](notebooks/README.md) | Executed experiment narratives and evidence |
-| [results/](results/README.md) | Registered runs, metrics, predictions, checkpoints, epoch logs, audits and graphics |
-| [tests/](tests/README.md) | Behavioral, provenance and preservation checks |
+## 3. Evaluate one fresh result set
 
-The original bundle name and run paths remain stable for provenance. A catalog distinguishes featured outputs from historical runs; no earlier execution is silently discarded.
+![Current control and treatment evaluation](results/current/figures/12_test_metrics.png)
+
+These are different model arms from one fresh execution, not multiple copies of rerun scores. Seed resets can reproduce the same corresponding model across executions; that is distinct from equality between the trained Arsenal and league models. The fresh checks verify different learned weights and predictions between those arms, plus sensitivity to changed input rows.
+
+[Results and interpretation](docs/study_report.md) · [All metrics](results/current/evaluation/metrics.csv) · [Paired uncertainty](results/current/evaluation/comparison.json) · [Data-sensitivity checks](results/current/evaluation/data_sensitivity_checks.json)
+
+One seed, a previously inspected test period, different optimizer-update budgets and incomplete original-provider lineage limit inference. League logistic remains selected by validation loss; test rankings do not select the candidate. These are historical probabilities, not live forecasts.
 
 ## Reproduce and inspect
 
-Python 3.12; install the pinned runtime requirements, then:
+See [reproduction instructions](docs/reproduction.md). The executor refuses to overwrite an existing current run.
 
 ```bash
+python -m experiments.execute_study
 python -m unittest discover -s tests -v
-python -m experiments.verify_repository
 ```
 
-[Full installation, historical-source recovery and rerun instructions](docs/reproduction.md). No training is required to inspect saved results. Original experiment 1 source and archived scientific artifacts are preserved byte for byte.
+| Folder | Purpose |
+|---|---|
+| [notebooks/](notebooks/README.md) | Three ordered, executed notebooks |
+| [experiments/](experiments/README.md) | Audit, training, inference and sequential execution code |
+| [results/current/](results/README.md) | Only the newly executed study: data, audit, models, evaluation and figures |
+| [docs/](docs/README.md) | Reproduction, scientific interpretation and reset record |
+| [arsenal_predictor_v1/](arsenal_predictor_v1/README.md) | Frozen original inputs and their original metadata |
+| [tests/](tests/README.md) | Current-study behavioral and provenance checks |
 
-## Data attribution and scope
-
-Read [DATA_REUSE_NOTICE.md](DATA_REUSE_NOTICE.md) before redistribution. Third-party restrictions, including Reza's stated CC BY-NC 4.0, remain applicable; original-provider lineage is incomplete. No commercial clearance is implied. This is historical research, not a live forecasting service. Repository visibility is unchanged by the cleanup.
+Third-party source attribution and restrictions remain in [DATA_REUSE_NOTICE.md](DATA_REUSE_NOTICE.md). Repository visibility has not been changed.

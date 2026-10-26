@@ -1,25 +1,42 @@
-# Arsenal probability experiment — protocol v1
+# Controlled fresh-execution protocol
 
-Question: does training across the EPL improve future Arsenal win/draw/loss probabilities compared with Arsenal-only training?
-Hypothesis: the larger league sample improves probability quality; this is a hypothesis, not a promised finding.
+This documents the fixed methods used in the rebuilt notebook sequence. Earlier test results have already been inspected. It is a reproducibility rerun; no new preregistration or independent confirmatory test is claimed.
 
-## Standard operating protocol
-1. **Acquire and freeze:** retain the uploaded v1 raw bytes, commit-pinned GitHub URLs, source SHA-256 values and download dates. Never silently replace a raw snapshot. Attribution stays with redistributed data.
-2. **Inspect before cleaning:** plot season volume, result balance and missingness. Profile uniqueness, date ranges and contradictory measurements. Distinguish observations from derived features and excluded metadata.
-3. **Clean explicitly:** standardize team aliases; parse dates; enforce one season/home/away fixture; retain all 9,880 matches; null both shots and shots-on-target on an inconsistent side (five sides, three matches). Never invent a measurement or label. Retain the 15-shot Reza value for Aston Villa–West Ham, 2015-12-26, corroborated by the bundled football-data snapshot. Preserve missing xG; exclude xG from default features.
-4. **Log corrections:** `results/audit/metadata_corrections.csv` records source record, field, old/new values and basis. Corrected season metadata lives separately in Parquet and is excluded from modeling. This avoids silently changing original evidence. The raw README's 65-column claim and zero-attendance season claim are incorrect: 85 columns; six zeros in 2019/20 and 357 in 2020/21.
-5. **Trace and validate:** verify source hashes, cross-source overlap, full raw-to-clean mapping, all feature values, split membership and every X/y/index cell. `row_lineage.csv` maps match IDs to raw CSV records (header = 1); `rolling_lineage.parquet` lists last ten prior fixture IDs per side. Select the last five for mean5; filter nonmissing per metric; require five measurements. Elo is a recursive state over prior-date results: initial 1500, K=20, home advantage 60, annual shrink 0.75, inactivity reset after 365 days. Same-day results never enter same-day predictors.
-6. **Visualize after cleaning:** show retained versus eligible rows and class distributions by split. Exclusion is a modeling eligibility decision, not deletion. Selection bias toward established teams must be disclosed.
-7. **Freeze the experiment:** 39 feature allowlist; target order A/D/H. Train 2000/01–2021/22; validation 2022/23–2023/24; test 2024/25–2025/26. Select all neural checkpoints using the same 74 Arsenal validation matches. Evaluate on the same 75 eligible Arsenal test matches. Train-only preprocessing; chronological splits; no random match splitting.
-8. **Fit bounded models:** fixed MLP 39→32→16→3 with ReLU and 0.1 dropout; AdamW lr=1e-4, weight_decay=0.01, batch=256, seed=42. Hard maximum 100 epochs per fit; patience 20 with min_delta=1e-4. Save every new minimum validation loss to the run's best checkpoint, with optimizer state, scaler, feature order and settings. Reload and freeze the best weights before scoring. Fine-tuning starts from the best league checkpoint, retains its scaler, resets AdamW, and uses only Arsenal training rows. Epoch zero is eligible if fine-tuning does not improve.
-9. **Baselines and comparison:** fixed standardized logistic regression (C=1) under both training populations and league class prior. Primary comparison is league MLP minus Arsenal MLP test log loss; negative favors league. Report multiclass Brier sum (range 0–2), accuracy and probability calibration alongside log loss. Select the deployment candidate on Arsenal validation only, including baselines.
-10. **Transfer and revisions:** evaluate frozen checkpoints on later non-Arsenal EPL games as a temporal/population transfer check. These are known clubs in the same competition, not independent external-domain validation. Define fine-tuning before inspecting test results; test remains outside training and selection. Any subsequent test-informed framework revision needs a new untouched period or separately versioned exploratory label. No new league data is invented.
-11. **Interpretation:** pair test losses by match; show a month-block bootstrap interval (1,000 resamples). It measures limited test-sample uncertainty, not training-seed uncertainty. Single seed and short test period preclude a robust superiority claim. League models get more optimizer updates per epoch; this experiment compares practical pipelines, not equal-compute sample-size effects.
-12. **Completion:** one supported claim, one supporting figure, one limitation. Save outputs, code/version hashes, metrics, per-match probabilities and model checkpoints before starting the next experiment.
+## Data before modeling
 
-## Outstanding evidence and scope
-- Live football-data URLs were blocked by the cloud network proxy. Bundled files are internally verified; remote freshness/authenticity beyond the supplied snapshots is unconfirmed. Run `experiments/check_sources.py` in Colab to record current hash comparisons without replacing files.
-- Reza's upstream provider per field/record is not documented. File-level and transformation lineage are established; original-observer lineage cannot be manufactured. No StatsBomb, Wyscout or FPL data is used.
-- The latest observed match is 2026-05-24. Outputs are historical out-of-time probabilities, not forecasts for an unspecified upcoming fixture. A live feature feed and fixture input adapter remain future work.
-- Model compatibility is tested in the local Python environment. Colab setup is supplied but hosted Colab execution is not independently certified.
-- Bundled original validation reports describe their original run. The new `experiments/audit.py` is the authoritative current audit and runs before modeling.
+1. Start with an absent `results/current/` directory. Record a unique run ID, UTC timestamps, source-code hashes, runtime versions and frozen input hashes.
+2. Inspect the primary Reza archive, Tara overlap and three football-data snapshots. Join by normalized season/home/away identity for verification; do not append duplicate observations. Preserve the raw bytes and attribution.
+3. Visualize coverage, missingness, clubs and outcomes before modeling. Disclose that test descriptive statistics are post-inspection and do not drive tuning.
+4. Reconstruct cleaning and features, check all X/y/index cells and chronological partitions, and perform temporal mutation checks. Five inconsistent shot-stat sides across three matches become missing; metadata corrections remain separate from the predictors. Export a new audit.
+5. Freeze the same 39-feature allowlist. Strictly earlier dates supply histories; default eligibility requires complete lagged inputs. Missing xG is excluded from default features. Study training-only distributions and correlations.
+
+## Control, treatment and extension
+
+This is a computational comparison on observational match data, not a randomized intervention on clubs.
+
+| Arm | Initialization | Training data |
+|---|---|---|
+| Arsenal-only MLP control | Fresh seed-42 initialization | 815 Arsenal training fixtures |
+| League-wide MLP treatment | Fresh seed-42 initialization | 7,977 EPL training fixtures, including Arsenal |
+| Optional Arsenal specialization (enabled) | Best current-run league checkpoint | Same 815 Arsenal fixtures, league scaler retained, optimizer reset |
+| Reference controls | Fixed logistic models; league class frequencies | Corresponding training populations |
+
+The independent fits do not share learned weights. The same seed intentionally gives the same initial tensors. Only specialization loads a checkpoint. Different sample sizes mean different optimizer updates under the same epoch budget: 4 batches per Arsenal epoch and 32 per league epoch.
+
+## Frozen settings and stage order
+
+- Train 2000/01–2021/22, validation 2022/23–2023/24, test 2024/25–2025/26. All neural selection uses the same 74 Arsenal validation fixtures; primary test uses 75 Arsenal fixtures.
+- 39→32→16→3 MLP, ReLU, dropout 0.1, unweighted cross-entropy, A/D/H class order.
+- AdamW lr=1e-4, weight decay 0.01, batch 256; per-fit seed 42; deterministic CPU algorithms; maximum 100 epochs, patience 20, min_delta 1e-4.
+- Save every true validation minimum; patience resets only for an improvement exceeding min_delta relative to the previous best. Reload the best checkpoint. Specialization permits its inherited epoch-zero checkpoint to win.
+- Run Arsenal control first, then league challenger, save the frozen validation comparison, then run the enabled specialization. Fit fixed logistic controls (C=1, max_iter=2000) and class prior. Select the candidate on Arsenal validation log loss only.
+- Record every epoch's online training loss, validation loss/accuracy, best epoch, checkpoint save, patience, optimizer steps and timing. Record initial/best weight hashes and transfer ancestry.
+- Evaluate test only after models and candidate selection are frozen. Evaluation reloads the newly created artifacts through the same inference interface used for saved-model checks. Input values use the frozen float32 loader; CSV checks restore original probability dtype before comparison.
+
+## Outcomes and interpretation
+
+Primary contrast: league minus Arsenal-only MLP log loss on identical Arsenal test fixtures; negative favors league. Secondary: multiclass Brier sum (0–2), accuracy and calibration. The paired month-block bootstrap uses 1,000 resamples and reports the 95% percentile interval. It excludes training-seed uncertainty.
+
+Report one current result set. Corresponding deterministic reruns are not additional treatment arms. Compare independent-arm weights and probabilities, and check response to changed input rows; these are implementation checks, not tests of statistical superiority. Do not alter seeds or settings to force different numbers.
+
+Single seed, previously inspected test outcomes, unequal update budgets, eligibility bias and unresolved original-observer lineage remain limitations. Known-competition transfer is not external-league validation. A new untouched period is needed for a new confirmatory claim.

@@ -1,0 +1,77 @@
+{
+  "run_id": "e3ceec90-4b79-4a9f-a6dc-b2dd43e67546",
+  "label": "fresh reproducibility rerun after test inspection",
+  "selected_model": "league_logistic",
+  "arsenal_test_results": [
+    {
+      "model": "arsenal_mlp",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 0.959722621496875,
+      "brier_multiclass": 0.5690437472733268,
+      "accuracy": 0.6,
+      "n": 75
+    },
+    {
+      "model": "league_mlp",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 0.8999405042698295,
+      "brier_multiclass": 0.52908705550844,
+      "accuracy": 0.6133333333333333,
+      "n": 75
+    },
+    {
+      "model": "league_to_arsenal_mlp",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 0.9004104525396049,
+      "brier_multiclass": 0.529357006693501,
+      "accuracy": 0.6133333333333333,
+      "n": 75
+    },
+    {
+      "model": "league_logistic",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 0.9089569508526822,
+      "brier_multiclass": 0.5326442686032308,
+      "accuracy": 0.6133333333333333,
+      "n": 75
+    },
+    {
+      "model": "arsenal_logistic",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 0.9092996361106364,
+      "brier_multiclass": 0.5344451702930588,
+      "accuracy": 0.64,
+      "n": 75
+    },
+    {
+      "model": "league_prior",
+      "split": "test",
+      "population": "Arsenal",
+      "log_loss": 1.094381040361471,
+      "brier_multiclass": 0.6641832022737928,
+      "accuracy": 0.4,
+      "n": 75
+    }
+  ],
+  "primary_comparison": {
+    "contrast": "League minus Arsenal-only MLP test log loss",
+    "difference": -0.05978211760520935,
+    "interval_95_percentile": [
+      -0.10078658796846866,
+      -0.016193701140582585
+    ],
+    "blocks": 20,
+    "resamples": 1000,
+    "limitation": "Same inspected test period; interval excludes training-seed uncertainty."
+  },
+  "implementation_checks": {
+    "max_difference_between_independent_models": 0.25423046946525574,
+    "independent_models_are_not_identical": true,
+    "max_probability_change_when_feature_rows_reordered": 0.6901931762695312
+  }
+}

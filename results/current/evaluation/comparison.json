@@ -1,0 +1,11 @@
+{
+  "contrast": "League minus Arsenal-only MLP test log loss",
+  "difference": -0.05978211760520935,
+  "interval_95_percentile": [
+    -0.10078658796846866,
+    -0.016193701140582585
+  ],
+  "blocks": 20,
+  "resamples": 1000,
+  "limitation": "Same inspected test period; interval excludes training-seed uncertainty."
+}

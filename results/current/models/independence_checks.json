@@ -1,0 +1,7 @@
+{
+  "independent_models_start_fresh": true,
+  "same_seed_same_initial_weights": true,
+  "trained_models_have_different_weights": true,
+  "fine_tuning_loads_current_league_weights": true,
+  "all_fits_changed_weights": true
+}

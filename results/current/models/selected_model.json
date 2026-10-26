@@ -1,0 +1,12 @@
+{
+  "selected_model": "league_logistic",
+  "criterion": "Arsenal validation log loss only",
+  "validation_scores": {
+    "arsenal_mlp": 0.8644348940340559,
+    "league_mlp": 0.7966090561631516,
+    "league_to_arsenal_mlp": 0.7963729410469195,
+    "league_logistic": 0.7962052747066101,
+    "arsenal_logistic": 0.8519851680297977,
+    "league_prior": 1.0401865032261286
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "verified_utc": "2026-10-26T05:56:42.988101+00:00",
+  "run_id": "e3ceec90-4b79-4a9f-a6dc-b2dd43e67546",
+  "command": "python -m unittest discover -s tests -v",
+  "exit_code": 0,
+  "tests_passed": 6,
+  "output": "test_every_epoch_and_saved_checkpoint (test_current_study.CurrentStudy.test_every_epoch_and_saved_checkpoint) ... ok\ntest_inputs_code_and_audit (test_current_study.CurrentStudy.test_inputs_code_and_audit) ... ok\ntest_notebooks_executed_in_order (test_current_study.CurrentStudy.test_notebooks_executed_in_order) ... ok\ntest_partitions_and_source_overlap (test_current_study.CurrentStudy.test_partitions_and_source_overlap) ... ok\ntest_reload_metrics_and_validation_selection (test_current_study.CurrentStudy.test_reload_metrics_and_validation_selection) ... ok\ntest_sequence_and_model_independence (test_current_study.CurrentStudy.test_sequence_and_model_independence) ... ok\n\n----------------------------------------------------------------------\nRan 6 tests in 0.198s\n\nOK\n",
+  "notebooks_executed": 3,
+  "exported_figures": 14,
+  "figure_review": "All fourteen exported figures inspected directly.",
+  "browser_layout_review": "Not performed; no browser available.",
+  "unchanged_inputs_and_canonical_training": true
+}

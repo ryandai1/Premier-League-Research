@@ -1,0 +1,4 @@
+split,rows,first_date,last_date,Arsenal_rows
+train,7977,2000-09-16,2022-05-22,815
+validation,730,2022-08-05,2024-05-19,74
+test,732,2024-08-16,2026-05-24,75

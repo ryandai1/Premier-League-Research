@@ -1,9 +1,7 @@
-# Validation checks
+# Current-study verification
 
-Run `python -m unittest discover -s tests -v` from the repository root.
+Run `python -m unittest discover -s tests -v` after completing all three notebooks. The tests inspect current artifacts and reload predictions; they do not train new models.
 
-- `test_artifacts.py`: explicitly registered experiment 1 verification run; checkpoint reloads, input rejection, Arsenal home/away orientation, model selection and epoch caps.
-- `test_experiment2_epochs.py`: explicitly registered featured experiment 2; patience replay, optimizer steps, initialization and transfer hashes, frozen comparison artifact consistency. It checks the recorded artifacts; it does not independently prove real-world timing or performance.
-- `test_repository_integrity.py`: pre-cleanup artifact hashes, all five runs' source commits/input hashes, all 30 saved model reloads, shared definitions, and valid executed notebooks, and side-effect-free figure-module imports.
+Checks cover source/input hashes, a passed fresh reconstruction audit, disjoint partitions, source overlap, stage order, fresh initialization, fine-tuning ancestry, distinct independent models, input sensitivity, every epoch, patience/optimizer state, checkpoint hashes, validation-only selection, reloaded probabilities, recomputed metrics, and executed notebook structure.
 
-No test selects the newest directory implicitly. Saved outputs must be registered deliberately. The suite does not train models or claim an independent replication.
+Float32 probability CSVs are parsed back to their original dtype before comparison; treating short float32 decimal representations as exact float64 values would create meaningless serialization discrepancies.
