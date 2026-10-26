@@ -1,0 +1,12 @@
+{
+  "selected_model": "league_logistic",
+  "criterion": "Lowest Arsenal validation log loss; test unused",
+  "validation_scores": {
+    "league_mlp": 0.7966090636007274,
+    "arsenal_mlp": 0.864434890960889,
+    "league_to_arsenal_mlp": 0.7963729278888768,
+    "league_logistic": 0.796205273692593,
+    "arsenal_logistic": 0.851985155130564,
+    "league_prior": 1.0401865032261286
+  }
+}

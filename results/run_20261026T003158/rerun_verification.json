@@ -1,0 +1,18 @@
+{
+  "label": "Experiment 1 reproducibility rerun after test inspection",
+  "started_utc": "2026-10-26T00:31:58.840868+00:00",
+  "finished_utc": "2026-10-26T00:32:03.677326+00:00",
+  "original_training_source_sha256": "3af682854e7fde017f3780ed49749431f2675e19ee7fa990ccd68f85c41d7898",
+  "rerun_observer_source_sha256": "6b9dcd5a3c800a91e2654852cf2b2d685287e3c6f469cc70a97191830f83d7cf",
+  "original_training_source_unchanged": true,
+  "execution_order": [
+    "league_mlp",
+    "arsenal_mlp",
+    "league_to_arsenal_mlp"
+  ],
+  "observed_epochs": 221,
+  "optimizer_updates": 3684,
+  "max_probability_difference": 0.0,
+  "all_weights_exactly_equal": true,
+  "all_epoch_losses_exactly_equal": true
+}

@@ -4,6 +4,14 @@
 
 Start with **[the executed notebook](notebooks/Arsenal_League_vs_Arsenal.ipynb)**. It contains raw-data visualization, an explicit cleaning protocol, post-cleaning visualization, training/checkpoint inspection, held-out probabilities, calibration and transfer evaluation.
 
+## Experiment 1 rerun — why results are identical
+
+A fresh execution of the unchanged experiment 1 runner completed 221 epochs and 3,684 optimizer updates in the original order: league → Arsenal → fine-tuning. All corresponding model weights, per-epoch losses, and validation/test probabilities exactly match both the original experiment 1 and latest experiment 2. The equality is deterministic: seed 42 resets inside every fit, so independent-fit order cannot affect the random sequence used by either model. Experiment 2 changes workflow order and reporting, not the numerical treatment.
+
+[Executed verification notebook](notebooks/Experiment_1_Fresh_Verification.ipynb) · [Every epoch and verification report](results/run_20261026T003158/RERUN_REPORT.md) · [Weight and epoch comparisons](results/run_20261026T003158/weights_and_epochs_comparison.csv)
+
+This remains a reproducibility rerun after test inspection, not independent confirmatory evidence. The original code, data and result snapshots remain preserved.
+
 ## Latest results — experiment 2
 
 **Fresh execution with every epoch visible:** [executed notebook](notebooks/Experiment_2_Epoch_By_Epoch.ipynb), [all 221 epoch results](results/experiment_2/run_20261026T002413/EVERY_EPOCH.md), [raw log](results/experiment_2/run_20261026T002413/epoch_log.txt), and [new outputs](results/experiment_2/run_20261026T002413/). The reviewed training loop logs loss, validation accuracy, patience, checkpoint saves and optimizer steps. Initialization hashes establish that the league challenger starts fresh and only fine-tuning inherits league weights. This fresh execution again exactly reproduces the earlier probabilities.
