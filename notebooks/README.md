@@ -11,3 +11,7 @@ Each notebook executes in a fresh kernel. Stage guards prevent starting training
 ## Inference-only companion
 
 [Inspect the held-out test with frozen models](Frozen_Model_Test_Review.ipynb) runs independently of the numbered sequence. It loads the existing checkpoints, scores the original 732 test fixtures (75 Arsenal), and exports actual outcomes and probabilities to [results/test_review/](../results/test_review/README.md). It performs no fitting or selection and verifies the original data/models/study outputs remain unchanged. Open it directly in Jupyter and run all cells; do not invoke the training executor for this task.
+
+## Corrected Arsenal-excluded experiment
+
+[04_arsenal_isolated_experiments.ipynb](04_arsenal_isolated_experiments.ipynb) is an executed review of the corrected runs. It displays all epoch records and reloads saved models to verify predictions and metrics. It does not retrain; the notebook includes the separate training command. Earlier notebooks retain the historical Arsenal-inclusive experiment.
