@@ -1,65 +1,57 @@
 # Premier League Research: Arsenal W/D/L probabilities
 
-[Open the experiment in Colab](https://colab.research.google.com/github/ryandai1/Premier-League-Research/blob/main/notebooks/Arsenal_League_vs_Arsenal.ipynb)
+Historical Arsenal win/draw/loss probabilities from frozen Premier League data, with executed notebooks, model checkpoints, and every training epoch available for inspection.
 
-Start with **[the executed notebook](notebooks/Arsenal_League_vs_Arsenal.ipynb)**. It contains raw-data visualization, an explicit cleaning protocol, post-cleaning visualization, training/checkpoint inspection, held-out probabilities, calibration and transfer evaluation.
+**[Experiment 2: executed notebook](notebooks/Experiment_2_Epoch_By_Epoch.ipynb)** · **[Experiment 1: fresh verification](notebooks/Experiment_1_Fresh_Verification.ipynb)** · [Original experiment 1](notebooks/Arsenal_League_vs_Arsenal.ipynb)
 
-## Experiment 1 rerun — why results are identical
+## Published results
 
-A fresh execution of the unchanged experiment 1 runner completed 221 epochs and 3,684 optimizer updates in the original order: league → Arsenal → fine-tuning. All corresponding model weights, per-epoch losses, and validation/test probabilities exactly match both the original experiment 1 and latest experiment 2. The equality is deterministic: seed 42 resets inside every fit, so independent-fit order cannot affect the random sequence used by either model. Experiment 2 changes workflow order and reporting, not the numerical treatment.
+**Reproducibility reruns after test inspection.** All three executions use the same data, splits, seed 42 and training settings. Experiment 2 changes the workflow order; its corresponding models reproduce the original weights, epoch losses and probabilities exactly. These reruns add no independent confirmatory evidence.
 
-[Executed verification notebook](notebooks/Experiment_1_Fresh_Verification.ipynb) · [Every epoch and verification report](results/run_20261026T003158/RERUN_REPORT.md) · [Weight and epoch comparisons](results/run_20261026T003158/weights_and_epochs_comparison.csv)
+![Arsenal test log loss for all six models across the original experiment 1 and both reruns; corresponding scores are identical](results/profile/test_results.png)
 
-This remains a reproducibility rerun after test inspection, not independent confirmatory evidence. The original code, data and result snapshots remain preserved.
+On the same **75 Arsenal test fixtures in 2024/25–2025/26**, all three executions give:
 
-## Latest results — experiment 2
+| Model | Test log loss ↓ | Multiclass Brier ↓ | Accuracy |
+|---|---:|---:|---:|
+| Arsenal-only MLP | 0.959723 | 0.569044 | 60.00% |
+| League-wide MLP | 0.899941 | 0.529087 | 61.33% |
+| League → Arsenal fine-tuned MLP | 0.900410 | 0.529357 | 61.33% |
+| League logistic | 0.908957 | 0.532644 | 61.33% |
+| Arsenal logistic | 0.909300 | 0.534445 | 64.00% |
+| League class prior | 1.094381 | 0.664183 | 40.00% |
 
-**Fresh execution with every epoch visible:** [executed notebook](notebooks/Experiment_2_Epoch_By_Epoch.ipynb), [all 221 epoch results](results/experiment_2/run_20261026T002413/EVERY_EPOCH.md), [raw log](results/experiment_2/run_20261026T002413/epoch_log.txt), and [new outputs](results/experiment_2/run_20261026T002413/). The reviewed training loop logs loss, validation accuracy, patience, checkpoint saves and optimizer steps. Initialization hashes establish that the league challenger starts fresh and only fine-tuning inherits league weights. This fresh execution again exactly reproduces the earlier probabilities.
+**Finding:** league-wide neural training has lower test log loss than Arsenal-only training in this fixed setup. The paired league-minus-Arsenal difference is **−0.059782**, with a month-block 95% bootstrap interval **[−0.100787, −0.016194]**. The interval describes test-sample uncertainty, not training-seed uncertainty. Fine-tuning gives no test improvement here; the two logistic models are nearly tied.
 
-**[Open the executed experiment 2 notebook](notebooks/Experiment_2_Arsenal_First_Reproducibility.ipynb)** · [Workflow and comparison](EXPERIMENT_2.md) · [Saved outputs](results/experiment_2/run_20261025T124105/)
+**Validation-selected candidate: league logistic regression.** Model selection uses Arsenal validation loss, so the neural model's lower test loss does not change the selected candidate.
 
-**Reproducibility rerun: the test results had already been inspected.** The workflow is now Arsenal-only baseline → independently initialized league-wide challenger → optional Arsenal fine-tuning (enabled in this run). The data, chronological splits, seed 42, architecture, cross-entropy loss, AdamW at 1e-4, maximum 100 epochs and patience 20 are unchanged. Each fit resets its seed; only fine-tuning starts from a trained checkpoint.
+[Exact chart data](results/profile/test_results.csv) · [Metrics](results/experiment_2/run_20261026T002413/metrics.csv) · [Bootstrap comparison](results/experiment_2/run_20261026T002413/comparison.json)
 
-On the same **75 eligible Arsenal test fixtures**:
+## Training workflow and graphics
 
-| Model | Experiment 1 log loss ↓ | Experiment 2 log loss ↓ | Experiment 2 Brier ↓ | Experiment 2 accuracy |
+**Arsenal baseline from scratch → independent league challenger from scratch → frozen validation comparison → optional Arsenal specialization → final test evaluation.** Only specialization loads trained weights: the best league checkpoint from the same execution. Both independent fits start fresh.
+
+![Experiment 2 learning curves in Arsenal-first order, with training and Arsenal validation loss and the selected checkpoint epoch](results/profile/learning_curves.png)
+
+| Stage | Training rows | Epochs run | Best epoch | Optimizer updates |
 |---|---:|---:|---:|---:|
-| Arsenal-only MLP | 0.959723 | 0.959723 | 0.569044 | 60.00% |
-| Independent league MLP | 0.899941 | 0.899941 | 0.529087 | 61.33% |
-| League → Arsenal fine-tuned MLP | 0.900410 | 0.900410 | 0.529357 | 61.33% |
-| League logistic | 0.908957 | 0.908957 | 0.532644 | 61.33% |
-| Arsenal-only logistic | 0.909300 | 0.909300 | 0.534445 | 64.00% |
-| League class prior | 1.094381 | 1.094381 | 0.664183 | 40.00% |
+| Arsenal-only baseline | 815 | 100 | 100 | 400 |
+| Independent league challenger | 7,977 | 100 | 98 | 3,200 |
+| League → Arsenal specialization | 815 | 21 | 1 | 84 |
 
-All six models exactly reproduce experiment 1's validation and test probabilities across all EPL fixtures: maximum absolute probability difference **0**. All metric deltas are zero. The league-minus-Arsenal test log-loss difference remains **-0.059782**, with month-block 95% bootstrap interval **[-0.100787, -0.016194]**. Fine-tuning does not improve test log loss here. **League logistic remains the validation-selected candidate**; test performance does not change selection.
+All panels use the same **74 Arsenal validation fixtures**. Training curves use different populations and include dropout; validation uses evaluation mode. Both initial fits reached the cap, so convergence is not established. League training receives more optimizer updates under the same epoch budget.
 
-The reordered workflow reproduces the original result and adds no independent confirmatory evidence. A new untouched period is needed for that. Experiment 1's notebook, fitting code, data and result artifacts remain unchanged.
+**Fixed settings:** 39→32→16→3 MLP; ReLU and 0.1 dropout; unweighted cross-entropy; AdamW learning rate 1e-4, weight decay 0.01; batch 256; seed 42; maximum 100 epochs per fit; patience 20, min_delta 1e-4. Train through 2021/22; validation 2022/23–2023/24; test 2024/25–2025/26.
 
-![Experiment 1 versus experiment 2](results/experiment_2/run_20261025T124105/experiment_1_comparison.png)
+**[Read all 221 experiment 2 epochs](results/experiment_2/run_20261026T002413/EVERY_EPOCH.md)** · [Download epoch CSV](results/experiment_2/run_20261026T002413/all_epochs.csv) · [Frozen comparison before specialization](results/experiment_2/run_20261026T002413/frozen_validation_comparison.json)
 
-## First experiment
-Does league-wide training improve future Arsenal predictions over Arsenal-only training?
+## Why the results repeat exactly
 
-On the **same 75 eligible Arsenal test matches (2024/25–2025/26)**:
+Experiment 1 runs league → Arsenal → specialization; experiment 2 runs Arsenal → league → specialization. Seed 42 resets inside each independent fit, repeating initialization, batch order and dropout draws. Reordering those fits therefore does not change the numerical result. The fresh experiment 1 execution verified **exact equality of all model weights, all epoch losses and all validation/test probabilities** against the corresponding models in both saved experiments.
 
-| Model | Log loss ↓ | Multiclass Brier ↓ |
-|---|---:|---:|
-| League MLP | 0.8999 | 0.5291 |
-| Arsenal-only MLP | 0.9597 | 0.5690 |
-| League → Arsenal fine-tuned MLP | 0.9004 | 0.5294 |
-| League logistic | 0.9090 | 0.5326 |
-| Arsenal-only logistic | 0.9093 | 0.5344 |
-| League class prior | 1.0944 | 0.6642 |
+[Experiment 1: every epoch and verification](results/run_20261026T003158/RERUN_REPORT.md) · [Weight/epoch checks](results/run_20261026T003158/weights_and_epochs_comparison.csv) · [Probability checks](results/run_20261026T003158/prediction_comparison.csv) · [Workflow details](EXPERIMENT_2.md)
 
-**Claim:** league training improved the neural pipeline in this bounded experiment. The paired log-loss difference was −0.0598, month-block 95% bootstrap interval [−0.1008, −0.0162]. This is one seed, a short historical test and a particular architecture; the logistic comparison was nearly tied. The interval excludes training randomness.
-
-**Selected candidate:** league logistic, chosen on Arsenal validation log loss before test scoring. Do not switch the selected model using test performance. The tiny validation difference from fine-tuned MLP is not evidence of a robust ranking.
-
-**Supporting figure:**
-
-![Arsenal test comparison](results/figures/04_arsenal_comparison.png)
-
-**Limitations:** no live 2026/27 feed, external-league validation, seed sweep, or fully resolved original-provider lineage. Initial neural fits hit the 100-epoch cap; fine-tuning stopped at 21 and selected epoch 1. Other-EPL transfer evaluates known competition/club conditions. Fine-tuning was prespecified before test inspection; future test-informed revisions require a new holdout.
+Original experiment 1 data, code, notebook and artifacts remain preserved. One seed, a short previously inspected test period, and unequal update budgets limit interpretation. A new untouched period is needed for a new confirmatory evaluation. These are historical probabilities, not live fixture forecasts.
 
 ## Reproduce
 

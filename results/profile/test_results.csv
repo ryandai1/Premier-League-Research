@@ -1,0 +1,19 @@
+model,split,population,log_loss,brier_multiclass,accuracy,n,run
+arsenal_mlp,test,Arsenal,0.9597226256391956,0.5690437511493277,0.6,75,Experiment 1 original
+league_mlp,test,Arsenal,0.899940514520434,0.5290870571379737,0.6133333333333333,75,Experiment 1 original
+league_to_arsenal_mlp,test,Arsenal,0.9004104684826489,0.5293570162734366,0.6133333333333333,75,Experiment 1 original
+league_logistic,test,Arsenal,0.9089569606735988,0.5326442722625842,0.6133333333333333,75,Experiment 1 original
+arsenal_logistic,test,Arsenal,0.9092996040073562,0.5344451531943964,0.64,75,Experiment 1 original
+league_prior,test,Arsenal,1.094381040361471,0.6641832022737928,0.4,75,Experiment 1 original
+arsenal_mlp,test,Arsenal,0.9597226256391956,0.5690437511493277,0.6,75,Experiment 1 rerun
+league_mlp,test,Arsenal,0.899940514520434,0.5290870571379737,0.6133333333333333,75,Experiment 1 rerun
+league_to_arsenal_mlp,test,Arsenal,0.9004104684826489,0.5293570162734366,0.6133333333333333,75,Experiment 1 rerun
+league_logistic,test,Arsenal,0.9089569606735988,0.5326442722625842,0.6133333333333333,75,Experiment 1 rerun
+arsenal_logistic,test,Arsenal,0.9092996040073562,0.5344451531943964,0.64,75,Experiment 1 rerun
+league_prior,test,Arsenal,1.094381040361471,0.6641832022737928,0.4,75,Experiment 1 rerun
+arsenal_mlp,test,Arsenal,0.9597226256391956,0.5690437511493277,0.6,75,Experiment 2 rerun
+league_mlp,test,Arsenal,0.899940514520434,0.5290870571379737,0.6133333333333333,75,Experiment 2 rerun
+league_to_arsenal_mlp,test,Arsenal,0.9004104684826489,0.5293570162734366,0.6133333333333333,75,Experiment 2 rerun
+league_logistic,test,Arsenal,0.9089569606735988,0.5326442722625842,0.6133333333333333,75,Experiment 2 rerun
+arsenal_logistic,test,Arsenal,0.9092996040073562,0.5344451531943964,0.64,75,Experiment 2 rerun
+league_prior,test,Arsenal,1.094381040361471,0.6641832022737928,0.4,75,Experiment 2 rerun
