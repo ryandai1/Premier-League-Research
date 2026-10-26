@@ -1,0 +1,816 @@
+match_id,date,season_start,home_team,away_team,split
+41f6191d44c828b5,2000-09-16,2000,Arsenal,Coventry,train
+3e7f63b84368db76,2000-09-23,2000,Ipswich,Arsenal,train
+17f5fd824f096957,2000-10-01,2000,Arsenal,Manchester United,train
+44ccb817fb60bd21,2000-10-14,2000,Arsenal,Aston Villa,train
+946eb295c7aa58cc,2000-10-21,2000,West Ham,Arsenal,train
+ab97d3ef6c993d40,2000-10-28,2000,Arsenal,Manchester City,train
+7fcb3a79c698fcb3,2000-11-04,2000,Middlesbrough,Arsenal,train
+769e7a1c04ebf640,2000-11-11,2000,Arsenal,Derby,train
+fd6dc81800e25dcc,2000-11-18,2000,Everton,Arsenal,train
+ff629554f4a618ea,2000-11-26,2000,Leeds,Arsenal,train
+5f6bf46f0ba6fb0f,2000-12-02,2000,Arsenal,Southampton,train
+a232409f486c3f56,2000-12-09,2000,Arsenal,Newcastle,train
+0e55b8d447cee49d,2000-12-18,2000,Tottenham,Arsenal,train
+36e5517415aadf7a,2000-12-23,2000,Liverpool,Arsenal,train
+bee45191f0cb5a83,2000-12-26,2000,Arsenal,Leicester,train
+86dd16459d0152bb,2000-12-30,2000,Arsenal,Sunderland,train
+e1e3361ce905ddc8,2001-01-01,2000,Charlton,Arsenal,train
+2bbfa24ad7f33c52,2001-01-13,2000,Arsenal,Chelsea,train
+7fd5fee5625e114e,2001-01-20,2000,Leicester,Arsenal,train
+ce78dd3c810a25be,2001-01-30,2000,Arsenal,Bradford,train
+5b5e26b949e18575,2001-02-03,2000,Coventry,Arsenal,train
+1fe544e99472f2dc,2001-02-10,2000,Arsenal,Ipswich,train
+69d522f9646f8e9a,2001-02-25,2000,Manchester United,Arsenal,train
+d8c7c9cd3139b412,2001-03-03,2000,Arsenal,West Ham,train
+b7b0183f951d566a,2001-03-18,2000,Aston Villa,Arsenal,train
+a9f3ddf110349bf9,2001-03-31,2000,Arsenal,Tottenham,train
+55d88f070418330f,2001-04-11,2000,Manchester City,Arsenal,train
+7c29d6b8ea73e006,2001-04-14,2000,Arsenal,Middlesbrough,train
+00f47f5d70803ad7,2001-04-21,2000,Arsenal,Everton,train
+b3909cc38a871c57,2001-04-28,2000,Derby,Arsenal,train
+dbff4bda21de51d3,2001-05-05,2000,Arsenal,Leeds,train
+bbd3e791aab73d27,2001-05-15,2000,Newcastle,Arsenal,train
+49921c44d363bef5,2001-05-19,2000,Southampton,Arsenal,train
+bf198445193e160e,2001-08-18,2001,Middlesbrough,Arsenal,train
+d8ba3bf79ffece59,2001-08-21,2001,Arsenal,Leeds,train
+7d191c745ed5ee8c,2001-08-25,2001,Arsenal,Leicester,train
+301a6651ca2f6749,2001-09-08,2001,Chelsea,Arsenal,train
+b3410c9b62283b19,2001-09-22,2001,Arsenal,Bolton,train
+3623e0a470f02103,2001-09-29,2001,Derby,Arsenal,train
+6abe1fb0be21679a,2001-10-13,2001,Southampton,Arsenal,train
+076b3dbe16bc2ba5,2001-10-20,2001,Arsenal,Blackburn,train
+51a9a71f32425b6c,2001-10-27,2001,Sunderland,Arsenal,train
+5ef0a087288b7552,2001-11-04,2001,Arsenal,Charlton,train
+323a12bac8ab7aa6,2001-11-17,2001,Tottenham,Arsenal,train
+1108da73dde95779,2001-11-25,2001,Arsenal,Manchester United,train
+a651914f66307dee,2001-12-01,2001,Ipswich,Arsenal,train
+6acd28eaefed9000,2001-12-09,2001,Arsenal,Aston Villa,train
+d29a6b82b3809027,2001-12-15,2001,West Ham,Arsenal,train
+1604e172d56341d8,2001-12-18,2001,Arsenal,Newcastle,train
+ab1a9d0a3dcdce14,2001-12-23,2001,Liverpool,Arsenal,train
+43550123750678b9,2001-12-26,2001,Arsenal,Chelsea,train
+024c9c2165e26068,2001-12-29,2001,Arsenal,Middlesbrough,train
+193abf23e50a9785,2002-01-13,2001,Arsenal,Liverpool,train
+af3818091598d49c,2002-01-20,2001,Leeds,Arsenal,train
+7111d812eafb59b0,2002-01-23,2001,Leicester,Arsenal,train
+8363bad9891820f2,2002-01-30,2001,Blackburn,Arsenal,train
+169f32a921899ca6,2002-02-02,2001,Arsenal,Southampton,train
+b22d411734904ea1,2002-02-10,2001,Everton,Arsenal,train
+78555cb499ebdb74,2002-02-23,2001,Arsenal,Fulham,train
+1465d72f38d8d693,2002-03-02,2001,Newcastle,Arsenal,train
+d3b9637fdfe6653d,2002-03-05,2001,Arsenal,Derby,train
+1ae49781553b87be,2002-03-17,2001,Aston Villa,Arsenal,train
+7f97d4d409134171,2002-03-30,2001,Arsenal,Sunderland,train
+5e5517e7ba0dffc9,2002-04-01,2001,Charlton,Arsenal,train
+efcfdee506781a5e,2002-04-06,2001,Arsenal,Tottenham,train
+88183b027b626685,2002-04-21,2001,Arsenal,Ipswich,train
+b85e9323cbd70fb6,2002-04-24,2001,Arsenal,West Ham,train
+4882c52c0ac2cce2,2002-04-29,2001,Bolton,Arsenal,train
+5f2567e43f3071ba,2002-05-08,2001,Manchester United,Arsenal,train
+fff86e92f79ef23f,2002-05-11,2001,Arsenal,Everton,train
+5dfac6856ec124bc,2002-08-24,2002,West Ham,Arsenal,train
+4c0da3e14c3da56e,2002-09-01,2002,Chelsea,Arsenal,train
+7529829487f32adb,2002-09-14,2002,Charlton,Arsenal,train
+7c1cf4408f8ba0b1,2002-09-21,2002,Arsenal,Bolton,train
+1a592450c10261eb,2002-09-28,2002,Leeds,Arsenal,train
+209a68b2d5809bf7,2002-10-06,2002,Arsenal,Sunderland,train
+8eec64f8e1f812f1,2002-10-19,2002,Everton,Arsenal,train
+84752ebd7b8481e0,2002-10-26,2002,Arsenal,Blackburn,train
+d61b08efa51f5bf1,2002-11-03,2002,Fulham,Arsenal,train
+27b1628edc49a986,2002-11-09,2002,Arsenal,Newcastle,train
+f5985f00063d0689,2002-11-16,2002,Arsenal,Tottenham,train
+951fd18a577e1fda,2002-11-23,2002,Southampton,Arsenal,train
+4cc53b9d2eedfa10,2002-11-30,2002,Arsenal,Aston Villa,train
+a9d2963817da59ba,2002-12-07,2002,Manchester United,Arsenal,train
+14408800777e3fe2,2002-12-15,2002,Tottenham,Arsenal,train
+357f88443a7bd46d,2002-12-21,2002,Arsenal,Middlesbrough,train
+67a3ef1da3cacc4c,2002-12-26,2002,West Brom,Arsenal,train
+eb6dd08a6b0cbef6,2002-12-29,2002,Arsenal,Liverpool,train
+203c66a21dc08fdb,2003-01-01,2002,Arsenal,Chelsea,train
+929e416540432da9,2003-01-12,2002,Birmingham,Arsenal,train
+f01ba6bb374b1d3b,2003-01-19,2002,Arsenal,West Ham,train
+241bfe684b57737e,2003-01-29,2002,Liverpool,Arsenal,train
+bc36b9e206f087bb,2003-02-01,2002,Arsenal,Fulham,train
+40abfe0491536fa5,2003-02-09,2002,Newcastle,Arsenal,train
+981d00b3c8d8d956,2003-02-22,2002,Manchester City,Arsenal,train
+e70db0d009bdb81a,2003-03-02,2002,Arsenal,Charlton,train
+7b8ccf21cb5cb752,2003-03-15,2002,Blackburn,Arsenal,train
+b7ec4ea2b7357cab,2003-03-23,2002,Arsenal,Everton,train
+47339818ec29b531,2003-04-05,2002,Aston Villa,Arsenal,train
+8b429e1eac5488a5,2003-04-16,2002,Arsenal,Manchester United,train
+5129e404431ecba8,2003-04-19,2002,Middlesbrough,Arsenal,train
+6a5527c171793854,2003-04-26,2002,Bolton,Arsenal,train
+e61f91ef470faecd,2003-05-04,2002,Arsenal,Leeds,train
+ca10c965eebe9ac8,2003-05-07,2002,Arsenal,Southampton,train
+25b3758424019d9f,2003-05-11,2002,Sunderland,Arsenal,train
+13f509a5b0f6fa5e,2003-08-16,2003,Arsenal,Everton,train
+99dffe1c052d97c0,2003-08-24,2003,Middlesbrough,Arsenal,train
+332eb16ccc79231c,2003-08-27,2003,Arsenal,Aston Villa,train
+e2b19b4eb454dd3b,2003-08-31,2003,Manchester City,Arsenal,train
+8ea60cefe27f41a4,2003-09-21,2003,Manchester United,Arsenal,train
+54ab9013040900bd,2003-09-26,2003,Arsenal,Newcastle,train
+f5f55eefa432e128,2003-10-04,2003,Liverpool,Arsenal,train
+2ead3070518e4946,2003-10-18,2003,Arsenal,Chelsea,train
+d02aebe8b29708dc,2003-10-26,2003,Charlton,Arsenal,train
+df789187f2f93773,2003-11-01,2003,Leeds,Arsenal,train
+3cfbdddc99f00951,2003-11-08,2003,Arsenal,Tottenham,train
+eb23d0303c4f50d2,2003-11-22,2003,Birmingham,Arsenal,train
+9e1f46139fd13889,2003-11-30,2003,Arsenal,Fulham,train
+cf4247f50e678179,2003-12-06,2003,Leicester,Arsenal,train
+47ed0c3aaf37e2f6,2003-12-14,2003,Arsenal,Blackburn,train
+422033c6425845e6,2003-12-20,2003,Bolton,Arsenal,train
+3d9bd37d4fc3ee36,2003-12-26,2003,Arsenal,Wolves,train
+09bf087a8ae8e504,2003-12-29,2003,Southampton,Arsenal,train
+130675e7e31575d0,2004-01-07,2003,Everton,Arsenal,train
+1263d0d69ad2ae35,2004-01-10,2003,Arsenal,Middlesbrough,train
+cf6007565adb90da,2004-01-18,2003,Aston Villa,Arsenal,train
+c22b961dc75d8f25,2004-02-01,2003,Arsenal,Manchester City,train
+d02121197c294a8d,2004-02-07,2003,Wolves,Arsenal,train
+4d626f8928a890ba,2004-02-10,2003,Arsenal,Southampton,train
+49db7316481278b5,2004-02-21,2003,Chelsea,Arsenal,train
+75ffdbb5615f3300,2004-02-28,2003,Arsenal,Charlton,train
+fec859bdc5d317aa,2004-03-13,2003,Blackburn,Arsenal,train
+43f218776e5415cd,2004-03-20,2003,Arsenal,Bolton,train
+0c6594c4dfb09079,2004-03-28,2003,Arsenal,Manchester United,train
+21bc4b6eabaa52f4,2004-04-09,2003,Arsenal,Liverpool,train
+3301cf6b32038f62,2004-04-11,2003,Newcastle,Arsenal,train
+8247fe95224e98b8,2004-04-16,2003,Arsenal,Leeds,train
+36ed728b6e3bbae5,2004-04-25,2003,Tottenham,Arsenal,train
+c6507a9fe75af3ae,2004-05-01,2003,Arsenal,Birmingham,train
+368461d3f72d852b,2004-05-04,2003,Portsmouth,Arsenal,train
+2971ed900eff4f8a,2004-05-09,2003,Fulham,Arsenal,train
+f1f3f886d2f7c4bb,2004-05-15,2003,Arsenal,Leicester,train
+3c649e723e022104,2004-08-15,2004,Everton,Arsenal,train
+9b5fd4b1513cc9d2,2004-08-22,2004,Arsenal,Middlesbrough,train
+4309862076bca2b1,2004-08-25,2004,Arsenal,Blackburn,train
+4add4cee3ef00626,2004-09-11,2004,Fulham,Arsenal,train
+34454462fa03156b,2004-09-18,2004,Arsenal,Bolton,train
+4dd76d337e2d03e2,2004-09-25,2004,Manchester City,Arsenal,train
+2004e183e7c41c42,2004-10-02,2004,Arsenal,Charlton,train
+2037df4272a64c77,2004-10-16,2004,Arsenal,Aston Villa,train
+8589a26842e07844,2004-10-24,2004,Manchester United,Arsenal,train
+172fa3f3b9a6712c,2004-10-30,2004,Arsenal,Southampton,train
+335c9a49b92ebd9c,2004-11-06,2004,Crystal Palace,Arsenal,train
+5fd3b61d0c3bd87f,2004-11-13,2004,Tottenham,Arsenal,train
+0649736c9bf763d2,2004-11-20,2004,Arsenal,West Brom,train
+e29f2ea00b8d78a0,2004-11-28,2004,Liverpool,Arsenal,train
+77d1ea2d26312241,2004-12-04,2004,Arsenal,Birmingham,train
+d870dcbd67c72de9,2004-12-12,2004,Arsenal,Chelsea,train
+d63ecec8b7d4b557,2004-12-19,2004,Portsmouth,Arsenal,train
+d83acf73e7f9a4da,2004-12-26,2004,Arsenal,Fulham,train
+b7e704b77e7c3dab,2004-12-29,2004,Newcastle,Arsenal,train
+a4a8e8d65540e151,2005-01-01,2004,Charlton,Arsenal,train
+cafeddf522835422,2005-01-04,2004,Arsenal,Manchester City,train
+89a17632d38e4330,2005-01-15,2004,Bolton,Arsenal,train
+076d132466852a5b,2005-01-23,2004,Arsenal,Newcastle,train
+7f1370f0142131e1,2005-02-01,2004,Arsenal,Manchester United,train
+41bee9795d82050d,2005-02-05,2004,Aston Villa,Arsenal,train
+84ee9fb02bfd5aa6,2005-02-14,2004,Arsenal,Crystal Palace,train
+220c00cd1dfaf1f8,2005-02-26,2004,Southampton,Arsenal,train
+87287049d0fe8954,2005-03-05,2004,Arsenal,Portsmouth,train
+2972ded57b3c7208,2005-03-19,2004,Blackburn,Arsenal,train
+e956979e2ac2bfa6,2005-04-02,2004,Arsenal,Norwich,train
+c0a5bd39c3891268,2005-04-09,2004,Middlesbrough,Arsenal,train
+3e057bdbfb370c8f,2005-04-20,2004,Chelsea,Arsenal,train
+09492ddf7dbc0324,2005-04-25,2004,Arsenal,Tottenham,train
+6b7208e0f7051ad0,2005-05-02,2004,West Brom,Arsenal,train
+f7c0f6eae8f07d3a,2005-05-08,2004,Arsenal,Liverpool,train
+29bf255d78cc5f42,2005-05-11,2004,Arsenal,Everton,train
+69d64e3e51f2f42c,2005-05-15,2004,Birmingham,Arsenal,train
+a848b527f2d6767e,2005-08-14,2005,Arsenal,Newcastle,train
+da037e96910567e2,2005-08-21,2005,Chelsea,Arsenal,train
+36612bc18ea499e2,2005-08-24,2005,Arsenal,Fulham,train
+1c9066377cd06ab1,2005-09-10,2005,Middlesbrough,Arsenal,train
+7a93880e8412cb48,2005-09-19,2005,Arsenal,Everton,train
+c07102409b25de89,2005-09-24,2005,West Ham,Arsenal,train
+a0647f9c9cc6fa57,2005-10-02,2005,Arsenal,Birmingham,train
+d8a62e27114731ed,2005-10-15,2005,West Brom,Arsenal,train
+b8076ee5c4bbde78,2005-10-22,2005,Arsenal,Manchester City,train
+76d4e1018d51e61f,2005-10-29,2005,Tottenham,Arsenal,train
+1f2058af02bbfa1b,2005-11-05,2005,Arsenal,Sunderland,train
+9ee7afc63450f382,2005-11-19,2005,Wigan,Arsenal,train
+c90472aa57d5a6ce,2005-11-26,2005,Arsenal,Blackburn,train
+9baac5011005d569,2005-12-03,2005,Bolton,Arsenal,train
+5abeb5ebce7ef11b,2005-12-10,2005,Newcastle,Arsenal,train
+56b2d3c95b1a29b2,2005-12-18,2005,Arsenal,Chelsea,train
+12bf5bdb3839c425,2005-12-26,2005,Charlton,Arsenal,train
+d87e7c9aa9e96210,2005-12-28,2005,Arsenal,Portsmouth,train
+4c2b53730b980e35,2005-12-31,2005,Aston Villa,Arsenal,train
+5cd6b8946b6789cb,2006-01-03,2005,Arsenal,Manchester United,train
+a3e58ccdfb6b1151,2006-01-14,2005,Arsenal,Middlesbrough,train
+8b0dba33e6c1f59f,2006-01-21,2005,Everton,Arsenal,train
+9a3ea3f4960c8e01,2006-02-01,2005,Arsenal,West Ham,train
+af9a52ad81a7cd9b,2006-02-04,2005,Birmingham,Arsenal,train
+a351d7fddd40edb3,2006-02-11,2005,Arsenal,Bolton,train
+a1befb15cfdd3c94,2006-02-14,2005,Liverpool,Arsenal,train
+363b24855e1b27ee,2006-02-25,2005,Blackburn,Arsenal,train
+8aa8e6e388c74793,2006-03-04,2005,Fulham,Arsenal,train
+6dbd0762c5c4ac1a,2006-03-12,2005,Arsenal,Liverpool,train
+cf846239c1350747,2006-03-18,2005,Arsenal,Charlton,train
+8fffb594c6a5472a,2006-04-01,2005,Arsenal,Aston Villa,train
+161db64441e5d58f,2006-04-09,2005,Manchester United,Arsenal,train
+f5349539d13512a8,2006-04-12,2005,Portsmouth,Arsenal,train
+f3edc3836030b8cf,2006-04-15,2005,Arsenal,West Brom,train
+587663468410e12b,2006-04-22,2005,Arsenal,Tottenham,train
+1681972642e43a8a,2006-05-01,2005,Sunderland,Arsenal,train
+06f8db4754778663,2006-05-04,2005,Manchester City,Arsenal,train
+935917ee6f7b21a4,2006-05-07,2005,Arsenal,Wigan,train
+8cae21afd44d7d03,2006-08-19,2006,Arsenal,Aston Villa,train
+061b26224ce52863,2006-08-26,2006,Manchester City,Arsenal,train
+baaaff452c5d8198,2006-09-09,2006,Arsenal,Middlesbrough,train
+58972bd495e9776b,2006-09-17,2006,Manchester United,Arsenal,train
+8228555b28949e6b,2006-09-23,2006,Arsenal,Sheffield United,train
+1d4eeddd38733971,2006-09-30,2006,Charlton,Arsenal,train
+73e3ca0d178e8196,2006-10-14,2006,Arsenal,Watford,train
+2f305c91e3bf4e8b,2006-10-22,2006,Reading,Arsenal,train
+7e6691c92eebc2fe,2006-10-28,2006,Arsenal,Everton,train
+019b701c66a54cd5,2006-11-05,2006,West Ham,Arsenal,train
+13a75c0f7831ad6b,2006-11-12,2006,Arsenal,Liverpool,train
+4c9425210386a245,2006-11-18,2006,Arsenal,Newcastle,train
+6ecb22b6258ab258,2006-11-25,2006,Bolton,Arsenal,train
+d9bf2d9f67932cf0,2006-11-29,2006,Fulham,Arsenal,train
+3f7720f6ea6cd154,2006-12-02,2006,Arsenal,Tottenham,train
+9f1d7b2d17d3edb0,2006-12-10,2006,Chelsea,Arsenal,train
+00eac4a55af2a8a6,2006-12-13,2006,Wigan,Arsenal,train
+620bdeeb8360f0bd,2006-12-16,2006,Arsenal,Portsmouth,train
+42992a808ef022f0,2006-12-23,2006,Arsenal,Blackburn,train
+009dca1ead4b8bf5,2006-12-26,2006,Watford,Arsenal,train
+11a3ae940b4f0ac2,2006-12-30,2006,Sheffield United,Arsenal,train
+096dd48797ddb499,2007-01-02,2006,Arsenal,Charlton,train
+145b4decd12d6637,2007-01-13,2006,Blackburn,Arsenal,train
+fcca9f619a05e3aa,2007-01-21,2006,Arsenal,Manchester United,train
+42ecfbf22148a156,2007-02-03,2006,Middlesbrough,Arsenal,train
+1301dd6dced48144,2007-02-11,2006,Arsenal,Wigan,train
+653372462a25ac78,2007-03-03,2006,Arsenal,Reading,train
+b08acebd249181b3,2007-03-14,2006,Aston Villa,Arsenal,train
+1de60106b64d73c6,2007-03-18,2006,Everton,Arsenal,train
+009693513579e9e7,2007-03-31,2006,Liverpool,Arsenal,train
+afe54d330da4275f,2007-04-07,2006,Arsenal,West Ham,train
+44f46eac4e7f1c6e,2007-04-09,2006,Newcastle,Arsenal,train
+3770f59b20bd6d1d,2007-04-14,2006,Arsenal,Bolton,train
+6f83d91051229edc,2007-04-17,2006,Arsenal,Manchester City,train
+44cddcf278685fbd,2007-04-21,2006,Tottenham,Arsenal,train
+d5db381ca69dbe15,2007-04-29,2006,Arsenal,Fulham,train
+81b165150a99d007,2007-05-06,2006,Arsenal,Chelsea,train
+05efad05780934ca,2007-05-13,2006,Portsmouth,Arsenal,train
+60ea9893c19ece43,2007-08-12,2007,Arsenal,Fulham,train
+e013676e1fc6636a,2007-08-19,2007,Blackburn,Arsenal,train
+efa043b57d433f76,2007-08-25,2007,Arsenal,Manchester City,train
+77ae1cbe90bf0940,2007-09-02,2007,Arsenal,Portsmouth,train
+2ddd8be9e74a69d7,2007-09-15,2007,Tottenham,Arsenal,train
+955e85cde4c355dc,2007-09-22,2007,Arsenal,Derby,train
+8ca2ebfe37b116fb,2007-09-29,2007,West Ham,Arsenal,train
+8e9e100655a0d707,2007-10-07,2007,Arsenal,Sunderland,train
+a2ec063f06060c28,2007-10-20,2007,Arsenal,Bolton,train
+8a897c113bac5faf,2007-10-28,2007,Liverpool,Arsenal,train
+784c7e6316e7ac5e,2007-11-03,2007,Arsenal,Manchester United,train
+b12fc54f27caee8a,2007-11-12,2007,Reading,Arsenal,train
+8ea2a30bb5648916,2007-11-24,2007,Arsenal,Wigan,train
+13f6c9722c279809,2007-12-01,2007,Aston Villa,Arsenal,train
+2d733b85dfdc9764,2007-12-05,2007,Newcastle,Arsenal,train
+3e757d6911aa87ca,2007-12-09,2007,Middlesbrough,Arsenal,train
+18520a7b9609e66a,2007-12-16,2007,Arsenal,Chelsea,train
+3e42c04e076fa2c3,2007-12-22,2007,Arsenal,Tottenham,train
+ee392b9298e92351,2007-12-26,2007,Portsmouth,Arsenal,train
+ef7f61c6ff12f0ef,2007-12-29,2007,Everton,Arsenal,train
+b47122f23b44f019,2008-01-01,2007,Arsenal,West Ham,train
+d45733c7f0517831,2008-01-12,2007,Arsenal,Birmingham,train
+a73c1a1d5ff1effc,2008-01-19,2007,Fulham,Arsenal,train
+3ad32a414c8308a6,2008-01-29,2007,Arsenal,Newcastle,train
+d74c743aefbc298d,2008-02-02,2007,Manchester City,Arsenal,train
+c0b0d2155840aaa8,2008-02-11,2007,Arsenal,Blackburn,train
+ce57ba1207c3ef9c,2008-02-23,2007,Birmingham,Arsenal,train
+5a92ed57c68f81ea,2008-03-01,2007,Arsenal,Aston Villa,train
+1012d97462280974,2008-03-09,2007,Wigan,Arsenal,train
+732b5932d97cea8d,2008-03-15,2007,Arsenal,Middlesbrough,train
+adb19cb695c3f710,2008-03-23,2007,Chelsea,Arsenal,train
+99ad7bcac810c998,2008-03-29,2007,Bolton,Arsenal,train
+efc29973c3f28d5b,2008-04-05,2007,Arsenal,Liverpool,train
+44967abcebf425cc,2008-04-13,2007,Manchester United,Arsenal,train
+67fa589bd1f22048,2008-04-19,2007,Arsenal,Reading,train
+992549901675f619,2008-04-28,2007,Derby,Arsenal,train
+0e034cdcad687194,2008-05-04,2007,Arsenal,Everton,train
+c5fc0aa50a2ecf1d,2008-05-11,2007,Sunderland,Arsenal,train
+68009bbd113c50ad,2008-08-23,2008,Fulham,Arsenal,train
+a3625c57e47ebe1c,2008-08-30,2008,Arsenal,Newcastle,train
+15c7fd06fe137625,2008-09-13,2008,Blackburn,Arsenal,train
+ccf02937aa56c979,2008-09-20,2008,Bolton,Arsenal,train
+19069b83f05df3a1,2008-09-27,2008,Arsenal,Hull,train
+a21aa9a90dc984c1,2008-10-04,2008,Sunderland,Arsenal,train
+bf53ac1d25adb427,2008-10-18,2008,Arsenal,Everton,train
+8dc240e9c420e885,2008-10-26,2008,West Ham,Arsenal,train
+ce4c809fbd309136,2008-10-29,2008,Arsenal,Tottenham,train
+32935399ac063757,2008-11-01,2008,Stoke,Arsenal,train
+5d11edb7423fadda,2008-11-08,2008,Arsenal,Manchester United,train
+5aa7924f0a58e2bc,2008-11-15,2008,Arsenal,Aston Villa,train
+d6884d61370c5588,2008-11-22,2008,Manchester City,Arsenal,train
+74846af515d7fd98,2008-11-30,2008,Chelsea,Arsenal,train
+66f9ed067ec18ad7,2008-12-06,2008,Arsenal,Wigan,train
+5b9e5d9167861d92,2008-12-13,2008,Middlesbrough,Arsenal,train
+600862647d9b8023,2008-12-21,2008,Arsenal,Liverpool,train
+94706684d01f45da,2008-12-26,2008,Aston Villa,Arsenal,train
+4c6cd2d2b5a193a3,2008-12-28,2008,Arsenal,Portsmouth,train
+52767dc01e0ac2ea,2009-01-10,2008,Arsenal,Bolton,train
+ba66eed3e436b116,2009-01-17,2008,Hull,Arsenal,train
+3528a73988e5a879,2009-01-28,2008,Everton,Arsenal,train
+473949d71cbf1e44,2009-01-31,2008,Arsenal,West Ham,train
+f25bb61db9b9c024,2009-02-08,2008,Tottenham,Arsenal,train
+f2351e16e75b6abe,2009-02-21,2008,Arsenal,Sunderland,train
+936f8d4b93303b1c,2009-02-28,2008,Arsenal,Fulham,train
+61c2665ee6c24a66,2009-03-03,2008,West Brom,Arsenal,train
+10a35ebe21af59b7,2009-03-14,2008,Arsenal,Blackburn,train
+931ee1bdd24bea14,2009-03-21,2008,Newcastle,Arsenal,train
+270ab41c9ed73e07,2009-04-04,2008,Arsenal,Manchester City,train
+1056c3cbfcd18c3b,2009-04-11,2008,Wigan,Arsenal,train
+0f19d0cd1d0f34ad,2009-04-21,2008,Liverpool,Arsenal,train
+1345dd39e306b1bc,2009-04-26,2008,Arsenal,Middlesbrough,train
+18e95b6f7086d60c,2009-05-02,2008,Portsmouth,Arsenal,train
+09c6a50d7eb59e20,2009-05-10,2008,Arsenal,Chelsea,train
+5c1686c721296bac,2009-05-16,2008,Manchester United,Arsenal,train
+60deb5fe79e460ea,2009-05-24,2008,Arsenal,Stoke,train
+1879cdfbb9355324,2009-08-15,2009,Everton,Arsenal,train
+42c6cd249e9224d7,2009-08-22,2009,Arsenal,Portsmouth,train
+8750a0268a2ffc02,2009-08-29,2009,Manchester United,Arsenal,train
+6afc523456c2f48d,2009-09-12,2009,Manchester City,Arsenal,train
+f268ebc48d42b4a6,2009-09-19,2009,Arsenal,Wigan,train
+e344aa12d2f340b3,2009-09-26,2009,Fulham,Arsenal,train
+c40e7d6cb1289c55,2009-10-04,2009,Arsenal,Blackburn,train
+5a101a38a72c71ce,2009-10-17,2009,Arsenal,Birmingham,train
+cff42dd763c2b0b4,2009-10-25,2009,West Ham,Arsenal,train
+4a760f09da07d216,2009-10-31,2009,Arsenal,Tottenham,train
+3040ad0e4804a5c0,2009-11-07,2009,Wolves,Arsenal,train
+7bfff1334764793b,2009-11-21,2009,Sunderland,Arsenal,train
+abb31f70d9460804,2009-11-29,2009,Arsenal,Chelsea,train
+be82f776fb19cc88,2009-12-05,2009,Arsenal,Stoke,train
+3eafe03a39a9e37b,2009-12-13,2009,Liverpool,Arsenal,train
+5144682e78736b92,2009-12-16,2009,Burnley,Arsenal,train
+d5d99d066cf6c4a2,2009-12-19,2009,Arsenal,Hull,train
+1f74cea6c8ef0547,2009-12-27,2009,Arsenal,Aston Villa,train
+a9dba7644f1a6b59,2009-12-30,2009,Portsmouth,Arsenal,train
+11fd1460e3982531,2010-01-09,2009,Arsenal,Everton,train
+05cf3570fde23619,2010-01-17,2009,Bolton,Arsenal,train
+7ab699128ca4b4ec,2010-01-20,2009,Arsenal,Bolton,train
+63bd828db0a4e9c1,2010-01-27,2009,Aston Villa,Arsenal,train
+0978934ba697eb91,2010-01-31,2009,Arsenal,Manchester United,train
+f94717e79e301fd5,2010-02-07,2009,Chelsea,Arsenal,train
+7c6ca6768590dc97,2010-02-10,2009,Arsenal,Liverpool,train
+64b11cd0b3a09836,2010-02-20,2009,Arsenal,Sunderland,train
+54fd4d3baa22bc38,2010-02-27,2009,Stoke,Arsenal,train
+2f9b7c4e60031bad,2010-03-06,2009,Arsenal,Burnley,train
+ffa484aa7da9da27,2010-03-13,2009,Hull,Arsenal,train
+c1b3f8ef89ad5a6d,2010-03-20,2009,Arsenal,West Ham,train
+687785fb1ba08dcb,2010-03-27,2009,Birmingham,Arsenal,train
+b4534088f2397f09,2010-04-03,2009,Arsenal,Wolves,train
+6a3939a64c96db06,2010-04-14,2009,Tottenham,Arsenal,train
+9fccfd10d0ac0b55,2010-04-18,2009,Wigan,Arsenal,train
+173d35583ded6f0b,2010-04-24,2009,Arsenal,Manchester City,train
+977eaf36a144704b,2010-05-03,2009,Blackburn,Arsenal,train
+1020e9e39df67875,2010-05-09,2009,Arsenal,Fulham,train
+8877a08e4440738d,2010-08-15,2010,Liverpool,Arsenal,train
+f858ff93e2a0d637,2010-08-28,2010,Blackburn,Arsenal,train
+f769d4f00eee0fff,2010-09-11,2010,Arsenal,Bolton,train
+77bee32a9c305d05,2010-09-18,2010,Sunderland,Arsenal,train
+9c2372f8f94a7fc5,2010-09-25,2010,Arsenal,West Brom,train
+882b07529543d559,2010-10-03,2010,Chelsea,Arsenal,train
+f9621e9aeae88f80,2010-10-16,2010,Arsenal,Birmingham,train
+4a9e4d302acc88dd,2010-10-24,2010,Manchester City,Arsenal,train
+5cf98ec5aa1cd14a,2010-10-30,2010,Arsenal,West Ham,train
+eb1fc1ed1d328d67,2010-11-07,2010,Arsenal,Newcastle,train
+1b4d8b11196598f1,2010-11-10,2010,Wolves,Arsenal,train
+ced679358073d037,2010-11-14,2010,Everton,Arsenal,train
+438c71e7c7aa9b9a,2010-11-20,2010,Arsenal,Tottenham,train
+98dbf6edff90654a,2010-11-27,2010,Aston Villa,Arsenal,train
+a54714e30395ae6f,2010-12-04,2010,Arsenal,Fulham,train
+4b42644afa0e01e1,2010-12-13,2010,Manchester United,Arsenal,train
+a990a64b37ad216e,2010-12-27,2010,Arsenal,Chelsea,train
+bd298457dbedc9c0,2010-12-29,2010,Wigan,Arsenal,train
+f602ca160bdc8690,2011-01-01,2010,Birmingham,Arsenal,train
+a2ffd8ede975ac63,2011-01-05,2010,Arsenal,Manchester City,train
+f343210f4f6e916a,2011-01-15,2010,West Ham,Arsenal,train
+51f9d1db13a1079a,2011-01-22,2010,Arsenal,Wigan,train
+7d2640b718ea570e,2011-02-01,2010,Arsenal,Everton,train
+a280fa4275f1e37d,2011-02-05,2010,Newcastle,Arsenal,train
+3a0f12415ef73d39,2011-02-12,2010,Arsenal,Wolves,train
+7251e1abc9d590bf,2011-02-23,2010,Arsenal,Stoke,train
+5b871744969c1a49,2011-03-05,2010,Arsenal,Sunderland,train
+37789bd3416236c9,2011-03-19,2010,West Brom,Arsenal,train
+7839541062a2d4d1,2011-04-02,2010,Arsenal,Blackburn,train
+3609cd6d15cd7b5f,2011-04-10,2010,Blackpool,Arsenal,train
+cb525e3656f61401,2011-04-17,2010,Arsenal,Liverpool,train
+ffebb62387e51e7f,2011-04-20,2010,Tottenham,Arsenal,train
+a222b38cb91467f2,2011-04-24,2010,Bolton,Arsenal,train
+378d025cf7ca68ec,2011-05-01,2010,Arsenal,Manchester United,train
+dd60a206fc64fba5,2011-05-08,2010,Stoke,Arsenal,train
+282e67a6750ac02a,2011-05-15,2010,Arsenal,Aston Villa,train
+24ab3f53ce631cc7,2011-05-22,2010,Fulham,Arsenal,train
+6dc547bb7f26736c,2011-08-13,2011,Newcastle,Arsenal,train
+75009a417f1960a9,2011-08-20,2011,Arsenal,Liverpool,train
+5f0ccfd8717fb53d,2011-08-28,2011,Manchester United,Arsenal,train
+23979a806d4a1c2d,2011-09-17,2011,Blackburn,Arsenal,train
+f287df89af5514a9,2011-09-24,2011,Arsenal,Bolton,train
+7d659ae9d79693f1,2011-10-02,2011,Tottenham,Arsenal,train
+566b75598cf3a5d6,2011-10-16,2011,Arsenal,Sunderland,train
+b8b6f3966d53ba4f,2011-10-23,2011,Arsenal,Stoke,train
+fc605afac77fcd1b,2011-10-29,2011,Chelsea,Arsenal,train
+9d04aa85e937106f,2011-11-05,2011,Arsenal,West Brom,train
+127f1457247fce13,2011-11-19,2011,Norwich,Arsenal,train
+6cf4ef38a4f52037,2011-11-26,2011,Arsenal,Fulham,train
+19ebe5046898a476,2011-12-03,2011,Wigan,Arsenal,train
+bb301bb31c88bba2,2011-12-10,2011,Arsenal,Everton,train
+a9fe64870fbc5851,2011-12-18,2011,Manchester City,Arsenal,train
+f4b2fbcda449a2b2,2011-12-21,2011,Aston Villa,Arsenal,train
+05ad200a37402bf8,2011-12-27,2011,Arsenal,Wolves,train
+b18d23b1d49d4470,2011-12-31,2011,Arsenal,QPR,train
+6bc10a8b18b72f82,2012-01-02,2011,Fulham,Arsenal,train
+5ce218106f3ace9d,2012-01-15,2011,Swansea,Arsenal,train
+98b6ea5b3afd843d,2012-01-22,2011,Arsenal,Manchester United,train
+d5312312ab253fac,2012-02-01,2011,Bolton,Arsenal,train
+baa85fa6379baae2,2012-02-04,2011,Arsenal,Blackburn,train
+f7ba8329a2a9c77d,2012-02-11,2011,Sunderland,Arsenal,train
+e7ac36304b68e9b9,2012-02-26,2011,Arsenal,Tottenham,train
+df4da73a375df398,2012-03-03,2011,Liverpool,Arsenal,train
+e92af87e2c892f90,2012-03-12,2011,Arsenal,Newcastle,train
+310a2a206a8b31cf,2012-03-21,2011,Everton,Arsenal,train
+3ce05f1866331b53,2012-03-24,2011,Arsenal,Aston Villa,train
+c39508f5cb98aff3,2012-03-31,2011,QPR,Arsenal,train
+4628a8a115c1bae7,2012-04-08,2011,Arsenal,Manchester City,train
+d74ec46e9d0536c3,2012-04-11,2011,Wolves,Arsenal,train
+749a9172eabc4a61,2012-04-16,2011,Arsenal,Wigan,train
+5c3a83f6e14bbec8,2012-04-21,2011,Arsenal,Chelsea,train
+2dabecd273e0d88e,2012-04-28,2011,Stoke,Arsenal,train
+44c88f17ab962815,2012-05-05,2011,Arsenal,Norwich,train
+824e904dfdab6739,2012-05-13,2011,West Brom,Arsenal,train
+72bd12c61242011b,2012-08-18,2012,Arsenal,Sunderland,train
+c88432e11f52c978,2012-08-26,2012,Stoke,Arsenal,train
+8caf79a8650aa959,2012-09-02,2012,Liverpool,Arsenal,train
+c5e24dbcf519be5c,2012-09-23,2012,Manchester City,Arsenal,train
+654167b6427e17ae,2012-09-29,2012,Arsenal,Chelsea,train
+c1fc3e0fc4c1096f,2012-10-06,2012,West Ham,Arsenal,train
+cf1da6c7a82c1c09,2012-10-20,2012,Norwich,Arsenal,train
+e0adae3511ba44bc,2012-10-27,2012,Arsenal,QPR,train
+bfdf6b954132daff,2012-11-03,2012,Manchester United,Arsenal,train
+04b73d98919a2ef8,2012-11-10,2012,Arsenal,Fulham,train
+ed8ee48f204a5340,2012-11-17,2012,Arsenal,Tottenham,train
+8555c7ce21973b41,2012-11-24,2012,Aston Villa,Arsenal,train
+6a97afab3522a1d8,2012-11-28,2012,Everton,Arsenal,train
+4d1c6abb88d9118a,2012-12-01,2012,Arsenal,Swansea,train
+e1c93cf6f0d83def,2012-12-08,2012,Arsenal,West Brom,train
+d0ea149cac2090ec,2012-12-17,2012,Reading,Arsenal,train
+84d02cbf58cad875,2012-12-22,2012,Wigan,Arsenal,train
+20e20dbb34fc2b13,2012-12-29,2012,Arsenal,Newcastle,train
+7e852bee0f9ff9b9,2013-01-01,2012,Southampton,Arsenal,train
+a41d44e77319f12b,2013-01-13,2012,Arsenal,Manchester City,train
+c1b9f79528292dd5,2013-01-20,2012,Chelsea,Arsenal,train
+3d2eb1892dc06e87,2013-01-23,2012,Arsenal,West Ham,train
+b463467fdfab2df9,2013-01-30,2012,Arsenal,Liverpool,train
+315a06f91647d36a,2013-02-02,2012,Arsenal,Stoke,train
+7fca20f26ef3ea3b,2013-02-09,2012,Sunderland,Arsenal,train
+d79cb20502392ab1,2013-02-23,2012,Arsenal,Aston Villa,train
+78498e48aeb60392,2013-03-03,2012,Tottenham,Arsenal,train
+1898a703a6aed7b9,2013-03-16,2012,Swansea,Arsenal,train
+3241bafb9d7e25ed,2013-03-30,2012,Arsenal,Reading,train
+929cfe77a56e523a,2013-04-06,2012,West Brom,Arsenal,train
+b272070ef796c457,2013-04-13,2012,Arsenal,Norwich,train
+8329e752385c216a,2013-04-16,2012,Arsenal,Everton,train
+373735a4ca9d17a9,2013-04-20,2012,Fulham,Arsenal,train
+964ff356b13e11ff,2013-04-28,2012,Arsenal,Manchester United,train
+861a1f66d7d933fa,2013-05-04,2012,QPR,Arsenal,train
+74bdde5c9aaa1127,2013-05-14,2012,Arsenal,Wigan,train
+7206d843ea812fc5,2013-05-19,2012,Newcastle,Arsenal,train
+200bd48630b65664,2013-08-17,2013,Arsenal,Aston Villa,train
+5e05b1478470b5d7,2013-08-24,2013,Fulham,Arsenal,train
+dd36ae99c824d291,2013-09-01,2013,Arsenal,Tottenham,train
+b3358453e1319eb5,2013-09-14,2013,Sunderland,Arsenal,train
+a77599d05a8e6d5a,2013-09-22,2013,Arsenal,Stoke,train
+97a301de233fa261,2013-09-28,2013,Swansea,Arsenal,train
+0086e8efada495bf,2013-10-06,2013,West Brom,Arsenal,train
+41e338dc80c6c74f,2013-10-19,2013,Arsenal,Norwich,train
+2044ea6f34d94eb1,2013-10-26,2013,Crystal Palace,Arsenal,train
+56254db3e09e89f7,2013-11-02,2013,Arsenal,Liverpool,train
+226972bc26406587,2013-11-10,2013,Manchester United,Arsenal,train
+870fe89126acd190,2013-11-23,2013,Arsenal,Southampton,train
+0a9a3b9213bc7617,2013-11-30,2013,Cardiff,Arsenal,train
+1ec7b5aed19fb73f,2013-12-04,2013,Arsenal,Hull,train
+0c39aa7cbefd6651,2013-12-08,2013,Arsenal,Everton,train
+d174bd046a99ff2a,2013-12-14,2013,Manchester City,Arsenal,train
+a42ffc29b056b8dc,2013-12-23,2013,Arsenal,Chelsea,train
+4da8d380d6da6ba1,2013-12-26,2013,West Ham,Arsenal,train
+12a8851d46a11291,2013-12-29,2013,Newcastle,Arsenal,train
+b0e0151237abeb55,2014-01-01,2013,Arsenal,Cardiff,train
+d7e9b3bb47f9df36,2014-01-13,2013,Aston Villa,Arsenal,train
+4ebc08ad0fbc5349,2014-01-18,2013,Arsenal,Fulham,train
+e06142789304145b,2014-01-28,2013,Southampton,Arsenal,train
+67f249000ddb77fa,2014-02-02,2013,Arsenal,Crystal Palace,train
+e4a068c12eca6ec1,2014-02-08,2013,Liverpool,Arsenal,train
+d61a72e53baca86e,2014-02-12,2013,Arsenal,Manchester United,train
+15950eda993f8caa,2014-02-22,2013,Arsenal,Sunderland,train
+3af8374f297c2b5b,2014-03-01,2013,Stoke,Arsenal,train
+b5d2e66df9489677,2014-03-16,2013,Tottenham,Arsenal,train
+cc727f2e19afd080,2014-03-22,2013,Chelsea,Arsenal,train
+86b87e223fa2c18c,2014-03-25,2013,Arsenal,Swansea,train
+9b556980d40cd490,2014-03-29,2013,Arsenal,Manchester City,train
+6e8b82b84f0c7b33,2014-04-06,2013,Everton,Arsenal,train
+bc5a56aec88a7b96,2014-04-15,2013,Arsenal,West Ham,train
+ec1868ca138be4a8,2014-04-20,2013,Hull,Arsenal,train
+e6a7fb819806c31e,2014-04-28,2013,Arsenal,Newcastle,train
+5121d4013600756f,2014-05-04,2013,Arsenal,West Brom,train
+7a3ac4b5b71f25cc,2014-05-11,2013,Norwich,Arsenal,train
+e69e799e54c81e2d,2014-08-16,2014,Arsenal,Crystal Palace,train
+ca3da49854420c67,2014-08-23,2014,Everton,Arsenal,train
+3795c072828f9c35,2014-09-13,2014,Arsenal,Manchester City,train
+bd14c711cf4f17e5,2014-09-20,2014,Aston Villa,Arsenal,train
+d2596e5b82b74861,2014-09-27,2014,Arsenal,Tottenham,train
+5681bb914f9119ee,2014-10-05,2014,Chelsea,Arsenal,train
+19b9f2f92f8cc3a3,2014-10-18,2014,Arsenal,Hull,train
+4c4fd3efcce6c10e,2014-10-25,2014,Sunderland,Arsenal,train
+8268b7406aa6c63c,2014-11-01,2014,Arsenal,Burnley,train
+a45a726cb6af0a62,2014-11-09,2014,Swansea,Arsenal,train
+dbbe61b8514944f7,2014-11-22,2014,Arsenal,Manchester United,train
+259ece40f469829b,2014-11-29,2014,West Brom,Arsenal,train
+c46daa7865364ca4,2014-12-03,2014,Arsenal,Southampton,train
+e47babda884439e9,2014-12-06,2014,Stoke,Arsenal,train
+76b7bbd3ec6f5967,2014-12-13,2014,Arsenal,Newcastle,train
+d79fd2815972dcf6,2014-12-21,2014,Liverpool,Arsenal,train
+c3143244646df166,2014-12-26,2014,Arsenal,QPR,train
+6d883a6dd3f18576,2014-12-28,2014,West Ham,Arsenal,train
+055e181422345b4b,2015-01-01,2014,Southampton,Arsenal,train
+a28eeb42f65022dd,2015-01-11,2014,Arsenal,Stoke,train
+9585afca8af0a003,2015-01-18,2014,Manchester City,Arsenal,train
+cbf6ed0a1eb764b3,2015-02-01,2014,Arsenal,Aston Villa,train
+fe5f14ce84a8af78,2015-02-07,2014,Tottenham,Arsenal,train
+476dc8f75c95ac0b,2015-02-10,2014,Arsenal,Leicester,train
+7c1293199ea7a20f,2015-02-21,2014,Crystal Palace,Arsenal,train
+9df6c76a2457c74f,2015-03-01,2014,Arsenal,Everton,train
+8b1f04d0a9e3fda2,2015-03-04,2014,QPR,Arsenal,train
+6bce915a15d35cdf,2015-03-14,2014,Arsenal,West Ham,train
+7b0a65b0046e72ea,2015-03-21,2014,Newcastle,Arsenal,train
+90f2ee51f20ed4e8,2015-04-04,2014,Arsenal,Liverpool,train
+97f5d49cfa799057,2015-04-11,2014,Burnley,Arsenal,train
+a55fdec1c81e167a,2015-04-26,2014,Arsenal,Chelsea,train
+604046003961cdb9,2015-05-04,2014,Hull,Arsenal,train
+d4adbf1ece91e9cb,2015-05-11,2014,Arsenal,Swansea,train
+2f4f9bf4543d6736,2015-05-17,2014,Manchester United,Arsenal,train
+2f938b99f8b7df04,2015-05-20,2014,Arsenal,Sunderland,train
+a45cd0acfaf2ac50,2015-05-24,2014,Arsenal,West Brom,train
+39e88b73536b3f52,2015-08-09,2015,Arsenal,West Ham,train
+474db6745f81a17d,2015-08-16,2015,Crystal Palace,Arsenal,train
+643ae0c4b7b4a5cb,2015-08-24,2015,Arsenal,Liverpool,train
+fcd5327c37b2f265,2015-08-29,2015,Newcastle,Arsenal,train
+d5f33c05817be110,2015-09-12,2015,Arsenal,Stoke,train
+1f6920ec373f5365,2015-09-19,2015,Chelsea,Arsenal,train
+0d1ef7ef12e91a92,2015-09-26,2015,Leicester,Arsenal,train
+71e042ad7b371723,2015-10-04,2015,Arsenal,Manchester United,train
+8c60667f083c03cd,2015-10-17,2015,Watford,Arsenal,train
+0c7426bde0d6cde9,2015-10-24,2015,Arsenal,Everton,train
+a7cc9cf2de6fdf96,2015-10-31,2015,Swansea,Arsenal,train
+56fa0d87e15de00d,2015-11-08,2015,Arsenal,Tottenham,train
+4f3838ba2093aaf7,2015-11-21,2015,West Brom,Arsenal,train
+5357569a3da303ba,2015-11-29,2015,Norwich,Arsenal,train
+36fb51c1130899f7,2015-12-05,2015,Arsenal,Sunderland,train
+01216e82515b9da3,2015-12-13,2015,Aston Villa,Arsenal,train
+a2f24672bc1668f3,2015-12-21,2015,Arsenal,Manchester City,train
+e806c502aa6ef5f4,2015-12-26,2015,Southampton,Arsenal,train
+7e7f92df5862bfe1,2015-12-28,2015,Arsenal,Bournemouth,train
+8de079dd4a0886be,2016-01-02,2015,Arsenal,Newcastle,train
+6b4384e7a1e13529,2016-01-13,2015,Liverpool,Arsenal,train
+89ed2471cbec0761,2016-01-17,2015,Stoke,Arsenal,train
+d9fc503fb86f07e2,2016-01-24,2015,Arsenal,Chelsea,train
+1cf8a5daf678b7d5,2016-02-02,2015,Arsenal,Southampton,train
+d8b20707b4d45f37,2016-02-07,2015,Bournemouth,Arsenal,train
+9faa16579493debf,2016-02-14,2015,Arsenal,Leicester,train
+616c7a243fef851c,2016-02-28,2015,Manchester United,Arsenal,train
+dc3a631b7cfbc8a8,2016-03-02,2015,Arsenal,Swansea,train
+8cb4c4aacd9fab92,2016-03-05,2015,Tottenham,Arsenal,train
+9689d5b968531723,2016-03-19,2015,Everton,Arsenal,train
+7ed0b120934e0288,2016-04-02,2015,Arsenal,Watford,train
+526126d10faead4c,2016-04-09,2015,West Ham,Arsenal,train
+4e1a338eaf6283e1,2016-04-17,2015,Arsenal,Crystal Palace,train
+f6b3f1688a0bd659,2016-04-21,2015,Arsenal,West Brom,train
+1d3bbe382bedb830,2016-04-24,2015,Sunderland,Arsenal,train
+3462be36001b7a4d,2016-04-30,2015,Arsenal,Norwich,train
+d22e41dc2b002d71,2016-05-08,2015,Manchester City,Arsenal,train
+2cf93c61f4535894,2016-05-15,2015,Arsenal,Aston Villa,train
+a7e1f507aa8034fd,2016-08-14,2016,Arsenal,Liverpool,train
+18b002a27eea40df,2016-08-20,2016,Leicester,Arsenal,train
+8b33c891b5814bbf,2016-08-27,2016,Watford,Arsenal,train
+a0506b587fca4ef1,2016-09-10,2016,Arsenal,Southampton,train
+25b02f8fbc53fadb,2016-09-24,2016,Arsenal,Chelsea,train
+7f73d641444bbf3f,2016-10-02,2016,Burnley,Arsenal,train
+20b8a60ab776f4ef,2016-10-15,2016,Arsenal,Swansea,train
+dec9c70e3777e137,2016-10-22,2016,Arsenal,Middlesbrough,train
+2ea9d3507dbc9cd2,2016-10-29,2016,Sunderland,Arsenal,train
+04b2d6dd4bb6e6a8,2016-11-06,2016,Arsenal,Tottenham,train
+7c2a44cbc5d44a1a,2016-11-19,2016,Manchester United,Arsenal,train
+ec297ae0a33c7b46,2016-11-27,2016,Arsenal,Bournemouth,train
+161d018fa2fafa2c,2016-12-03,2016,West Ham,Arsenal,train
+fd004f78721ae262,2016-12-10,2016,Arsenal,Stoke,train
+69d9b0a2d994b0c9,2016-12-13,2016,Everton,Arsenal,train
+05c2affcaf9e174d,2016-12-18,2016,Manchester City,Arsenal,train
+d6ea7628516e2a70,2016-12-26,2016,Arsenal,West Brom,train
+95e672f3b2e66eee,2017-01-01,2016,Arsenal,Crystal Palace,train
+7091d5d0afd327af,2017-01-03,2016,Bournemouth,Arsenal,train
+292dfbbeda0afa48,2017-01-14,2016,Swansea,Arsenal,train
+e01eb6a4247a1a92,2017-01-22,2016,Arsenal,Burnley,train
+c634253833d7548e,2017-01-31,2016,Arsenal,Watford,train
+0f69545e49f7a5d0,2017-02-04,2016,Chelsea,Arsenal,train
+2900402f3457fbeb,2017-02-11,2016,Arsenal,Hull,train
+9caebadf6ae42470,2017-03-04,2016,Liverpool,Arsenal,train
+be65e0fede4c8129,2017-03-18,2016,West Brom,Arsenal,train
+1e903417088e213d,2017-04-02,2016,Arsenal,Manchester City,train
+f17e6994868c0791,2017-04-05,2016,Arsenal,West Ham,train
+45e3940ed15a9315,2017-04-10,2016,Crystal Palace,Arsenal,train
+d59d7a78cb9c3eb6,2017-04-17,2016,Middlesbrough,Arsenal,train
+9a615f8f82e2e3b4,2017-04-26,2016,Arsenal,Leicester,train
+5b29bf3cbb1f828c,2017-04-30,2016,Tottenham,Arsenal,train
+f3d658c8d299db6e,2017-05-07,2016,Arsenal,Manchester United,train
+d7648ae5170b5c3e,2017-05-10,2016,Southampton,Arsenal,train
+2e6f63d39bcb9ec1,2017-05-13,2016,Stoke,Arsenal,train
+52e17387cc79c29a,2017-05-16,2016,Arsenal,Sunderland,train
+a5ee15b5169c6a6f,2017-05-21,2016,Arsenal,Everton,train
+425d0a322976bf2e,2017-08-11,2017,Arsenal,Leicester,train
+31e422828b9d238a,2017-08-19,2017,Stoke,Arsenal,train
+af4c9ac8aaae4f30,2017-08-27,2017,Liverpool,Arsenal,train
+5815862826c616a6,2017-09-09,2017,Arsenal,Bournemouth,train
+4d29ff7b1fe5018a,2017-09-17,2017,Chelsea,Arsenal,train
+4daec40e6235ac7a,2017-09-25,2017,Arsenal,West Brom,train
+5a03bd6cb87060c8,2017-10-01,2017,Arsenal,Brighton,train
+52d18434b5cb0f0d,2017-10-14,2017,Watford,Arsenal,train
+4691cf7f9e7ba8c9,2017-10-22,2017,Everton,Arsenal,train
+d5a76bf035116895,2017-10-28,2017,Arsenal,Swansea,train
+d31023889be45087,2017-11-05,2017,Manchester City,Arsenal,train
+9ef976417804976d,2017-11-18,2017,Arsenal,Tottenham,train
+234cc1e5896d75de,2017-11-26,2017,Burnley,Arsenal,train
+ac09e224657acdc3,2017-11-29,2017,Arsenal,Huddersfield,train
+c6f57924a7b8722b,2017-12-02,2017,Arsenal,Manchester United,train
+5b5b69f92b460d89,2017-12-10,2017,Southampton,Arsenal,train
+3909962bb4e7d158,2017-12-13,2017,West Ham,Arsenal,train
+acb7769e1219e4dd,2017-12-16,2017,Arsenal,Newcastle,train
+a60995eff1606475,2017-12-22,2017,Arsenal,Liverpool,train
+504446c678192758,2017-12-28,2017,Crystal Palace,Arsenal,train
+37e30797bd5eed84,2017-12-31,2017,West Brom,Arsenal,train
+6db2a36528188de7,2018-01-03,2017,Arsenal,Chelsea,train
+745bc11c345afc64,2018-01-14,2017,Bournemouth,Arsenal,train
+906c1017f1fa0aba,2018-01-20,2017,Arsenal,Crystal Palace,train
+04abc250dbd4feea,2018-01-30,2017,Swansea,Arsenal,train
+20f106c0a8436db2,2018-02-03,2017,Arsenal,Everton,train
+de8aefb1efb383a6,2018-02-10,2017,Tottenham,Arsenal,train
+7414c7074d9df444,2018-03-01,2017,Arsenal,Manchester City,train
+55ec9175eb235fed,2018-03-04,2017,Brighton,Arsenal,train
+5f001ebbaf03c346,2018-03-11,2017,Arsenal,Watford,train
+2d7ec075d4934f58,2018-04-01,2017,Arsenal,Stoke,train
+7b48a59e9f21e126,2018-04-08,2017,Arsenal,Southampton,train
+b18b6072d3478d84,2018-04-15,2017,Newcastle,Arsenal,train
+90317176423f8f5e,2018-04-22,2017,Arsenal,West Ham,train
+c5ee02c3dc5326e3,2018-04-29,2017,Manchester United,Arsenal,train
+94eae9b8eaf426ab,2018-05-06,2017,Arsenal,Burnley,train
+4a95c18731d7e67c,2018-05-09,2017,Leicester,Arsenal,train
+06345f5288fea6c5,2018-05-13,2017,Huddersfield,Arsenal,train
+db25df65fc9fbf68,2018-08-12,2018,Arsenal,Manchester City,train
+3655fc0564c12a4e,2018-08-18,2018,Chelsea,Arsenal,train
+3e511a8c72cb1202,2018-08-25,2018,Arsenal,West Ham,train
+46efa6bb72f43fad,2018-09-15,2018,Newcastle,Arsenal,train
+47b6415b64fd491a,2018-09-23,2018,Arsenal,Everton,train
+7e7c4a91d3578ea5,2018-09-29,2018,Arsenal,Watford,train
+a4f2693f3d51a3e8,2018-10-07,2018,Fulham,Arsenal,train
+cd904d211f71be4f,2018-10-22,2018,Arsenal,Leicester,train
+256b149754e4889c,2018-10-28,2018,Crystal Palace,Arsenal,train
+765aa79acea39955,2018-11-03,2018,Arsenal,Liverpool,train
+973ac822cac5f7ee,2018-11-11,2018,Arsenal,Wolves,train
+fb426fb2f490fdb8,2018-11-25,2018,Bournemouth,Arsenal,train
+e00f9f27078fff47,2018-12-02,2018,Arsenal,Tottenham,train
+c70ad29c69c83707,2018-12-05,2018,Manchester United,Arsenal,train
+4dd5a1ac74eb4cf4,2018-12-08,2018,Arsenal,Huddersfield,train
+5e169c18b0aae4ce,2018-12-16,2018,Southampton,Arsenal,train
+5808f343c2ef09ad,2018-12-22,2018,Arsenal,Burnley,train
+9e6d061fa845237b,2018-12-26,2018,Brighton,Arsenal,train
+685c4943c0035133,2018-12-29,2018,Liverpool,Arsenal,train
+71062ef58a2ad6dd,2019-01-01,2018,Arsenal,Fulham,train
+0a1874ea74bfcc9e,2019-01-12,2018,West Ham,Arsenal,train
+25b9772ed5d28624,2019-01-19,2018,Arsenal,Chelsea,train
+19ec3f1ab6ebc2c5,2019-01-29,2018,Arsenal,Cardiff,train
+2da44a769cfe162e,2019-02-03,2018,Manchester City,Arsenal,train
+74688cc3c16a8361,2019-02-09,2018,Huddersfield,Arsenal,train
+281bf8f6bb937802,2019-02-24,2018,Arsenal,Southampton,train
+3c4f7c9c717185f5,2019-02-27,2018,Arsenal,Bournemouth,train
+7806246218d364b6,2019-03-02,2018,Tottenham,Arsenal,train
+67c96927b7167ed4,2019-03-10,2018,Arsenal,Manchester United,train
+b79732225d0e8957,2019-04-01,2018,Arsenal,Newcastle,train
+74d49e246df5fb1f,2019-04-07,2018,Everton,Arsenal,train
+23070bc1105bc44f,2019-04-15,2018,Watford,Arsenal,train
+b5e4b931bf41d5cd,2019-04-21,2018,Arsenal,Crystal Palace,train
+61192df48fc95cf6,2019-04-24,2018,Wolves,Arsenal,train
+d81745bf8711af99,2019-04-28,2018,Leicester,Arsenal,train
+b138ef01a2d2997e,2019-05-05,2018,Arsenal,Brighton,train
+c651c10e567242d5,2019-05-12,2018,Burnley,Arsenal,train
+016b88b9f75d339a,2019-08-11,2019,Newcastle,Arsenal,train
+44ce1dae3de3f589,2019-08-17,2019,Arsenal,Burnley,train
+8c366aee89a57348,2019-08-24,2019,Liverpool,Arsenal,train
+7191157b33c7b043,2019-09-01,2019,Arsenal,Tottenham,train
+9bea16e04c4e5d4d,2019-09-15,2019,Watford,Arsenal,train
+97944dbbcfc9619c,2019-09-22,2019,Arsenal,Aston Villa,train
+5220f512308a6ba4,2019-09-30,2019,Manchester United,Arsenal,train
+644e72a04a801870,2019-10-06,2019,Arsenal,Bournemouth,train
+51b5171be05426be,2019-10-21,2019,Sheffield United,Arsenal,train
+dfb3e83cc58cf673,2019-10-27,2019,Arsenal,Crystal Palace,train
+fb8ad2550f5c848d,2019-11-02,2019,Arsenal,Wolves,train
+4e7b5b0796bf0224,2019-11-09,2019,Leicester,Arsenal,train
+4b2a896f63507c68,2019-11-23,2019,Arsenal,Southampton,train
+100b74c29c1c905a,2019-12-01,2019,Norwich,Arsenal,train
+6f73bbde4838ffbc,2019-12-05,2019,Arsenal,Brighton,train
+2604e821b2686563,2019-12-09,2019,West Ham,Arsenal,train
+55cd952d5e992175,2019-12-15,2019,Arsenal,Manchester City,train
+d9bd224a850d2175,2019-12-21,2019,Everton,Arsenal,train
+bb422f7afd637900,2019-12-26,2019,Bournemouth,Arsenal,train
+a414d79c352248f7,2019-12-29,2019,Arsenal,Chelsea,train
+26cb1fa63ebf0d1c,2020-01-01,2019,Arsenal,Manchester United,train
+e13dc3df5af4cb25,2020-01-11,2019,Crystal Palace,Arsenal,train
+701df6085b6bca22,2020-01-18,2019,Arsenal,Sheffield United,train
+a6a129a07f06c4d9,2020-01-21,2019,Chelsea,Arsenal,train
+8db3264f0e063f06,2020-02-02,2019,Burnley,Arsenal,train
+c011fe13a023e984,2020-02-16,2019,Arsenal,Newcastle,train
+6d6a4b27225a3c69,2020-02-23,2019,Arsenal,Everton,train
+2c7cb55d303e136c,2020-03-07,2019,Arsenal,West Ham,train
+d6137730e09db35d,2020-06-17,2019,Manchester City,Arsenal,train
+260b9a54c07cf24d,2020-06-20,2019,Brighton,Arsenal,train
+d8502277203d9ba8,2020-06-25,2019,Southampton,Arsenal,train
+315ae0a7f4449f4c,2020-07-01,2019,Arsenal,Norwich,train
+a6cc516191e60d8f,2020-07-04,2019,Wolves,Arsenal,train
+df4b053e8587f115,2020-07-07,2019,Arsenal,Leicester,train
+a0f9c1bb083bc879,2020-07-12,2019,Tottenham,Arsenal,train
+64709b378ae62900,2020-07-15,2019,Arsenal,Liverpool,train
+7d99057a1047fb16,2020-07-21,2019,Aston Villa,Arsenal,train
+127c8236c39eefba,2020-07-26,2019,Arsenal,Watford,train
+08936dfde6d9b320,2020-09-19,2020,Arsenal,West Ham,train
+6ff252ab6e410ca2,2020-09-28,2020,Liverpool,Arsenal,train
+41fbaa5fec9b95a2,2020-10-04,2020,Arsenal,Sheffield United,train
+647dda1c6f752b9e,2020-10-17,2020,Manchester City,Arsenal,train
+94cb23474816c7a3,2020-10-25,2020,Arsenal,Leicester,train
+c4b85dd2d86537ac,2020-11-01,2020,Manchester United,Arsenal,train
+3c2f698209bf99f8,2020-11-08,2020,Arsenal,Aston Villa,train
+5eeeb40f89dc2c5c,2020-11-22,2020,Leeds,Arsenal,train
+69d9101bf87e21ca,2020-11-29,2020,Arsenal,Wolves,train
+1f85f6ca62a240e7,2020-12-06,2020,Tottenham,Arsenal,train
+6ddd45d418f3e025,2020-12-13,2020,Arsenal,Burnley,train
+3b9eaee91e10a5f7,2020-12-16,2020,Arsenal,Southampton,train
+907c0417157e8352,2020-12-19,2020,Everton,Arsenal,train
+d8b52ad8108db2ca,2020-12-26,2020,Arsenal,Chelsea,train
+dc283b1e640ffd83,2020-12-29,2020,Brighton,Arsenal,train
+c80a553ed2bd2744,2021-01-02,2020,West Brom,Arsenal,train
+25e9497dfee5a1c0,2021-01-14,2020,Arsenal,Crystal Palace,train
+c9a20d1d506b840c,2021-01-18,2020,Arsenal,Newcastle,train
+764a43b628acd917,2021-01-26,2020,Southampton,Arsenal,train
+127ce05cf630825b,2021-01-30,2020,Arsenal,Manchester United,train
+ca1cc8706fb16817,2021-02-02,2020,Wolves,Arsenal,train
+1824a6c9ea1fcf20,2021-02-06,2020,Aston Villa,Arsenal,train
+73a7aa5d6a279394,2021-02-14,2020,Arsenal,Leeds,train
+ed04b0d26d1b59f1,2021-02-21,2020,Arsenal,Manchester City,train
+0212ea06bfaab60d,2021-02-28,2020,Leicester,Arsenal,train
+d7672ab0310060cd,2021-03-06,2020,Burnley,Arsenal,train
+5356e4a253045327,2021-03-14,2020,Arsenal,Tottenham,train
+59426301187ae951,2021-03-21,2020,West Ham,Arsenal,train
+c2a48bc80a8cd8b6,2021-04-03,2020,Arsenal,Liverpool,train
+266d0ecf549b83ed,2021-04-11,2020,Sheffield United,Arsenal,train
+56dee1c063ae46ac,2021-04-18,2020,Arsenal,Fulham,train
+b97b90f7ea48de80,2021-04-23,2020,Arsenal,Everton,train
+e6dcb4b4be6b55f2,2021-05-02,2020,Newcastle,Arsenal,train
+0908a5138c1f0f07,2021-05-09,2020,Arsenal,West Brom,train
+17d2ab5f1b68e6b3,2021-05-12,2020,Chelsea,Arsenal,train
+8150679a149178fd,2021-05-19,2020,Crystal Palace,Arsenal,train
+b4cd024356db97af,2021-05-23,2020,Arsenal,Brighton,train
+81bd4a35ca40125d,2021-08-22,2021,Arsenal,Chelsea,train
+26362bd069c0d8d1,2021-08-28,2021,Manchester City,Arsenal,train
+ffccdf712c20823a,2021-09-18,2021,Burnley,Arsenal,train
+92874e2c755647b5,2021-09-26,2021,Arsenal,Tottenham,train
+0cc56967b5ed24fc,2021-10-02,2021,Brighton,Arsenal,train
+6cea629654003b23,2021-10-18,2021,Arsenal,Crystal Palace,train
+26910c6a95678d8a,2021-10-22,2021,Arsenal,Aston Villa,train
+81585ef9e2075252,2021-10-30,2021,Leicester,Arsenal,train
+2835bf93e0b07f7a,2021-11-07,2021,Arsenal,Watford,train
+4d1a2de45be21986,2021-11-20,2021,Liverpool,Arsenal,train
+faadc192ba9eb0a6,2021-11-27,2021,Arsenal,Newcastle,train
+d54f05da35dda23a,2021-12-02,2021,Manchester United,Arsenal,train
+f70c01c3baa56e00,2021-12-06,2021,Everton,Arsenal,train
+add309ce31594153,2021-12-11,2021,Arsenal,Southampton,train
+18b148811ede8b38,2021-12-15,2021,Arsenal,West Ham,train
+c50f4b4ebb1a569d,2021-12-18,2021,Leeds,Arsenal,train
+f634332dea14a631,2021-12-26,2021,Norwich,Arsenal,train
+a0d671af74d31e15,2022-01-01,2021,Arsenal,Manchester City,train
+98ea84df98e11e9a,2022-01-23,2021,Arsenal,Burnley,train
+c4ad9e11cd143f40,2022-02-10,2021,Wolves,Arsenal,train
+d9ede6a97bbe36ed,2022-02-19,2021,Arsenal,Brentford,train
+741a9bbd8b82213e,2022-02-24,2021,Arsenal,Wolves,train
+1029ba88c7913e41,2022-03-06,2021,Watford,Arsenal,train
+8733ee883f015212,2022-03-13,2021,Arsenal,Leicester,train
+c1bf16aca3e4857f,2022-03-16,2021,Arsenal,Liverpool,train
+3a3786f5e940da32,2022-03-19,2021,Aston Villa,Arsenal,train
+09e0e966ae0b5703,2022-04-04,2021,Crystal Palace,Arsenal,train
+53add7f4f53635d7,2022-04-09,2021,Arsenal,Brighton,train
+bec14b7a070f0af9,2022-04-16,2021,Southampton,Arsenal,train
+34d12c6aa95aa704,2022-04-20,2021,Chelsea,Arsenal,train
+e73cefc271e59e15,2022-04-23,2021,Arsenal,Manchester United,train
+669c4fd8e0f1ef22,2022-05-01,2021,West Ham,Arsenal,train
+19f18a09680ab864,2022-05-08,2021,Arsenal,Leeds,train
+73d97ee3b8b427a4,2022-05-12,2021,Tottenham,Arsenal,train
+5473c7a6e1ac86d0,2022-05-16,2021,Newcastle,Arsenal,train
+30003053a0c78e40,2022-05-22,2021,Arsenal,Everton,train

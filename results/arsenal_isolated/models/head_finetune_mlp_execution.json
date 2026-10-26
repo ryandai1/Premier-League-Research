@@ -1,0 +1,22 @@
+{
+  "model": "head_finetune_mlp",
+  "freeze_hidden": true,
+  "trainable_parameters": [
+    "5.weight",
+    "5.bias"
+  ],
+  "started_utc": "2026-10-26T10:40:23.348678+00:00",
+  "initial_checkpoint": "/workspace/Premier-League-Research/results/arsenal_isolated/models/league_frozen_source_mlp_best.pt",
+  "initial_weights_sha256": "3b0bacfa2389a518e26a6e7ad8cfbe93452400e5b7d0c74b4c7dededdbf2cbfc",
+  "initial_checkpoint_sha256": "f88358c991706acc5a6c81e51d9b9d7b3322256583a2141a71304b76ce360f94",
+  "training_rows": 815,
+  "validation_rows": 74,
+  "optimizer_steps": 80,
+  "frozen_hidden_layers_unchanged": true,
+  "finished_utc": "2026-10-26T10:40:23.407805+00:00",
+  "elapsed_seconds": 0.06049227714538574,
+  "best_weights_sha256": "28c2651d37a4e68e61f705e31bbed30aed71b527f1dcafdc4cf459c27ed76f73",
+  "best_epoch": 1,
+  "epochs_run": 20,
+  "stop_reason": "patience"
+}
