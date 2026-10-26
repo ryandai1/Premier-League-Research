@@ -1,0 +1,7 @@
+Notebook executed top to bottom without errors; nbformat validated.
+All 221 epochs exported and optimizer step counts checked.
+Initial weight hashes confirm independent initialization; transfer hash matches the current run league checkpoint.
+Checkpoint reloads match exported predictions.
+Six unittest checks passed, including patience replay and saved optimizer-step validation.
+Experiment 1 artifacts remain unchanged.
+Figures visually inspected; HTML exported, full browser layout not inspected.

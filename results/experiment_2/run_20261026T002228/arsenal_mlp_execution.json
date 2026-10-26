@@ -1,0 +1,16 @@
+{
+  "model": "arsenal_mlp",
+  "started_utc": "2026-10-26T00:22:28.116806+00:00",
+  "initial_checkpoint": null,
+  "initial_weights_sha256": "a82b44ca3abc7438de0fbd0854c518ff90448624564e791c5c83d87b123bf694",
+  "initial_checkpoint_sha256": null,
+  "training_rows": 815,
+  "validation_rows": 74,
+  "optimizer_steps": 400,
+  "finished_utc": "2026-10-26T00:22:29.311930+00:00",
+  "elapsed_seconds": 1.2086777687072754,
+  "best_weights_sha256": "09e8eea1851b750f2da9bb1b27f73c1100002ebc1f3ab88a383024d8721c50ef",
+  "best_epoch": 100,
+  "epochs_run": 100,
+  "stop_reason": "maximum epochs"
+}

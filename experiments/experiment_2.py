@@ -24,7 +24,7 @@ def load():
         splits[s]=(x.to_numpy(dtype=np.float32),y.target_result.map({c:i for i,c in enumerate(CLASSES)}).to_numpy(),meta)
     return schema,splits
 
-from experiments.train import fit
+from experiments.epoch_training import fit
 
 def score(y,p):
     assert np.isfinite(p).all() and np.allclose(p.sum(1),1,atol=1e-6)
@@ -38,7 +38,7 @@ def run(fine_tune=True):
     schema,splits=load(); folder=ROOT/'results'/'experiment_2'/time.strftime('run_%Y%m%dT%H%M%S',time.gmtime());folder.mkdir(parents=True,exist_ok=False)
     xt,yt,mt=splits['train']; xv,yv,mv=splits['validation']; a=arsenal(mt);av=arsenal(mv)
     inputs={f'{s}/{n}.csv':digest(DATA/f'data/{s}/{n}.csv') for s in splits for n in ['X','y','index']}
-    (folder/'run_manifest.json').write_text(json.dumps({'config':CONFIG,'classes':CLASSES,'features':schema['features'],'input_sha256':inputs,'code_sha256':digest(__file__),'python':platform.python_version(),'torch':torch.__version__,'numpy':np.__version__,'single_seed':True,'experiment':2,'label':'reproducibility rerun; test results already inspected','workflow':['arsenal_mlp','independent league_mlp','optional league_to_arsenal_mlp'],'fine_tuning_enabled':fine_tune,'experiment_1_commit':'a31974478432a717fb2986887e81f8739990ea17','training_code_sha256':digest(ROOT/'experiments/train.py')},indent=2))
+    (folder/'run_manifest.json').write_text(json.dumps({'config':CONFIG,'classes':CLASSES,'features':schema['features'],'input_sha256':inputs,'code_sha256':digest(__file__),'python':platform.python_version(),'torch':torch.__version__,'numpy':np.__version__,'single_seed':True,'experiment':2,'label':'reproducibility rerun; test results already inspected','workflow':['arsenal_mlp','independent league_mlp','optional league_to_arsenal_mlp'],'fine_tuning_enabled':fine_tune,'experiment_1_commit':'a31974478432a717fb2986887e81f8739990ea17','training_code_sha256':digest(ROOT/'experiments/epoch_training.py'),'reference_training_code_sha256':digest(ROOT/'experiments/train.py')},indent=2))
     predictors={};training=[]
     for name,mask in [('arsenal_mlp',a),('league_mlp',np.ones(len(xt),dtype=bool))]:
         predictors[name],info=fit(name,(xt[mask],yt[mask]),(xv[av],yv[av]),folder,schema['features']);training.append(info)
