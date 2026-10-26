@@ -47,3 +47,13 @@ GitHub renders the executed notebooks directly. Optional HTML previews can be ge
 ## Interpretation and reuse
 
 Test results had already been inspected, and descriptive plots of that period are disclosed as such. No new seed, split, architecture or tuning rule was selected to force changed performance. Retain [the source reuse notice](../DATA_REUSE_NOTICE.md) for redistribution. Repository visibility is unchanged.
+
+## Test existing frozen models without training
+
+Open [Frozen_Model_Test_Review.ipynb](../notebooks/Frozen_Model_Test_Review.ipynb) in Jupyter and run all cells. Or, with the optional development dependencies installed:
+
+```bash
+python -m jupyter nbconvert --execute --to notebook --inplace notebooks/Frozen_Model_Test_Review.ipynb
+```
+
+This standalone companion reads the frozen test features and model artifacts, writes only `results/test_review/` and its own notebook outputs, and verifies original inputs/study artifacts are unchanged. It does not call the training executor. The complete held-out fixture lists and model-specific verdict tables are linked from [the review index](../results/test_review/README.md).

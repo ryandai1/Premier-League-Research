@@ -1,0 +1,11 @@
+{
+  "notebook": "notebooks/Frozen_Model_Test_Review.ipynb",
+  "notebook_sha256": "7a6abeb78a3fc9d9e2311248fb73d25a2e0ca0f0a22133f85ac96ee8affdd801",
+  "executed_code_cells": 5,
+  "notebook_schema_valid": true,
+  "all_six_arsenal_tables_have_75_rows": true,
+  "all_original_artifact_hashes_unchanged": true,
+  "html_preview_generated": true,
+  "browser_visual_inspection": "Rendered notebook HTML in Chromium; inspected opening section and full first-season fixture table screenshots. Six HTML tables present; no page-level horizontal overflow at 1500px.",
+  "inference_only": true
+}

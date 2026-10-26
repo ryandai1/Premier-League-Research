@@ -6,6 +6,8 @@ A fresh, controlled notebook sequence for Arsenal win/draw/loss probabilities. R
 2. **[Model development, controls and every training epoch](notebooks/02_models_and_training.ipynb)**
 3. **[Frozen evaluation and results](notebooks/03_evaluation_and_results.ipynb)**
 
+**Inspect the held-out test:** [load frozen models without retraining](notebooks/Frozen_Model_Test_Review.ipynb) · [all test fixtures and match-by-match verdict tables](results/test_review/README.md). The companion preserves the three-notebook experiment and its artifacts.
+
 Previous generated results and notebooks were removed from the current tree. The new results were produced by executing all three notebooks from an empty model directory; no old model or prediction file is loaded. Earlier work remains recoverable from Git history. [Reset record](docs/reset_2026-10-26.md).
 
 **Reproducibility rerun after test inspection.** This is a fresh execution of fixed methods on a previously inspected test period, not new independent confirmatory evidence.

@@ -7,3 +7,7 @@
 Each notebook executes in a fresh kernel. Stage guards prevent starting training before the data audit or evaluating before model freezing. Notebook 01 refuses an existing `results/current/`; move/preserve it deliberately before a new run. Never run the notebook builder merely to view results: it regenerates unexecuted notebook sources. Use the saved executed notebooks for inspection.
 
 [Reproduce](../docs/reproduction.md) · [Protocol](../EXPERIMENT_PROTOCOL.md) · [Execution record](../results/current/notebook_execution.json)
+
+## Inference-only companion
+
+[Inspect the held-out test with frozen models](Frozen_Model_Test_Review.ipynb) runs independently of the numbered sequence. It loads the existing checkpoints, scores the original 732 test fixtures (75 Arsenal), and exports actual outcomes and probabilities to [results/test_review/](../results/test_review/README.md). It performs no fitting or selection and verifies the original data/models/study outputs remain unchanged. Open it directly in Jupyter and run all cells; do not invoke the training executor for this task.

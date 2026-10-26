@@ -1,0 +1,61 @@
+{
+  "mode": "frozen-model inference only; previously inspected held-out test",
+  "started_at_shanghai": "2026-10-26T15:22:01.710891+08:00",
+  "finished_at_shanghai": "2026-10-26T15:22:01.972003+08:00",
+  "frozen_run_id": "e3ceec90-4b79-4a9f-a6dc-b2dd43e67546",
+  "selected_model_unchanged": "league_logistic",
+  "models_scored": [
+    "arsenal_mlp",
+    "league_mlp",
+    "league_to_arsenal_mlp",
+    "league_logistic",
+    "arsenal_logistic",
+    "league_prior"
+  ],
+  "test_rows": 732,
+  "arsenal_test_rows": 75,
+  "training_performed": false,
+  "original_inputs_and_study_artifacts_unchanged": true,
+  "protected_file_count": 128,
+  "input_sha256": {
+    "data/test/X.csv": "34af885d8a9c3603a0c2562d55221c08e836198a230c27e093b8ea261529ac11",
+    "data/test/y.csv": "56ee47dd2968bbeb391c486455d1985279aa601d6412db769aeddad5d6d1cdae",
+    "data/test/index.csv": "45baeac21b715b9d481894f55cabcfb5493da2b9819b132de396f88b5219b668"
+  },
+  "model_sha256": {
+    "league_mlp_best.pt": "0416130b3fd2eab7db5f86512162569e862c82f5014f61160ef1aeff396838b0",
+    "league_to_arsenal_mlp_best.pt": "196f1914616dcd22d3ec8d6ddc37560140bdc9eb10cf94762bd7b97e07074d2d",
+    "league_logistic.npz": "10af9d60036d65faa30938a6b5ea1e0bc9151472b8e4d6ba5365aef923ca5ed8",
+    "league_prior.npy": "7a3f2961b06127ad2c0d20d2822200261fd033d70530007197d1145b97b26802",
+    "arsenal_logistic.npz": "27a2aa676d8915a05dcc96760e9d984f6f0014e4031e5bf27488f31d7bfd4c4f",
+    "arsenal_mlp_best.pt": "66a872e6c2b7e900069cf1e1c178b02f47494040c1f9a1919f4643fa320b45ff"
+  },
+  "python": "3.12.14",
+  "torch": "2.5.1+cpu",
+  "numpy": "2.3.5",
+  "metrics_match_frozen_evaluation": true,
+  "export_sha256": {
+    "neural_model_fixture_comparison.csv": "ed9e0dd90a41711b85cbb63ec9849a00788975c27187553b1bb4211e53f9058a",
+    "league_mlp_arsenal_test_review.csv": "e805c6705c1333d185cde59beee3aa6efe0698a31ba3bb9cc84b3d41f47f4975",
+    "arsenal_logistic_arsenal_test_review.md": "1d6c4ee5a5bd3e903728964141b106179c5fda7c874438c7fbcc053e9c77984c",
+    "arsenal_mlp_arsenal_test_review.csv": "5e76180e643ac80030a17f3cfe17d0e791e35f16b3b25be9827407f4e779e2de",
+    "arsenal_test_fixtures.csv": "e26003a57254ce2eb92cac6b012197892d5ff9d18e9c715b580d70282dc40022",
+    "league_prior_arsenal_test_review.md": "e150ab3213694a5152685b4c4b01f5a91a863299f7d93bee8b2da1b89ddd6a3c",
+    "held_out_test_fixtures.csv": "9b552dd29dd6ca4a1ffde200de8731c106a565aa5e906fcb5982f6c8a7462af5",
+    "league_logistic_arsenal_test_review.md": "e2638365317f45e87c98eb963aa7bba4c447f3bf31bfbeae0d9f4bbb8bdc4951",
+    "league_logistic_arsenal_test_review.csv": "51532596e8e294eb580f397acdb025b888e84b745684dab7109868065de15e56",
+    "league_to_arsenal_mlp_all_test_predictions.csv": "9db226a99093ca5cb51bf316941736befe9ac7daaedd71e3301994cfd1ce406b",
+    "league_prior_all_test_predictions.csv": "65ba7cfd9a8049a26c98ea29d937e35d9fafd4da6e6a7df7981c9e719489a0b1",
+    "league_prior_arsenal_test_review.csv": "05dcb99f708a7ba9b7bd07d04397aea42eea2d7a54ba6172e4dd7bc38888517b",
+    "league_to_arsenal_mlp_arsenal_test_review.csv": "16eb1baff84a271bbc4ef6feac7892ad7e16856a5887aaef571d7ff5a302bca0",
+    "league_logistic_all_test_predictions.csv": "20b810d6523ce942a426abc5a8e390e638298b9c8efd8e724d0807346e7c51d6",
+    "arsenal_logistic_all_test_predictions.csv": "c350724d6a00a5397ab0807f0a9ad02c96aec95e197559b73853f4c9b2907133",
+    "arsenal_mlp_arsenal_test_review.md": "523c3a35278200fb61397f11a50f07eb155b8258f3bbed3d20c14ff8c5a0638c",
+    "league_to_arsenal_mlp_arsenal_test_review.md": "b41f0ec11face04da12677c0381fd5026b9bacb312d37f5383e676071a5a2b28",
+    "arsenal_logistic_arsenal_test_review.csv": "cebe54e27886b515be147c9970dc5ee50bcc539d3efcdca14857538ca1ef3bff",
+    "arsenal_mlp_all_test_predictions.csv": "36b0fd6c0b32abc90817355074255c1b3d7526aa2dfe5f141aee3a6487ea1152",
+    "league_mlp_all_test_predictions.csv": "846af45c8f330f382887c8b0a92c6d950efbb5d03292c0eb9449135ee3dc18e1",
+    "metrics.csv": "4607631ed714e6a8bf13d64a0e186f0442c745b9c14875a41e6b0f68d63b085a",
+    "league_mlp_arsenal_test_review.md": "91b0686330900cb2556f3f74fb79253b0e9ddabacaba94fca281de44bd14416f"
+  }
+}

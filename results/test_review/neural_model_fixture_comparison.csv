@@ -1,0 +1,76 @@
+date,opponent,venue,actual_arsenal,arsenal_mlp,league_mlp,league_to_arsenal_mlp
+2024-08-17,Wolves,Home,Win,Win,Win,Win
+2024-08-24,Aston Villa,Away,Win,Win,Win,Win
+2024-08-31,Brighton,Home,Draw,Win,Win,Win
+2024-09-15,Tottenham,Away,Win,Loss,Loss,Loss
+2024-09-22,Manchester City,Away,Draw,Loss,Loss,Loss
+2024-09-28,Leicester,Home,Win,Win,Win,Win
+2024-10-05,Southampton,Home,Win,Win,Win,Win
+2024-10-19,Bournemouth,Away,Loss,Win,Win,Win
+2024-10-27,Liverpool,Home,Draw,Win,Win,Win
+2024-11-02,Newcastle,Away,Loss,Win,Win,Win
+2024-11-10,Chelsea,Away,Draw,Loss,Win,Win
+2024-11-23,Nottingham Forest,Home,Win,Win,Win,Win
+2024-11-30,West Ham,Away,Win,Win,Win,Win
+2024-12-04,Manchester United,Home,Win,Win,Win,Win
+2024-12-08,Fulham,Away,Draw,Win,Win,Win
+2024-12-14,Everton,Home,Draw,Win,Win,Win
+2024-12-21,Crystal Palace,Away,Win,Win,Win,Win
+2024-12-27,Ipswich,Home,Win,Win,Win,Win
+2025-01-01,Brentford,Away,Win,Win,Win,Win
+2025-01-04,Brighton,Away,Draw,Win,Win,Win
+2025-01-15,Tottenham,Home,Win,Win,Win,Win
+2025-01-18,Aston Villa,Home,Draw,Win,Win,Win
+2025-01-25,Wolves,Away,Win,Win,Win,Win
+2025-02-02,Manchester City,Home,Win,Win,Win,Win
+2025-02-15,Leicester,Away,Win,Win,Win,Win
+2025-02-22,West Ham,Home,Loss,Win,Win,Win
+2025-02-26,Nottingham Forest,Away,Draw,Win,Win,Win
+2025-03-09,Manchester United,Away,Draw,Win,Win,Win
+2025-03-16,Chelsea,Home,Win,Win,Win,Win
+2025-04-01,Fulham,Home,Win,Win,Win,Win
+2025-04-05,Everton,Away,Draw,Win,Win,Win
+2025-04-12,Brentford,Home,Draw,Win,Win,Win
+2025-04-20,Ipswich,Away,Win,Win,Win,Win
+2025-04-23,Crystal Palace,Home,Draw,Win,Win,Win
+2025-05-03,Bournemouth,Home,Loss,Win,Win,Win
+2025-05-11,Liverpool,Away,Draw,Loss,Loss,Loss
+2025-05-18,Newcastle,Home,Win,Win,Win,Win
+2025-05-25,Southampton,Away,Win,Win,Win,Win
+2025-08-17,Manchester United,Away,Win,Loss,Win,Win
+2025-08-31,Liverpool,Away,Loss,Loss,Loss,Loss
+2025-09-13,Nottingham Forest,Home,Win,Win,Win,Win
+2025-09-21,Manchester City,Home,Draw,Win,Win,Win
+2025-09-28,Newcastle,Away,Win,Loss,Win,Win
+2025-10-04,West Ham,Home,Win,Win,Win,Win
+2025-10-18,Fulham,Away,Win,Win,Win,Win
+2025-10-26,Crystal Palace,Home,Win,Win,Win,Win
+2025-11-01,Burnley,Away,Win,Win,Win,Win
+2025-11-08,Sunderland,Away,Draw,Win,Win,Win
+2025-11-23,Tottenham,Home,Win,Win,Win,Win
+2025-11-30,Chelsea,Away,Draw,Loss,Win,Win
+2025-12-03,Brentford,Home,Win,Win,Win,Win
+2025-12-06,Aston Villa,Away,Loss,Loss,Win,Win
+2025-12-13,Wolves,Home,Win,Win,Win,Win
+2025-12-20,Everton,Away,Win,Win,Win,Win
+2025-12-27,Brighton,Home,Win,Win,Win,Win
+2025-12-30,Aston Villa,Home,Win,Win,Win,Win
+2026-01-03,Bournemouth,Away,Win,Win,Win,Win
+2026-01-08,Liverpool,Home,Draw,Win,Win,Win
+2026-01-17,Nottingham Forest,Away,Draw,Win,Win,Win
+2026-01-25,Manchester United,Home,Loss,Win,Win,Win
+2026-01-31,Leeds,Away,Win,Win,Win,Win
+2026-02-07,Sunderland,Home,Win,Win,Win,Win
+2026-02-12,Brentford,Away,Draw,Win,Win,Win
+2026-02-18,Wolves,Away,Draw,Win,Win,Win
+2026-02-22,Tottenham,Away,Win,Win,Win,Win
+2026-03-01,Chelsea,Home,Win,Win,Win,Win
+2026-03-04,Brighton,Away,Win,Win,Win,Win
+2026-03-14,Everton,Home,Win,Win,Win,Win
+2026-04-11,Bournemouth,Home,Loss,Win,Win,Win
+2026-04-19,Manchester City,Away,Loss,Loss,Loss,Loss
+2026-04-25,Newcastle,Home,Win,Win,Win,Win
+2026-05-02,Fulham,Home,Win,Win,Win,Win
+2026-05-10,West Ham,Away,Win,Win,Win,Win
+2026-05-18,Burnley,Home,Win,Win,Win,Win
+2026-05-24,Crystal Palace,Away,Win,Win,Win,Win
