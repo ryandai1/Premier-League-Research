@@ -75,3 +75,5 @@ python -m unittest discover -s tests -v
 | [tests/](tests/README.md) | Current-study behavioral and provenance checks |
 
 Third-party source attribution and restrictions remain in [DATA_REUSE_NOTICE.md](DATA_REUSE_NOTICE.md). Repository visibility has not been changed.
+
+Fixed Arsenal-only Random Forest and dummy benchmarks: [execution and reproduction](results/arsenal_benchmarks/README.md).
